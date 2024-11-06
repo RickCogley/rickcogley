@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo. We started in 1999, and hope to remain healthy, even through COVID! 
+I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
 
-I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late 80s, but mostly, I like how things are now! 
+I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late 80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
 
 [🔑 PGP Public Key](https://cogley.jp/pgp)
 
