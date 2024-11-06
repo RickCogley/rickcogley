@@ -6,7 +6,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 [🔑 PGP Public Key](https://cogley.jp/pgp) | [🧾 Lightweight Proof at Proven](https://proven.lol/6265e6)
 
-[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley)](https://github.com/anuraghazra/github-readme-stats)
+[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RickCogley/rickcogley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
