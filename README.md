@@ -4,6 +4,8 @@ I'm the founder of a boutique IT services company called [eSolia](https://esolia
 
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late 80s, but mostly, I like how things are now! 
 
+[PGP Public Key](https://cogley.jp/pgp)
+
 <!--
 **RickCogley/rickcogley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
