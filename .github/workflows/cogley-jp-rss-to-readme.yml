@@ -1,0 +1,20 @@
+name: Update this repo's README
+
+on:
+  push:
+    # Run on main branch pushes
+    branches: [main]
+  # Allow to manually trigger the workflow
+  workflow_dispatch:
+  schedule:
+    # Rebuild every day at 9:06 PM UTC
+    - cron: "6 21 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://cogley.jp/feed.xml
+          readme-section: feed
