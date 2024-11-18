@@ -18,4 +18,3 @@ jobs:
         with:
           feed-url: https://cogley.jp/feed.xml
           readme-section: feed
-          template: "> {{ excerpt }}\n\n[More!]({{ url }})"
