@@ -11,10 +11,23 @@ on:
     - cron: "6 21 * * *"
 
 jobs:
-  update:
+  pull_blog_rss:
+    name: Update with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
         with:
-          feed-url: https://cogley.jp/feed.xml
-          readme-section: feed
+          feed_url: https://cogley.jp/feed.xml
+          count: 6 # default 5
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'James R. Cogley'
+            git config --global user.email 'rick.cogley@esolia.co.jp'
+            git add .
+            git diff --quiet --cached || git commit -m "Update README"    
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
