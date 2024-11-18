@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update README with latest articles
-        uses: Prachi-Jamdade/Prachi-Jamdade@v1.1.0
+        uses: Prachi-Jamdade/Prachi-Jamdade@v1.2.0
         with:
           feed_urls: 'https://cogley.jp/feed.xml'
           article_limit: 5
