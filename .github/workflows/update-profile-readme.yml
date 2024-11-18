@@ -1,0 +1,26 @@
+name: Update Profile README
+
+on:
+  push:
+    # Run on main branch pushes
+    branches: [main]
+  # Allow to manually trigger the workflow
+  workflow_dispatch:
+  schedule:
+    # Rebuild every day at 9:06 PM UTC
+    - cron: "6 21 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with latest articles
+        uses: Prachi-Jamdade/Prachi-Jamdade@v1.1.0
+        with:
+          feed_urls: 'https://cogley.jp/feed.xml'
+          article_limit: 5
+          article_type: 'recent'
+          github_token: ${{ secrets.TOKEN_GITHUB }}
