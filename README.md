@@ -9,7 +9,11 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 ### Latest Blog Posts:
 
 <!--START_SECTION:feed-->
-...
+* [](https:&#x2F;&#x2F;cogley.jp&#x2F;2024&#x2F;11&#x2F;18&#x2F;went-with-friend.html)
+* [](https:&#x2F;&#x2F;cogley.jp&#x2F;2024&#x2F;11&#x2F;08&#x2F;blueskys-at-protocol.html)
+* [](https:&#x2F;&#x2F;cogley.jp&#x2F;2024&#x2F;11&#x2F;08&#x2F;we-installed-a.html)
+* [](https:&#x2F;&#x2F;cogley.jp&#x2F;2024&#x2F;11&#x2F;07&#x2F;maru-the-shiba.html)
+* [](https:&#x2F;&#x2F;cogley.jp&#x2F;2024&#x2F;11&#x2F;07&#x2F;lately-were-building.html)
 <!--END_SECTION:feed-->
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
