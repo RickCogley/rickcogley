@@ -7,8 +7,8 @@ I'm the founder of a boutique IT services company called [eSolia](https://esolia
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
 
 [🔑 PGP Public Key](https://cogley.jp/pgp) | [🧾 Lightweight Proof at Proven](https://proven.lol/6265e6)
-![Static Badge](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie&link=https%3A%2F%2Fcogley.jp%2Fpgp)
-
+  
+[![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,6 +34,6 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Total Files | 1 |
-| Repo Size in MB | 109 |
+| Repo Size in MB | 110 |
 
 
