@@ -69,7 +69,11 @@ fetchAndConvertRSS(rssUrl,limit).then(console.log).catch(console.error);
 export const statuses = await fetchAndConvertRSS(rssUrl,limit);
 
 const rssUrl2 = "https://cogley.jp/feed.xml";
-// const limit = 5;
-fetchAndConvertRSS(rssUrl2,limit).then(console.log).catch(console.error);
-export const microblogposts = await fetchAndConvertRSS(rssUrl2,limit);
+const limit2 = 5;
+fetchAndConvertRSS(rssUrl2,limit2).then(console.log).catch(console.error);
+export const microblogposts = await fetchAndConvertRSS(rssUrl2,limit2);
 
+const rssUrl3 = "https://bsky.app/profile/did:plc:vc7gwsfznu7ct7isottesibn/rss";
+const limit3 = 5;
+fetchAndConvertRSS(rssUrl3,limit3).then(console.log).catch(console.error);
+export const bskyposts = await fetchAndConvertRSS(rssUrl3,limit3);

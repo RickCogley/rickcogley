@@ -11,17 +11,18 @@ I'm the founder of a boutique IT services company called [eSolia](https://esolia
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
 
 [🔑 PGP Public Key](https://cogley.jp/pgp) | [🧾 Lightweight Proof at Proven](https://proven.lol/6265e6)
+![Static Badge](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie&link=https%3A%2F%2Fcogley.jp%2Fpgp)
+
+
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
-
 {{ for item of statuses.entries }}* [{{ item.description.value }}]({{ item.id }})
 {{ /for }}
 
-## Latest Blog Posts:
-{{# slice(9,80) #}}
-{{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
+## Latest Bluesky Posts:
+{{ for item of bskyposts.entries }}* [{{ item.description.value }}]({{ item.links.href }})
 {{ /for }}
 
 ## Repo Stats:
@@ -30,3 +31,8 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | --- | --- |
 | Total Files | {{ search.files("").length }} |
 | Repo Size in MB | {{ repoSizeKB }} |
+
+
+{{# ## Latest Blog Posts:
+{{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
+{{ /for }} #}}
