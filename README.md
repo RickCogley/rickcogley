@@ -7,11 +7,13 @@ I'm the founder of a boutique IT services company called [eSolia](https://esolia
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
 
 [🔑 PGP Public Key](https://cogley.jp/pgp) | [🧾 Lightweight Proof at Proven](https://proven.lol/6265e6)
+![Static Badge](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie&link=https%3A%2F%2Fcogley.jp%2Fpgp)
+
+
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
-
 * [🕊️ Netflix&#039;s The Diplomat is good stuff; loving the acting and banter. Twistiness makes you go back to watch earlier scenes.](https://rick.status.lol/673b15ef5661b)
 * [👐 Kicking the Bluesky tires. https://bsky.app/profile/cogley.jp](https://rick.status.lol/672dcd8a48aad)
 * [🚀 Testing lume CMS on a few sites, now on a vps so we get the benefit of live preview.](https://rick.status.lol/672ca9ac68461)
@@ -19,13 +21,12 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🤗 Daughter getting out of hospital today which I’m grateful for!](https://rick.status.lol/6706ce3c33125)
 
 
-## Latest Blog Posts:
-
-* [Went with friend Dave to see the Drum Corps Japan Championship at Carlo ...](http://rickcogley.micro.blog/2024/11/18/went-with-friend.html)
-* [Bluesky&amp;rsquo;s &amp;ldquo;AT Protocol&amp;rdquo; for identity is c ...](http://rickcogley.micro.blog/2024/11/08/blueskys-at-protocol.html)
-* [We installed a physical security system in May. After telling the clien ...](http://rickcogley.micro.blog/2024/11/08/we-installed-a.html)
-* [Maru the Shiba was &amp;ldquo;helping&amp;rdquo; Akko read the paper th ...](http://rickcogley.micro.blog/2024/11/07/maru-the-shiba.html)
-* [Lately we&amp;rsquo;re building websites in the fantastic «&lt;a href=& ...](http://rickcogley.micro.blog/2024/11/07/lately-were-building.html)
+## Latest Bluesky Posts:
+* [Went with friend Dave to see the Drum Corps Japan Championship at Carlos Ghohn Memorial Stadium 😅 as he calls it (aka Nissan Stadium), and it was a fantastic long day of great performances. Even the really small corps were excellent, employing creative solutions to their size challenges. 🎼]()
+* [Bluesky’s “AT Protocol” for identity is cool. I set up my handle as @cogley.jp in one easy step using a TXT record in DNS. Slick! 😎]()
+* [Lately we&#39;re building websites in the fantastic @lumeland.bsky.social by oscarotero.com, and using its companion CMS to make editing easier for users. The CMS runs on Deno Deploy, or in a VPS like those from Digital Ocean and the latter provides an awesome live preview capability. 🚀]()
+* [We installed a physical security system in May. After telling the client yesterday during a conversation about extended warranty that “security panels don’t really break very often”, of course THIS AM the security panel is failing and we are scrambling. From my lips to God’s ears?! 🚨]()
+* [Maru the Shiba was “helping” Akko read the paper this AM. Cuteness overload every day. 🐕]()
 
 
 ## Repo Stats:
@@ -33,4 +34,6 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Total Files | 1 |
-| Repo Size in MB | 108 |
+| Repo Size in MB | 109 |
+
+
