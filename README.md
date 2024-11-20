@@ -1,3 +1,5 @@
+**Today is:** Wednesday, November 20, 2024
+
 ### Hi there 👋
 
 I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
@@ -6,24 +8,20 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 [🔑 PGP Public Key](https://cogley.jp/pgp) | [🧾 Lightweight Proof at Proven](https://proven.lol/6265e6)
 
-<!-- ARTICLES -->
-
-<!-- /ARTICLES -->
-
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**RickCogley/rickcogley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Latest Statuses:
 
-Here are some ideas to get you started:
+* [🕊️ Netflix&#039;s The Diplomat is good stuff; loving the acting and banter. Twistiness makes you go back to watch earlier scenes.](https://rick.status.lol/673b15ef5661b)
+* [👐 Kicking the Bluesky tires. https://bsky.app/profile/cogley.jp](https://rick.status.lol/672dcd8a48aad)
+* [🚀 Testing lume CMS on a few sites, now on a vps so we get the benefit of live preview.](https://rick.status.lol/672ca9ac68461)
+* [😑 We arranged for my MIL to live in a care home, and we all have mixed feelings, but she needs that kind of help.](https://rick.status.lol/672b4f07ca0b2)
+* [🤗 Daughter getting out of hospital today which I’m grateful for!](https://rick.status.lol/6706ce3c33125)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+## Repo Stats:
+
+| Item | Value |
+| --- | --- |
+| Total Files | 1 |
+| Repo Size in MB | 124 |

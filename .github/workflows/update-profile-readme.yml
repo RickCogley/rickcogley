@@ -11,16 +11,37 @@ on:
     - cron: "6 21 * * *"
 
 jobs:
-  update-readme:
+  build:
+    # What OS to use
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    # Allow commits to the repository
+    permissions:
+      id-token: write
+      contents: write
 
-      - name: Update README with latest articles
-        uses: Prachi-Jamdade/Prachi-Jamdade@v1.2.0
+    # What steps to run
+    steps:
+      - name: Clone repository
+        # Git clone the repository
+        uses: actions/checkout@v4
         with:
-          feed_urls: 'https://cogley.jp/feed.xml'
-          article_limit: 5
-          article_type: 'recent'
-          github_token: ${{ secrets.TOKEN_GITHUB }}
+          ref: ${{ github.head_ref }}
+
+      - name: Setup Deno environment
+        # Downloads deno and caches it
+        uses: denoland/setup-deno@v2
+        with:
+          # Latest Deno 2.x version
+          deno-version: v2.x
+
+      - name: Build site
+        # Run the build script from deno.json
+        run: deno task build
+
+      - name: Commit changes
+        # Commit the changes to the repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Apply changes during gh actions build
+          status_options: '--untracked-files=no'
+
