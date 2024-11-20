@@ -21,7 +21,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 ## Latest Blog Posts:
 {{# slice(9,80) #}}
-{{ for item of microblogposts.entries }}* [{{ item.description.value |> safe |> slice(9,80) |> split(" ") |> slice(0,7) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
+{{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,7) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
 {{ /for }}
 
 ## Repo Stats:
