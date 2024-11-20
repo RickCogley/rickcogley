@@ -21,11 +21,11 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 ## Latest Blog Posts:
 
-* [Went with friend Dave to see the ...](http://rickcogley.micro.blog/2024/11/18/went-with-friend.html)
+* [Went with friend Dave to see the Drum Corps Japan ...](http://rickcogley.micro.blog/2024/11/18/went-with-friend.html)
 * [Bluesky&amp;rsquo;s &amp;ldquo;AT Protocol&amp;rdquo; for identity is c ...](http://rickcogley.micro.blog/2024/11/08/blueskys-at-protocol.html)
-* [We installed a physical security system in ...](http://rickcogley.micro.blog/2024/11/08/we-installed-a.html)
-* [Maru the Shiba was &amp;ldquo;helping&amp;rdquo; Akko read ...](http://rickcogley.micro.blog/2024/11/07/maru-the-shiba.html)
-* [Lately we&amp;rsquo;re building websites in the fantastic ...](http://rickcogley.micro.blog/2024/11/07/lately-were-building.html)
+* [We installed a physical security system in May. After telling ...](http://rickcogley.micro.blog/2024/11/08/we-installed-a.html)
+* [Maru the Shiba was &amp;ldquo;helping&amp;rdquo; Akko read the paper th ...](http://rickcogley.micro.blog/2024/11/07/maru-the-shiba.html)
+* [Lately we&amp;rsquo;re building websites in the fantastic «&lt;a href=& ...](http://rickcogley.micro.blog/2024/11/07/lately-were-building.html)
 
 
 ## Repo Stats:
