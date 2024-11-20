@@ -19,6 +19,11 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 {{ for item of statuses.entries }}* [{{ item.description.value }}]({{ item.id }})
 {{ /for }}
 
+## Latest Blog Posts:
+
+{{ for item of microblogposts.entries }}* [{{ item.description.value }}]({{ item.id }})
+{{ /for }}
+
 ## Repo Stats:
 
 | Item | Value |

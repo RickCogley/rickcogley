@@ -67,3 +67,9 @@ const rssUrl = "https://rick.status.lol/feed/rss";
 const limit = 5;
 fetchAndConvertRSS(rssUrl,limit).then(console.log).catch(console.error);
 export const statuses = await fetchAndConvertRSS(rssUrl,limit);
+
+const rssUrl2 = "https://cogley.jp/feed.xml";
+// const limit = 5;
+fetchAndConvertRSS(rssUrl2,limit).then(console.log).catch(console.error);
+export const microblogposts = await fetchAndConvertRSS(rssUrl2,limit);
+
