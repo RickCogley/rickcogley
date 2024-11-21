@@ -18,9 +18,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
-* [Went with friend Dave to see the Drum Corps Japan Championship at Carlos Ghohn Memorial Stadium 😅 as he calls it (aka Nissan Stadium), and it was a fantastic long day of great performances. Even the really small corps were excellent, employing creative solutions to their size challenges. 🎼]()
-* [Bluesky’s “AT Protocol” for identity is cool. I set up my handle as @cogley.jp in one easy step using a TXT record in DNS. Slick! 😎]()
-* [Lately we&#39;re building websites in the fantastic @lumeland.bsky.social by oscarotero.com, and using its companion CMS to make editing easier for users. The CMS runs on Deno Deploy, or in a VPS like those from Digital Ocean and the latter provides an awesome live preview capability. 🚀]()
+* [Went with friend Dave to see the Drum Corps Japan Championship at Carlos Ghohn Memorial Stadium 😅 as he calls it (aka Nissan Stadium), and it was a fantastic long day of great performances. Even the really small corps were excellent, employing creative solutions to their size challenges. 🎼](https://bsky.app/profile/cogley.jp/post/3lb6tz2jm3k2w)
+* [Bluesky’s “AT Protocol” for identity is cool. I set up my handle as @cogley.jp in one easy step using a TXT record in DNS. Slick! 😎](https://bsky.app/profile/cogley.jp/post/3lagfus2axt2c)
+* [Lately we&#39;re building websites in the fantastic @lumeland.bsky.social by oscarotero.com, and using its companion CMS to make editing easier for users. The CMS runs on Deno Deploy, or in a VPS like those from Digital Ocean and the latter provides an awesome live preview capability. 🚀](https://bsky.app/profile/cogley.jp/post/3lafkctaf672t)
 
 
 ## Repo Stats:
