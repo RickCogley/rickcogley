@@ -17,7 +17,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 {{ /for }}
 
 ## Latest Bluesky Posts:
-{{ for item of bskyposts.entries }}* [{{ item.description.value }}]({{ item.links.href }})
+{{ for item of bskyposts.entries }}* [{{ item.description.value }}]({{ item.links[0].href }})
 {{ /for }}
 
 ## Repo Stats:
