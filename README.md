@@ -28,6 +28,6 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Total Files | 5 |
-| Repo Size in MB | 4652 |
+| Repo Size in MB | 4469 |
 
 
