@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.vto
 url: /
+date: Git Last Modified
 header:
   title: Rick Cogley
   description: Make a dynamic Github profile with Lume SSG!
@@ -117,9 +118,9 @@ on:
     - cron: "6 21 * * *"
 ```
 
-## How to use?
+## How to get yours?
 
-Go to the repo, "use this template" then tweak it how you like. 
+Go to my [profile repo](https://github.com/rickcogley/rickcogley), and click "use this template" to make your own copy. If you don't have a profile repo already, save the repo as your username. Then tweak it how you like including updating the RSS feeds. Or, setup Deno and Lume, and copy in the files manually. 
 
 ## Is it good? 
 

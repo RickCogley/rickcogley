@@ -11,6 +11,7 @@
     <meta name="theme-color" content="hsl(220, 20%, 10%)" media="(prefers-color-scheme: dark)">
 
     <link rel="stylesheet" href="/styles.css">
+    {{# <link rel="stylesheet" href="/css/code_theme.css"> #}}
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
     <link rel="canonical" href="{{ url |> url(true) }}">
 
@@ -36,7 +37,7 @@
 
         <img class="header-avatar" src="{{ header.avatar }}" alt="Avatar" transform-images="webp avif 200@2">
         <h1 class="header-title">{{ header.title }}</h1>
-        {{ header.description |> md }}
+        {{ header.description |> md |> toUpperCase() }}
       </header>
       <article>
       {{ content }}
@@ -79,6 +80,7 @@
     {{ if footer }}
       <footer>
         {{ footer |> md }}
+        <p class="header-description"><small>Updated {{ date }}</small></p>
       </footer>
     {{ /if }}
   </body>

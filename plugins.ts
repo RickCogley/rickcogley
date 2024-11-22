@@ -6,6 +6,8 @@ import favicon from "lume/plugins/favicon.ts";
 import metas from "lume/plugins/metas.ts";
 import postcss from "lume/plugins/postcss.ts";
 import transformImages from "lume/plugins/transform_images.ts";
+import prism from "lume/plugins/prism.ts";
+import { getGitDate } from "lume/core/utils/date.ts";
 
 /** Configure the site */
 export default function () {
@@ -17,6 +19,7 @@ export default function () {
       .mergeKey("extra_head", "stringArray")
       .use(transformImages())
       .use(simpleIcons())
+      .use(prism())
 
     site.data("textColor", (hex: string) => {
       const color = new Color(`#${hex}`);
@@ -24,7 +27,17 @@ export default function () {
       const onBlack = Math.abs(color.contrastWCAG21("black"));
       return (onWhite + 0.5) > onBlack ? "white" : "black";
     });
-
+    
+    site.preprocess([".html"], (pages) => {
+      for (const page of pages) {
+        const src = page.src.entry?.src;
+    
+        if (src) {
+          page.data.lastmod = getGitDate("modified", src);
+        }
+      }
+    });
+    
     site.copy([".jpg", ".webp", ".png"]);
   };
 }
