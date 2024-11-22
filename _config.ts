@@ -3,6 +3,7 @@ import plugins from "./plugins.ts";
 
 const site = lume({
     src: "./src",
+    location: new URL("https://rickcogley.github.io/rickcogley"),
 });
 
 site.use(plugins());
