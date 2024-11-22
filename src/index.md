@@ -120,7 +120,7 @@ on:
 
 ## How to get yours?
 
-Go to my [profile repo](https://github.com/rickcogley/rickcogley), and click "use this template" to make your own copy. If you don't have a profile repo already, save the repo as your username. Then tweak it how you like including updating the RSS feeds. Or, setup Deno and Lume, and copy in the files manually. 
+Go to my [profile repo](https://github.com/rickcogley/rickcogley), and click "use this template" to make your own copy. If you don't have a profile repo already, save the repo as your username. Then tweak it how you like including updating the RSS feeds. Or, setup Deno and Lume, and copy in the files manually. Just Edit the `repo-readme.vto` Vento template in markdown format, save, commit and push. If the GH action is working right, Lume will generate the readme file and copy it into place, after which you can see it on your personal repo.
 
 ## Is it good? 
 
