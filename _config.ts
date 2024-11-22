@@ -1,6 +1,11 @@
 import lume from "lume/mod.ts";
+import plugins from "./plugins.ts";
 
-const site = lume();
+const site = lume({
+    src: "./src",
+});
+
+site.use(plugins());
 
 site.ignore("README.md");
 site.ignore("*.DS_Store");

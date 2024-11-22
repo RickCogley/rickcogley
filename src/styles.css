@@ -1,0 +1,49 @@
+/* Lume's design system */
+@import "https://unpkg.com/@lumeland/ds@0.5.2/ds.css";
+
+/* Custom components */
+@import "css/header.css";
+@import "css/link.css";
+
+body {
+  display: grid;
+  grid-template-columns: minmax(0, 600px);
+  grid-template-rows: 1fr auto;
+  min-height: 100vh;
+  text-align: center;
+  padding: max(20px, 5vh) 20px;
+  row-gap: 20px;
+  justify-content: center;
+  align-content: center;
+}
+
+main {
+  align-self: center;
+}
+
+article {
+  grid-template-columns: minmax(0, 800px);
+  text-align: left;
+  padding-bottom: 2em;
+  img {
+    max-width: 100%;
+    border: .5px solid palegoldenrod;
+  }
+}
+
+footer {
+  font: var(--font-small);
+  color: var(--color-dim);
+
+  > * {
+    margin: 0;
+  }
+
+  > * + * {
+    margin-top: 1em;
+  }
+
+  a {
+    color: inherit;
+  }
+}
