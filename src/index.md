@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.vto
+url: /
 header:
   title: Rick Cogley
   description: Make a dynamic Github profile with Lume SSG!
@@ -11,24 +12,21 @@ metas:
   generator: true
   twitter: ''
 links:
-  - text: Website
+  - text: Lume
     href: 'https://lume.land'
-    type: ''
-  - type: mastodon
-    text: '@lume@fosstodon.org'
-    href: 'https://fosstodon.org/@lume'
+    type: fireship
+    only_icon: true
+  - type: javascript
+    text: 'Vento'
+    href: 'https://vento.js.org/'
+    only_icon: true
   - type: github
-    text: GitHub
-    href: 'https://github.com/lumeland/'
-  - type: spotify
-    text: Spotify
-    href: 'https://open.spotify.com/user/oscarotero'
-  - type: discord
-    text: Discord
-    href: 'https://discord.gg/YbTmpACHWB'
-  - type: opencollective
-    text: Open Collective
-    href: 'https://opencollective.com/lume'
+    text: Template Github (Rick's Profile)
+    href: 'https://github.com/rickcogley/rickcogley'
+    only_icon: true
+  - type: github
+    text: Lume Github
+    href: 'https://github.com/lumeland'
     only_icon: true
 footer: "Powered by [Lume](https://lume.land) & [SimpleMe](https://github.com/lumeland/theme-simple-me) theme"
 extra_head: ''
@@ -44,12 +42,17 @@ Github has a special feature where, the `README.md` from a repository with the s
 
 Lately I'm using possibly the world's coolest Static Site Generator «[Lume ルメ](https://lume.land/)», and its companion [Vento](https://vento.js.org/) templates, both coded by [Óscar Otero](https://oscarotero.com/). I had a thought that if I could use a Vento template to generate a markdown file in my `rickcogley` repository, I could somehow automatically copy the markdown file into the repository root, so that it appears on my Github profile. 
 
-It turns out, per Oscar, that all you need to do is set the Vento template's url to the name of your desired markdown file: `url: my-readme.md`. When Lume generates your site, it will just populate the readme with the content of the template. However with Vento, you can do SSG-template-y things like loop through lists, or pull in data. 
-
+It turns out, per Oscar, that all you need to do is set the Vento template's url to the name of your desired markdown file: `url: my-readme.md`. When Lume generates your site, it will just populate the readme with the content of the template. However with Vento, you can do SSG-template-y things like loop through lists, or pull in data from rss feeds or json sources, such as REST APIs. 
 
 ## Getting it done with Lume
 
-Of course if you search, there are plenty of ways to make a dynamic profile readme, but how do we do it with Lume? 
+Of course if you search, there are plenty of ways to make a dynamic profile readme, but how do we do it with Lume? Here's the overview: 
+
+* If you want to test locally, your environment needs Deno, and after cloning this repo, you can do `deno task lume --serve` to run it on `http://localhost:3000`. You can also go to this repo and use "use this template" to get your own copy, then clone that to local.
+* This repo creates a single web page based on the linktree-like [Theme Simple Me](https://github.com/lumeland/theme-simple-me) template for Lume, and hosts it on Github pages. But you can change `url: /` to `url: false` in `src/index.md` to disable the site. 
+* Edit the `repo-readme.vto` Vento template, using markdown format, to create the precursor readme. Notice the `url:` is set to a markdown file. 
+* On build via `deno task lume --serve` (builds and serves on localhost) or `deno task lume` (just builds), Lume will generate the site files in `_site`, and also run a script to copy the generated readme into place. 
+* 
 
 ## How to use?
 
