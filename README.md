@@ -1,12 +1,16 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
 **Today is:** Friday, November 22, 2024  
-**Last Updated:** Fri Nov 22 2024 13:26:06 GMT+0000 (Coordinated Universal Time)
+**Last Updated:** Fri Nov 22 2024 13:28:50 GMT+0000 (Coordinated Universal Time)
 
 ### Hi there 👋
 
 I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
 
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
+
+### How does this readme work? 
+
+I'm generating this readme using the Lume static site generator. See [this page](https://rickcogley.github.io/rickcogley/) for details to get your own! 
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,6 +33,6 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Total Files | 5 |
-| Repo Size in MB | 4475 |
+| Repo Size in MB | 4476 |
 
 
