@@ -2,8 +2,10 @@ name: Update Profile README
 
 on:
   push:
-    # Run on main branch pushes
+    # Run on main branch pushes or PRs
     branches: [main]
+  pull_request:
+    branches: [ "main" ]
   # Allow to manually trigger the workflow
   workflow_dispatch:
   schedule:
