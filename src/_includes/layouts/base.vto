@@ -10,8 +10,7 @@
     <meta name="theme-color" content="hsl(220, 20%, 100%)" media="(prefers-color-scheme: light)">
     <meta name="theme-color" content="hsl(220, 20%, 10%)" media="(prefers-color-scheme: dark)">
 
-    <link rel="stylesheet" href="/styles.css">
-    {{# <link rel="stylesheet" href="/css/code_theme.css"> #}}
+    <link rel="stylesheet" href="/styles.css?cb={{ cacheBuster }}">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
     <link rel="canonical" href="{{ url |> url(true) }}">
 
