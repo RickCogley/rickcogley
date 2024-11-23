@@ -3,8 +3,9 @@ url: /repo-readme.md
 date: Git Last Modified
 ---
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
-**Today is:** {{ todaysDateENUS }}{{ set today = todaysDateYYYYMMDD }}{{ if holidays[today] }} ({{ holidays[today] }}){{ /if }}  
-**Last Updated:** {{ date }}
+  
+**Last Updated:** {{ date |> date('HUMAN_DATETIME') }}  
+{{ set today = todaysDateYYYYMMDD }}{{ if holidays[today] }}**Today is:** <span style="color:red">{{ holidays[today] }}</span>{{ /if }}
 
 ### Hi there 👋
 
