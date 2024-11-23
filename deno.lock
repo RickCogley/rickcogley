@@ -31,6 +31,7 @@
     "jsr:@std/yaml@^1.0.5": "1.0.5",
     "npm:@js-temporal/polyfill@0.4.4": "0.4.4",
     "npm:autoprefixer@10.4.20": "10.4.20_postcss@8.4.47",
+    "npm:date-fns@4.1.0": "4.1.0",
     "npm:estree-walker@3.0.3": "3.0.3",
     "npm:highlight.js@11.10.0": "11.10.0",
     "npm:ico-endec@0.1.6": "0.1.6",
@@ -281,6 +282,9 @@
         "color-convert",
         "color-string"
       ]
+    },
+    "date-fns@4.1.0": {
+      "integrity": "sha512-Ukq0owbQXxa/U3EGtsdVBkR1w7KOQ5gIBqdH2hkvknzZPYvBxb/aa6E8L7tmjFtkwZBu3UXBbjIgPo/Ez4xaNg=="
     },
     "detect-libc@2.0.3": {
       "integrity": "sha512-bwy0MGW55bG41VqxxypOsdSdGqLwXPI/focwgTYCFMbdUiBAxLg9CFzG08sz2aqzknwiX7Hkl0bQENjg8iLByw=="
@@ -743,6 +747,7 @@
     "https://deno.land/x/lume@v2.4.2/deps/cliffy.ts": "faff0c2ca187ec9fd1ad8660141f85b9d05b5c36bab25b40eb5038c02590a310",
     "https://deno.land/x/lume@v2.4.2/deps/colors.ts": "8642f31364e8d1b7c3bba56cfee21f8abdd545b5e1c8350cfcc104531eca164c",
     "https://deno.land/x/lume@v2.4.2/deps/crypto.ts": "020df39e6ba16ec8f3936b0ceff03a3d64bde8900a976ba3a519b5cc09d337d2",
+    "https://deno.land/x/lume@v2.4.2/deps/date.ts": "cbd4703210520fafd80daf364d9aa4180b322e88f6d01269f6002cfd10a33109",
     "https://deno.land/x/lume@v2.4.2/deps/dom.ts": "5670c225863738487fb03d19524dfcdd6d08c8851ffc9435d7142806cea6a458",
     "https://deno.land/x/lume@v2.4.2/deps/front_matter.ts": "279c53db46ac7f557f217ffb7fbd0c307ad6cbd8ff64d91cd8b023a3b50b2c92",
     "https://deno.land/x/lume@v2.4.2/deps/fs.ts": "bd02b4f76a5579908f28d8af86c3adce1dc5c6024a229e4f3b013a1540856546",
@@ -771,6 +776,7 @@
     "https://deno.land/x/lume@v2.4.2/mod.ts": "f93dcbc0ccb7a9e6cab93d0e8f1f0643b112f3084bedc603379dc1b47d7d380d",
     "https://deno.land/x/lume@v2.4.2/plugins/base_path.ts": "ddaffaac8166137244c79cf72b1cd77a074160e52ec59ad49c06cfee4aef7f64",
     "https://deno.land/x/lume@v2.4.2/plugins/code_highlight.ts": "723b114f98e97c3a2d65890638109d144e1adbd7f474f73d05dac5f47d0851c8",
+    "https://deno.land/x/lume@v2.4.2/plugins/date.ts": "d92823f67326e4f5d73d8cda2e357d36c07a30f4824d95b9402ae4202b336e0c",
     "https://deno.land/x/lume@v2.4.2/plugins/favicon.ts": "5822264902eb1ab06d9b5c56767ac2997f40c31eba66983b083d02af2d7244e5",
     "https://deno.land/x/lume@v2.4.2/plugins/json.ts": "67e5e2e00f8e8640f33c1f97a2bf82a7c97a67a838804637b87b16b72f9042e1",
     "https://deno.land/x/lume@v2.4.2/plugins/markdown.ts": "c7027605edee274762edb20f7040ccba6415c5fe656cc6e25ce91c448f467fd8",

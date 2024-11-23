@@ -7,6 +7,7 @@ import metas from "lume/plugins/metas.ts";
 import postcss from "lume/plugins/postcss.ts";
 import transformImages from "lume/plugins/transform_images.ts";
 import prism from "lume/plugins/prism.ts";
+import date from "lume/plugins/date.ts";
 import { getGitDate } from "lume/core/utils/date.ts";
 
 /** Configure the site */
@@ -20,6 +21,7 @@ export default function () {
       .use(transformImages())
       .use(simpleIcons())
       .use(prism())
+      .use(date())
 
     site.data("textColor", (hex: string) => {
       const color = new Color(`#${hex}`);
@@ -37,7 +39,7 @@ export default function () {
         }
       }
     });
-    
+
     site.copy([".jpg", ".webp", ".png"]);
   };
 }
