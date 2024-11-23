@@ -1,9 +1,16 @@
 // Simple constants
 export const cacheBuster = `${new Date().getTime()}`;
-export const todaysDateYYYYMMDD = `${new Date().toISOString().split("T")[0]}`;
+export const todaysDateYYYYMMDD = `${new Date().toISOString('ja-JP', { timeZone: 'Asia/Tokyo' }).split("T")[0]}`;
 // export const todaysDateYYYYMMDD2 = `${new Date().toISOString().slice(0, 10)}`;
 export const todaysDateJAJP = `${new Date().toLocaleString('ja-JP',{ year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' })}`;
 export const todaysDateENUS = `${new Date().toLocaleString('en-US',{ year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' })}`;
+
+// const tzoptions = { timeZone: 'America/Los_Angeles' };
+// console.log(date.toLocaleString('en-US', tzoptions));
+// export const todaysDateYYYYMMDD2 = `${new Date().toISOString().split("T")[0]}`;
+console.log(`${new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' })}`);
+//console.log(event.toLocaleString('ko-KR', { timeZone: 'Asia/Tokyo' }));
+console.log(`${new Date().toISOString('ja-JP', { timeZone: 'Asia/Tokyo' })}`);
 
 // Fetch holidays
 const response = await fetch('https://holidays-jp.github.io/api/v1/date.json', {
@@ -77,3 +84,4 @@ const rssUrl3 = "https://bsky.app/profile/did:plc:vc7gwsfznu7ct7isottesibn/rss";
 const limit3 = 3;
 fetchAndConvertRSS(rssUrl3,limit3).then(console.log).catch(console.error);
 export const bskyposts = await fetchAndConvertRSS(rssUrl3,limit3);
+
