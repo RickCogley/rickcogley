@@ -9,8 +9,8 @@ on:
   # Allow to manually trigger the workflow
   workflow_dispatch:
   schedule:
-    # Rebuild every day at 9:06 PM UTC
-    - cron: "6 21 * * *"
+    # Rebuild every day at 16:30 PM UTC
+    - cron: "30 16 * * *"
 
 jobs:
   build:
