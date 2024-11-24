@@ -1,6 +1,5 @@
 import lume from "lume/mod.ts";
 import plugins from "./plugins.ts";
-import "jsr:@std/dotenv/load";
 
 const site = lume({
     src: "./src",
