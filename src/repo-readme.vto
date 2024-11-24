@@ -36,6 +36,7 @@ I'm generating this readme using the Lume static site generator. See [this page]
 | Deno Version | {{ Deno.version.deno }} |
 | V8 Version | {{ Deno.version.v8 }} |
 | Typescript Version | {{ Deno.version.typescript }} |
+| Timezone | {{ Deno.env.get("TZ") }} |
 
 {{# ## Latest Blog Posts:
 {{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
