@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** November 25th, 2024 at 8:01:47 AM GMT+9  
+**Last Updated:** November 25th, 2024 at 8:05:49 AM GMT+9  
 
 
 ### Hi there 👋
@@ -9,7 +9,7 @@ I'm the founder of a boutique IT services company called [eSolia](https://esolia
 
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=html5%2Chtml%2CE34F26%3Bcss3%2Ccss%2C1572B6%3Bjamstack%2Cjamstack%2CF0047F%3Bjavascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3Bdeno%2Cdeno%2C70FFAF%3Bgnubash%2Cbash%2C4EAA25%3Bgraphql%2Cgraphql%2CE10098%3Bhtmx%2Chtmx%2C3366CC%3Bslack%2Cslack%2C4A154B%3B)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=html5%2Chtml%2CE34F26%3Bcss3%2Ccss%2C1572B6%3Bjamstack%2Cjamstack%2CF0047F%3Bjavascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3Bdeno%2Cdeno%2C70FFAF%3Bgnubash%2Cbash%2C4EAA25%3Bgraphql%2Cgraphql%2CE10098%3Bhtmx%2Chtmx%2C3366CC%3Bslack%2Cslack%2C4A154B%3B))
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,7 +32,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 5 |
-| Repo Size in MB | 4480 |
+| Repo Size in MB | 4481 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.1 |
 | V8 Version | 13.0.245.12-rusty |
