@@ -79,8 +79,15 @@
     {{ if footer }}
       <footer>
         {{ footer |> md }}
-        <p class="header-description"><small>Updated {{ date }}</small></p>
+        <p class="header-description">
+          <small>
+          Updated {{ date }}<br>
+          Deno {{ Deno.version.deno }}, Typescript {{ Deno.version.typescript }}, V8 {{ Deno.version.v8 }}  <br>
+          </small>
+        </p>
       </footer>
     {{ /if }}
   </body>
 </html>
+
+{{# {{> console.log(it) }} #}}
