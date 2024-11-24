@@ -1,6 +1,6 @@
+Deno.env.set("TZ", "Asia/Tokyo");
 import lume from "lume/mod.ts";
 import plugins from "./plugins.ts";
-Deno.env.set("TZ", "Asia/Tokyo");
 
 const site = lume({
     src: "./src",
