@@ -1,4 +1,3 @@
-Deno.env.set("TZ", "Asia/Tokyo");
 import lume from "lume/mod.ts";
 import plugins from "./plugins.ts";
 
