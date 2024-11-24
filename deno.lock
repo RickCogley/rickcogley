@@ -31,6 +31,7 @@
     "jsr:@std/yaml@^1.0.5": "1.0.5",
     "npm:@js-temporal/polyfill@0.4.4": "0.4.4",
     "npm:autoprefixer@10.4.20": "10.4.20_postcss@8.4.47",
+    "npm:date-fns@*": "4.1.0",
     "npm:date-fns@4.1.0": "4.1.0",
     "npm:estree-walker@3.0.3": "3.0.3",
     "npm:highlight.js@11.10.0": "11.10.0",
