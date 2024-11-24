@@ -1,4 +1,3 @@
-Deno.env.set("TZ", "Asia/Tokyo");
 // Simple constants
 export const cacheBuster = `${new Date().getTime()}`;
 export const todaysDateYYYYMMDD = `${new Date().toISOString('ja-JP', { timeZone: 'Asia/Tokyo' }).split("T")[0]}`;
