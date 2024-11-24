@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** November 24th, 2024 at 8:15:13 PM GMT+9  
+**Last Updated:** November 24th, 2024 at 8:15:37 PM GMT+9  
 
 
 ### Hi there 👋
@@ -24,9 +24,9 @@ I'm generating this readme using the Lume static site generator. See [this page]
 
 
 ## Latest Bluesky Posts:
+* [You can block vast swathes of jerks using the curated lists here: https://bsky.app/profile/skysentry.bsky.social](https://bsky.app/profile/cogley.jp/post/3lboxyzxqx22o)
 * [Saw “Samurai Timeslipper” yesterday after reading a review in the paper, and liked it. It’s Showaesque, low budget (eg the actual AD plays an AD, director dons many hats) warmly humorous, takes cues from the best of J cinema. 🥰 www.samutai.net](https://bsky.app/profile/cogley.jp/post/3lbnj6fifr727)
 * [Create a Dynamic GitHub Profile with Lume: https://cogley.jp/2024/11/22/create-a-dynamic.html](https://bsky.app/profile/cogley.jp/post/3lbk53o6vt727)
-* [Went with friend Dave to see the Drum Corps Japan Championship at Carlos Ghohn Memorial Stadium 😅 as he calls it (aka Nissan Stadium), and it was a fantastic long day of great performances. Even the really small corps were excellent, employing creative solutions to their size challenges. 🎼](https://bsky.app/profile/cogley.jp/post/3lb6tz2jm3k2w)
 
 
 ## Stats:
