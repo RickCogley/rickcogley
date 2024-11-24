@@ -5,7 +5,7 @@ date: Git Last Modified
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** {{ date |> date('HUMAN_DATETIME') }}  
-{{ set today = todaysDateYYYYMMDD }}{{ if holidays[today] }}**Today is:** <span style="color:red">{{ holidays[today] }}</span>{{ /if }}
+{{ set today = todaysDateYYYYMMDD }}{{ if holidays[today] }}**Today is:** {{ holidays[today] }}{{ /if }}
 
 ### Hi there 👋
 
@@ -27,13 +27,15 @@ I'm generating this readme using the Lume static site generator. See [this page]
 {{ for item of bskyposts.entries }}* [{{ item.description.value }}]({{ item.links[0].href }})
 {{ /for }}
 
-## Repo Stats:
+## Stats:
 
 | Item | Value |
 | --- | --- |
-| Total Files | {{ search.files("").length }} |
+| Repo Total Files | {{ search.files("").length }} |
 | Repo Size in MB | {{ repoSizeKB }} |
-
+| Deno Version | {{ Deno.version.deno }} |
+| V8 Version | {{ Deno.version.v8 }} |
+| Typescript Version | {{ Deno.version.typescript }} |
 
 {{# ## Latest Blog Posts:
 {{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
