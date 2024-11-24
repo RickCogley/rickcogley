@@ -4,7 +4,6 @@
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run --env-file -A -",
-    // "lume": "export TZ='Asia/Tokyo' && echo \"import 'lume/cli.ts'\" | deno run -A -",
     "build": "deno task lume",
     "serve": "deno task lume -s"
   },
