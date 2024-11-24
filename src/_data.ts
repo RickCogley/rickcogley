@@ -85,3 +85,7 @@ const limit3 = 3;
 fetchAndConvertRSS(rssUrl3,limit3).then(console.log).catch(console.error);
 export const bskyposts = await fetchAndConvertRSS(rssUrl3,limit3);
 
+const envdenoinstall = Deno.env.get("DENO_INSTALL");
+console.log("DENO_INSTALL:", envdenoinstall);
+// const env = Deno.env.toObject();
+// console.log("env:", env);
