@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** November 23rd, 2024 at 1:40:36 AM GMT+0  
-**Today is:** <span style="color:red">勤労感謝の日</span>
+**Last Updated:** November 24th, 2024 at 2:46:34 AM GMT+0  
+
 
 ### Hi there 👋
 
@@ -24,16 +24,18 @@ I'm generating this readme using the Lume static site generator. See [this page]
 
 
 ## Latest Bluesky Posts:
+* [Saw “Samurai Timeslipper” yesterday after reading a review in the paper, and liked it. It’s Showaesque, low budget (eg the actual AD plays an AD, director dons many hats) warmly humorous, takes cues from the best of J cinema. 🥰 www.samutai.net](https://bsky.app/profile/cogley.jp/post/3lbnj6fifr727)
 * [Create a Dynamic GitHub Profile with Lume: https://cogley.jp/2024/11/22/create-a-dynamic.html](https://bsky.app/profile/cogley.jp/post/3lbk53o6vt727)
 * [Went with friend Dave to see the Drum Corps Japan Championship at Carlos Ghohn Memorial Stadium 😅 as he calls it (aka Nissan Stadium), and it was a fantastic long day of great performances. Even the really small corps were excellent, employing creative solutions to their size challenges. 🎼](https://bsky.app/profile/cogley.jp/post/3lb6tz2jm3k2w)
-* [Bluesky’s “AT Protocol” for identity is cool. I set up my handle as @cogley.jp in one easy step using a TXT record in DNS. Slick! 😎](https://bsky.app/profile/cogley.jp/post/3lagfus2axt2c)
 
 
-## Repo Stats:
+## Stats:
 
 | Item | Value |
 | --- | --- |
-| Total Files | 5 |
-| Repo Size in MB | 4477 |
-
+| Repo Total Files | 5 |
+| Repo Size in MB | 4479 |
+| Deno Version | 2.1.1 |
+| V8 Version | 13.0.245.12-rusty |
+| Typescript Version | 5.6.2 |
 
