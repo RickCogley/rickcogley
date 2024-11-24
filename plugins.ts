@@ -8,6 +8,7 @@ import postcss from "lume/plugins/postcss.ts";
 import transformImages from "lume/plugins/transform_images.ts";
 import prism from "lume/plugins/prism.ts";
 import date from "lume/plugins/date.ts";
+Deno.env.set("TZ", "US/Eastern");
 import { getGitDate } from "lume/core/utils/date.ts";
 import { enUS } from "npm:date-fns/locale/en-US";
 import { ja } from "npm:date-fns/locale/ja";
