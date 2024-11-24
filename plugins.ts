@@ -9,6 +9,8 @@ import transformImages from "lume/plugins/transform_images.ts";
 import prism from "lume/plugins/prism.ts";
 import date from "lume/plugins/date.ts";
 import { getGitDate } from "lume/core/utils/date.ts";
+import { enUS } from "npm:date-fns/locale/en-US";
+import { ja } from "npm:date-fns/locale/ja";
 
 /** Configure the site */
 export default function () {
@@ -21,7 +23,7 @@ export default function () {
       .use(transformImages())
       .use(simpleIcons())
       .use(prism())
-      .use(date())
+      .use(date({ locales: { enUS, ja } }))
 
     site.data("textColor", (hex: string) => {
       const color = new Color(`#${hex}`);
