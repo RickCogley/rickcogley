@@ -170,6 +170,8 @@ Just Edit the `repo-readme.vto` Vento template in markdown format, save, commit
 and push. If the GH action is working right, Lume will generate the readme file
 and copy it into place, after which you can see it on your personal repo.
 
+You can see a more simple version without any website creation tooling, in my [org eSolia's profile repo](https://github.com/eSolia/.github).
+
 ## Is it good?
 
 Yes.
