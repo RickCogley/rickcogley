@@ -12,5 +12,11 @@
     "types": [
       "lume/types.ts"
     ]
+  },
+  "fmt": {
+    "exclude": [
+      "_site",
+      "src/assets"
+    ]
   }
 }

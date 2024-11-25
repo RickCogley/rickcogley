@@ -3,8 +3,8 @@ import plugins from "./plugins.ts";
 import { getCurrentVersion } from "lume/core/utils/lume_version.ts";
 
 const site = lume({
-    src: "./src",
-    location: new URL("https://rickcogley.github.io/rickcogley"),
+  src: "./src",
+  location: new URL("https://rickcogley.github.io/rickcogley"),
 });
 
 site.use(plugins());

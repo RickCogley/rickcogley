@@ -23,7 +23,7 @@ export default function () {
       .use(transformImages())
       .use(simpleIcons())
       .use(prism())
-      .use(date({ locales: { enUS, ja } }))
+      .use(date({ locales: { enUS, ja } }));
 
     site.data("textColor", (hex: string) => {
       const color = new Color(`#${hex}`);
@@ -31,11 +31,11 @@ export default function () {
       const onBlack = Math.abs(color.contrastWCAG21("black"));
       return (onWhite + 0.5) > onBlack ? "white" : "black";
     });
-    
+
     site.preprocess([".html"], (pages) => {
       for (const page of pages) {
         const src = page.src.entry?.src;
-    
+
         if (src) {
           page.data.lastmod = getGitDate("modified", src);
         }

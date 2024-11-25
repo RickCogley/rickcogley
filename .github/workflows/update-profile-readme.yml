@@ -5,7 +5,7 @@ on:
     # Run on main branch pushes or PRs
     branches: [main]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
   # Allow to manually trigger the workflow
   workflow_dispatch:
   schedule:
@@ -46,11 +46,11 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Apply changes during gh actions build
-          status_options: '--untracked-files=no'
+          status_options: "--untracked-files=no"
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-  
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
