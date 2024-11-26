@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** November 25th, 2024 at 5:38:40 PM GMT+9  
+**Last Updated:** November 26th, 2024 at 1:39:37 AM GMT+9  
 
 
 ### Hi there 👋
@@ -20,9 +20,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [Reading about the lovely next-gen programmer font “Monaspace” on GithubNext, also found a cool fork of it, Moralerspace, that merges in Japanese “IBM Plex Sans JP” and a nerd font. Nihongo looks good, and the “nerd” symbols mean tricky Terminal prompts will display as well. 😎](https://bsky.app/profile/cogley.jp/post/3lbtb2ch4ys2x)
+* [Listening to BSI’s “The Standards Show” today I learned about the British “Kitemark” for service excellence and others. Interesting concept of having triers adhere to multiple British or ISO standards to achieve a given Kitemark scheme. Can any Brits share their thoughts?🪁](https://bsky.app/profile/cogley.jp/post/3lbsrjxswh42c)
 * [Maru the Shiba turned 4 today, how time flies! He got some fresh tennis balls, a Winner Trophy chew toy, his favorite chicken burger (shaped like a 4) and whipped yogurt meal, and lots of love. He never wolfs his food, always carefully inspecting and taking small bites.  🐕🥳](https://bsky.app/profile/cogley.jp/post/3lbrh4wavcx2n)
-* [You can block vast swathes of jerks using the curated lists here: https://bsky.app/profile/skysentry.bsky.social](https://bsky.app/profile/cogley.jp/post/3lboxyzxqx22o)
-* [Saw “Samurai Timeslipper” yesterday after reading a review in the paper, and liked it. It’s Showaesque, low budget (eg the actual AD plays an AD, director dons many hats) warmly humorous, takes cues from the best of J cinema. 🥰 www.samutai.net](https://bsky.app/profile/cogley.jp/post/3lbnj6fifr727)
 
 
 ## Stats:
@@ -30,7 +30,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 5 |
-| Repo Size in MB | 4488 |
+| Repo Size in MB | 4489 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.1 |
 | V8 Version | 13.0.245.12-rusty |
