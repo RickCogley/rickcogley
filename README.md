@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** November 27th, 2024 at 1:40:10 AM GMT+9  
+**Last Updated:** November 25th, 2024 at 8:33:06 AM GMT+9  
 
 
 ### Hi there 👋
@@ -12,17 +12,17 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [💻 Subscribed to and am now kicking the tires on &quot;CleanShot X&quot;. It&#039;s really fantastic screenshot software for Mac.](https://rick.status.lol/6747bc72c0a59)
 * [😘 Enjoyed an evening celebrating our dog Maru the Shiba&#039;s 4th birthday. Happy birthday, little buddy!](https://rick.status.lol/67446268c9ec6)
 * [😎 Spent the evening working on making my GitHub profile dynamic using Lume SSG. https://rickcogley.github.io/rickcogley](https://rick.status.lol/674090be2957e)
 * [🕊️ Netflix&#039;s The Diplomat is good stuff; loving the acting and banter. Twistiness makes you go back to watch earlier scenes.](https://rick.status.lol/673b15ef5661b)
 * [👐 Kicking the Bluesky tires. https://bsky.app/profile/cogley.jp](https://rick.status.lol/672dcd8a48aad)
-* [🚀 Testing lume CMS on a few sites, now on a vps so we get the benefit of live preview.](https://rick.status.lol/672ca9ac68461)
 
 
 ## Latest Bluesky Posts:
+* [Unlearning old, bad CSS habits and replacing them with shiny new ones, with Andy Bell’s Complete CSS course. He said it took a year to produce, and you can tell. It’s outstanding. 🤩](https://bsky.app/profile/cogley.jp/post/3lc2knf4t2q2f)
+* [CleanShot is fantastic &amp; featureful screenshot software for Mac, which has the basics, but also annotation, cloud storage, capture history, screen recording, OCR and more. If you share any instructional content, you’ll want to check it out.](https://bsky.app/profile/cogley.jp/post/3lbxsk6lec62e)
 * [Reading about the lovely next-gen programmer font “Monaspace” on GithubNext, also found a cool fork of it, Moralerspace, that merges in Japanese “IBM Plex Sans JP” and a nerd font. Nihongo looks good, and the “nerd” symbols mean tricky Terminal prompts will display as well. 😎](https://bsky.app/profile/cogley.jp/post/3lbtb2ch4ys2x)
-* [Listening to BSI’s “The Standards Show” today I learned about the British “Kitemark” for service excellence and others. Interesting concept of having triers adhere to multiple British or ISO standards to achieve a given Kitemark scheme. Can any Brits share their thoughts?🪁](https://bsky.app/profile/cogley.jp/post/3lbsrjxswh42c)
-* [Maru the Shiba turned 4 today, how time flies! He got some fresh tennis balls, a Winner Trophy chew toy, his favorite chicken burger (shaped like a 4) and whipped yogurt meal, and lots of love. He never wolfs his food, always carefully inspecting and taking small bites.  🐕🥳](https://bsky.app/profile/cogley.jp/post/3lbrh4wavcx2n)
 
 
 ## Stats:
@@ -30,9 +30,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 5 |
-| Repo Size in MB | 4489 |
+| Repo Size in MB | 5096 |
 | Lume Version | v2.4.2 |
-| Deno Version | 2.1.1 |
+| Deno Version | 2.1.2 |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
