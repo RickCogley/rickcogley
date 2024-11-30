@@ -5,7 +5,7 @@ on:
     # Run on main branch pushes or PRs
     branches: [main]
   pull_request:
-    branches: ["main"]
+    branches: [main]
   # Allow to manually trigger the workflow
   workflow_dispatch:
   schedule:
@@ -29,6 +29,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
+          fetch-depth: '0' # Fetch all history for git
 
       - name: Setup Deno environment
         # Downloads deno and caches it
