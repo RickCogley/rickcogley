@@ -12,17 +12,17 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [🚶‍♂️ Stepping through [CSS Complete](https://piccalil.li/complete-css), shaking off what feels like years of counterproductive knowledge.](https://rick.status.lol/674bafe79378c)
 * [💻 Subscribed to and am now kicking the tires on &quot;CleanShot X&quot;. It&#039;s really fantastic screenshot software for Mac.](https://rick.status.lol/6747bc72c0a59)
 * [😘 Enjoyed an evening celebrating our dog Maru the Shiba&#039;s 4th birthday. Happy birthday, little buddy!](https://rick.status.lol/67446268c9ec6)
 * [😎 Spent the evening working on making my GitHub profile dynamic using Lume SSG. https://rickcogley.github.io/rickcogley](https://rick.status.lol/674090be2957e)
 * [🕊️ Netflix&#039;s The Diplomat is good stuff; loving the acting and banter. Twistiness makes you go back to watch earlier scenes.](https://rick.status.lol/673b15ef5661b)
-* [👐 Kicking the Bluesky tires. https://bsky.app/profile/cogley.jp](https://rick.status.lol/672dcd8a48aad)
 
 
 ## Latest Bluesky Posts:
-* [Unlearning old, bad CSS habits and replacing them with shiny new ones, with Andy Bell’s Complete CSS course. He said it took a year to produce, and you can tell. It’s outstanding. 🤩](https://bsky.app/profile/cogley.jp/post/3lc2knf4t2q2f)
-* [CleanShot is fantastic &amp; featureful screenshot software for Mac, which has the basics, but also annotation, cloud storage, capture history, screen recording, OCR and more. If you share any instructional content, you’ll want to check it out.](https://bsky.app/profile/cogley.jp/post/3lbxsk6lec62e)
-* [Reading about the lovely next-gen programmer font “Monaspace” on GithubNext, also found a cool fork of it, Moralerspace, that merges in Japanese “IBM Plex Sans JP” and a nerd font. Nihongo looks good, and the “nerd” symbols mean tricky Terminal prompts will display as well. 😎](https://bsky.app/profile/cogley.jp/post/3lbtb2ch4ys2x)
+* [I did myself a favor and subscribed to polypane.app by Kilian Valkhof, which is just an outstanding and multifaceted tool for web dev! 🎛️](https://bsky.app/profile/cogley.jp/post/3lc7h4iujca2o)
+* [Do you know about CUBE CSS, a thoughtful approach to CSS and website design authored by @bell.bz? I think this approach is great because it leverages CSS’s basic nature (and doesn’t fight it), and probably, makes it a little easier to work in a cross-disciplinary team. 👏🏻](https://bsky.app/profile/cogley.jp/post/3lc7ekedzqt2m)
+* [Your IKEA product name is your name spelled backwards with an umlaut. &#xA;&#xA;Mine’s Kcïr, a berry sauce delicacy with a fishy smell. 😆&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3lc6ukfhz6s2s)
 
 
 ## Stats:
@@ -30,7 +30,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 5 |
-| Repo Size in MB | 4627 |
+| Repo Size in MB | 4629 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.2 |
 | V8 Version | 13.0.245.12-rusty |
