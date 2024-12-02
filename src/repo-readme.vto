@@ -67,7 +67,7 @@ I'm generating this readme using the Lume static site generator. See [this page]
 <img src="{{ "acorn" |> icon("phosphor", "duotone") }}">
 
 
-<img src="https://rickcogley.github.io/rickcogley/icons/phosphor/acorn-duotone.svg">
+<img src="https://rickcogley.github.io/rickcogley/icons/phosphor/acorn-duotone.svg" width="36px">
 
 {{# ## Latest Blog Posts:
 {{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
