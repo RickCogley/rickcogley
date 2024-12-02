@@ -5,6 +5,7 @@ date: Git Last Modified
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** {{ date |> date('HUMAN_DATETIME') }}  
+**Today is:** {{ todaysDateENUS }}  
 {{ set today = todaysDateYYYYMMDD }}{{ if holidays[today] }}**Today is:** {{ holidays[today] }}{{ /if }}
 
 ### Hi there 👋
@@ -64,6 +65,13 @@ I'm generating this readme using the Lume static site generator. See [this page]
 </div>
 
 <img src="{{ "acorn" |> icon("phosphor", "duotone") }}">
+
+
+<img src="https://rickcogley.github.io/rickcogley/icons/phosphor/acorn-duotone.svg">
+
+{{# ## Latest Blog Posts:
+{{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
+{{ /for }} #}}
 
 {{# ## Latest Blog Posts:
 {{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
