@@ -73,7 +73,7 @@ I'm generating this readme using the Lume static site generator. See [this page]
 <img src="/_site/icons/phosphor/acorn-duotone.svg" width="28px">
 <img src="https://rickcogley.github.io/rickcogley/icons/phosphor/acorn-duotone.svg" width="36px">
 
-![acorn](/icons/phosphor/acorn-duotone.svg)
+![acorn](/_site/icons/phosphor/acorn-duotone.svg)
 
 
 
