@@ -45,6 +45,6 @@ export default function () {
       }
     });
 
-    site.copy([".jpg", ".webp", ".png"]);
+    site.copy([".jpg", ".webp", ".png", ".svg"]);
   };
 }
