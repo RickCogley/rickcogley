@@ -64,7 +64,9 @@ I'm generating this readme using the Lume static site generator. See [this page]
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 
-<img src="{{ "acorn" |> icon("phosphor", "duotone") }}">
+<img src="{{ "acorn" |> icon("phosphor", "duotone").replace("icons","_site/icons") }}" width="20px">
+
+{{# https://github.com/RickCogley/rickcogley/blob/main/icons/phosphor/acorn-duotone.svg #}}
 
 <img src="/_site/icons/phosphor/acorn-duotone.svg" width="28px">
 <img src="https://rickcogley.github.io/rickcogley/icons/phosphor/acorn-duotone.svg" width="36px">
