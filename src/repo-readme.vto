@@ -63,6 +63,8 @@ I'm generating this readme using the Lume static site generator. See [this page]
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 
+<img src="{{ "acorn" |> icon("phosphor", "duotone") }}">
+
 {{# ## Latest Blog Posts:
 {{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
 {{ /for }} #}}

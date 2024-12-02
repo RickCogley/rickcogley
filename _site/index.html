@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rick Cogley</title>
+
+    <meta name="supported-color-schemes" content="light dark">
+    <meta name="theme-color" content="hsl(220, 20%, 100%)" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="hsl(220, 20%, 10%)" media="(prefers-color-scheme: dark)">
+
+    <link rel="stylesheet" href="/styles.css?cb=1733128361585">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+    <link rel="canonical" href="http://localhost:3000/">
+
+    
+  <meta property="og:type" content="website">
+<meta property="og:site_name" content="Rick Cogley's Github Profile Site">
+<meta property="og:locale" content="en">
+<meta property="og:title" content="Rick Cogley">
+<meta property="og:description" content="Make a dynamic Github profile with Lume SSG!">
+<meta property="og:url" content="http://localhost:3000/">
+<meta property="og:image" content="http://localhost:3000/avatar.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="fediverse:creator" content="@cogley.jp">
+<meta name="description" content="Make a dynamic Github profile with Lume SSG!">
+<meta name="keywords" content="Rick Cogley, GitHub Profile, Deno, Lume, Vento, GitHub Actions, Japan">
+<meta name="generator" content="Lume v2.4.2">
+<meta name="bluesky" content="@cogley.jp">
+<link rel="icon" sizes="48x48" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" sizes="any" href="/favicon.svg" type="image/svg+xml">
+</head>
+  <body>
+    <main>
+      <header class="header">
+        <script>
+          let theme = localStorage.getItem("theme") || (window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light");
+          document.documentElement.dataset.theme = theme;
+          function changeTheme() {
+            theme = theme === "dark" ? "light" : "dark";
+            localStorage.setItem("theme", theme);
+            document.documentElement.dataset.theme = theme;
+          }
+        </script>
+        <button class="button header-theme" onclick="changeTheme()">
+          <span class="icon">◐</span>
+        </button>
+
+        <img class="header-avatar" src="/avatar.jpg" alt="Avatar" transform-images="webp avif 200@2">
+        <h1 class="header-title">Rick Cogley</h1>
+        <p>Make a dynamic Github profile with Lume SSG!</p>
+      </header>
+      <article>
+      <h2>Github's Special Profile Repos</h2>
+<p>Github has a special feature where, the <code>README.md</code> from a repository with the
+same name as your Github username is displayed on your Github profile. My Github
+handle and profile is <a href="https://github.com/rickcogley">@rickcogley</a>, and you're
+looking at a page served via Github Pages from that very repository. In my case,
+it's <a href="https://github.com/rickcogley/rickcogley">rickcogley / rickcogley</a>.</p>
+<p><img src="/figure1.png" alt="What readme?"></p>
+<h2>The Automation Concept</h2>
+<p>Lately I'm using possibly the world's coolest Static Site Generator
+«<a href="https://lume.land/">Lume ルメ</a>», and its companion
+<a href="https://vento.js.org/">Vento</a> templates, both coded by
+<a href="https://oscarotero.com/">Óscar Otero</a>. I had a thought that if I could use a
+Vento template to generate a markdown file in my <code>rickcogley</code> repository, I
+could somehow automatically copy the markdown file into the repository root, so
+that it appears on my Github profile.</p>
+<p>It turns out, per Oscar, that all you need to do is set the Vento template's url
+to the name of your desired markdown file: <code>url: my-readme.md</code>. When Lume
+generates your site, it will just populate the readme with the content of the
+template. However with Vento, you can do SSG-template-y things like loop through
+lists, or pull in data from rss feeds or json sources, such as REST APIs.</p>
+<h2>Getting it done with Lume</h2>
+<p>Of course if you search, there are plenty of ways to make a dynamic profile
+readme, but how do we do it with Lume? Here's the overview:</p>
+<ul>
+<li>If you want to test locally, your environment needs Deno, and after cloning
+this repo, you can do <code>deno task lume --serve</code> to run it on
+<code>http://localhost:3000</code>. You can also go to this repo and use "use this
+template" to get your own copy, then clone that to local.</li>
+<li>This repo creates a single web page based on the linktree-like
+<a href="https://github.com/lumeland/theme-simple-me">Theme Simple Me</a> template for
+Lume, and hosts it on Github pages. But you can change <code>url: /</code> to
+<code>url: false</code> in <code>src/index.md</code> to disable the site.</li>
+<li>Edit the <code>repo-readme.vto</code> Vento template, using markdown format, to create
+the precursor readme. Notice the <code>url:</code> in the file's frontmatter is set to
+output a markdown file.</li>
+<li>On build via <code>deno task lume --serve</code> (builds and serves on localhost) or
+<code>deno task lume</code> (just builds), Lume will generate the site files in <code>_site</code>,
+and also run a script to copy the generated readme into place.</li>
+<li>See the script in Lume's config file <code>_config.ts</code> in the repo root, in the
+<code>site.script</code> line near the bottom. After the site is built, the readme
+generated by Vento is copied to the repo root as the typical <code>README.md</code>
+<a href="https://github.com/RickCogley/rickcogley/blob/main/README.md">here</a>.</li>
+<li>Take a look at the Vento template codes (<code>{{ something }}</code>) in the
+<code>repo-readme.vto</code> Vento template. You can see that it is pulling in the date,
+checking for a holiday name, and pulling in rss feeds.</li>
+</ul>
+<h2>Setting up the Data</h2>
+<p>First take a look at the "Today is" line in the <code>repo-readme.vto</code> Vento
+template.</p>
+<pre class="language-none" tabindex="0"><code class="language-none">**Today is:** {{ todaysDateENUS }}{{ set today = todaysDateYYYYMMDD }}{{ if holidays[today] }} ({{ holidays[today] }}){{ /if }}
+</code></pre>
+<p>It's referencing the constants <code>todaysDateENUS</code> and <code>todaysDateYYYYMMDD</code>, and
+checking a dataset "holidays" if there is any data that matches "today". The
+constants and data are set up in the file <code>_data.ts</code>. For example:</p>
+<pre class="language-none" tabindex="0"><code class="language-none">export const todaysDateYYYYMMDD = `${new Date().toISOString().split("T")[0]}`;
+</code></pre>
+<p>This sets up a date in YYYY-MM-DD format, because that's what the holiday
+dataset has to match on.</p>
+<p>As for the holidays, they are fetched into an object <code>holidays</code> which the Vento
+template is parsing.</p>
+<pre class="language-none" tabindex="0"><code class="language-none">const response = await fetch('https://holidays-jp.github.io/api/v1/date.json', {
+  method: 'GET',
+  ...
+</code></pre>
+<p>If you needed to access a protected API, you could put its access token in a
+repository variable, and access it as a bearer token in the header of your get.</p>
+<p>Regarding RSS, I used "parse feed" from a library on denoland/x. This part:</p>
+<pre class="language-none" tabindex="0"><code class="language-none">import { parseFeed } from "https://deno.land/x/rss/mod.ts";
+async function fetchAndConvertRSS(url: string, limit: number) {
+  // Fetch the RSS feed
+  const response = await fetch(url);
+  ...
+</code></pre>
+<p>Then the feed can be fetched into a const to use in the Vento template. The
+Vento template just uses a for loop to parse the feed's json and put it into
+markdown <code>li</code> elements.</p>
+<pre class="language-none" tabindex="0"><code class="language-none">## Latest Statuses:
+{{ for item of statuses.entries }}* [{{ item.description.value }}]({{ item.id }})
+{{ /for }}
+</code></pre>
+<h2>Automate Generation</h2>
+<p>To automate the generation, we just use a github actions template,
+<code>.github/workflows/update-profile-readme.yml</code> which triggers Lume to build the
+site which copies the <code>README.md</code> into place, commits the new file, publishes to
+GH Pages. The actions template is triggered on push or PR, "workflow dispatch"
+which means you can also manually trigger, and on a cron schedule.</p>
+<pre class="language-none" tabindex="0"><code class="language-none">on:
+  push:
+    # Run on main branch pushes or PRs
+    branches: [main]
+  pull_request:
+    branches: [ "main" ]
+  # Allow to manually trigger the workflow
+  workflow_dispatch:
+  schedule:
+    # Rebuild every day at 9:06 PM UTC
+    - cron: "6 21 * * *"
+</code></pre>
+<h2>How to get yours?</h2>
+<p>Go to my <a href="https://github.com/rickcogley/rickcogley">profile repo</a>, and click
+"use this template" to make your own copy. If you don't have a profile repo
+already, save the repo as your username. Then tweak it how you like including
+updating the RSS feeds. Or, setup Deno and Lume, and copy in the files manually.
+Just Edit the <code>repo-readme.vto</code> Vento template in markdown format, save, commit
+and push. If the GH action is working right, Lume will generate the readme file
+and copy it into place, after which you can see it on your personal repo.</p>
+<p>You can see a more simple version without any website creation tooling, in my <a href="https://github.com/eSolia/.github">org eSolia's profile repo</a>.</p>
+<h2>Is it good?</h2>
+<p>Yes.</p>
+
+      </article>
+      
+      
+        <ul class="icon-list">
+          
+            
+            <li>
+              <a href="https://lume.land" class="button" style="--bg-color:#EB844E; --text-color:black" title="Lume">
+                <svg role="img" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Fireship</title><path d="M9.245.05c-.042-.035-.14-.035-.22-.05-.041.06-.098.113-.113.166a3.114 3.114 0 0 0-.064.416 15.42 15.42 0 0 1-3.742 8.693c-1.258 1.474-2.51 2.982-3.44 4.585-2.293 3.972-.249 8.031 4.763 9.804.163.06.348.087.76.181-1.701-1.534-2.57-3.1-2.28-4.944.284-1.765 1.172-3.337 2.525-4.77a1.043 1.043 0 0 1 .099.549c-.068 1.572.453 2.96 2.063 4.055.741.507 1.41 1.081 2.079 1.644.684.57.884 1.263.688 2.015-.09.366-.227.725-.378 1.171 1.145-.11 2.203-.264 2.914-.9.68-.604 1.183-1.322 1.909-2.154.049.707.15 1.255.113 1.8-.045.566-.22 1.126-.336 1.689 3.477-.525 6.546-3.934 6.682-7.427.098-2.543-2.071-6.274-3.893-6.637l.302.688c.631 1.391.817 2.8.416 4.256-.4 1.448-2.426 3.073-4.214 3.277.06-.144.087-.28.17-.39 1.927-2.596 1.946-5.31.854-8.084C15.44 5.98 12.632 2.88 9.245.053Z"></path></svg>
+              </a>
+            </li>
+          
+            
+            <li>
+              <a href="https://vento.js.org/" class="button" style="--bg-color:#F7DF1E; --text-color:black" title="Vento">
+                <svg role="img" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>JavaScript</title><path d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z"></path></svg>
+              </a>
+            </li>
+          
+            
+            <li>
+              <a href="https://github.com/rickcogley/rickcogley" class="button" style="--bg-color:#181717; --text-color:white" title="Template Github (Rick's Profile)">
+                <svg role="img" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"></path></svg>
+              </a>
+            </li>
+          
+            
+            <li>
+              <a href="https://github.com/lumeland" class="button" style="--bg-color:#181717; --text-color:white" title="Lume Github">
+                <svg role="img" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"></path></svg>
+              </a>
+            </li>
+          
+        </ul>
+      
+
+      <ul class="link-list">
+        
+      </ul>
+    </main>
+    
+      <footer>
+        <p>Powered by <a href="https://lume.land">Lume</a> &amp; <a href="https://github.com/lumeland/theme-simple-me">SimpleMe</a> theme</p>
+        <p class="header-description">
+          <small>
+          Updated November 25th, 2024 at 5:38:12 PM GMT+9<br>
+          Lume v2.4.2, Deno 2.1.2, Typescript 5.6.2, V8 13.0.245.12-rusty  <br>
+          </small>
+        </p>
+      </footer>
+    
+  
+
+
+</body></html>
