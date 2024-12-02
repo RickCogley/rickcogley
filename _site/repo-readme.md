@@ -1,6 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 2nd, 2024 at 5:34:32 PM GMT+9  
+**Today is:** Monday, December 2, 2024  
 
 
 ### Hi there 👋
@@ -30,7 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 5 |
-| Repo Size in MB | 4645 |
+| Repo Size in MB | 5195 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.2 |
 | V8 Version | 13.0.245.12-rusty |
@@ -66,4 +67,9 @@ I'm generating this readme using the Lume static site generator. See [this page]
 </div>
 
 <img src="/icons/phosphor/acorn-duotone.svg">
+
+
+<img src="https://rickcogley.github.io/rickcogley/icons/phosphor/acorn-duotone.svg">
+
+
 
