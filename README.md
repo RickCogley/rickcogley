@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 3rd, 2024 at 4:44:38 PM GMT+9  
-**Today is:** Tuesday, December 3, 2024  
+**Today is:** Wednesday, December 4, 2024  
 
 
 ### Hi there 👋
@@ -13,17 +13,17 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [🤼‍♂️ Wrasslin’ Deno fetch](https://rick.status.lol/674f018d15a26)
 * [🌀 Marvelling at polypane.app; wow, what a fantastic tool. It will really help site development.](https://rick.status.lol/674d6dc717a34)
 * [🚶‍♂️ Stepping through [CSS Complete](https://piccalil.li/complete-css), shaking off what feels like years of counterproductive knowledge.](https://rick.status.lol/674bafe79378c)
 * [💻 Subscribed to and am now kicking the tires on &quot;CleanShot X&quot;. It&#039;s really fantastic screenshot software for Mac.](https://rick.status.lol/6747bc72c0a59)
 * [😘 Enjoyed an evening celebrating our dog Maru the Shiba&#039;s 4th birthday. Happy birthday, little buddy!](https://rick.status.lol/67446268c9ec6)
-* [😎 Spent the evening working on making my GitHub profile dynamic using Lume SSG. https://rickcogley.github.io/rickcogley](https://rick.status.lol/674090be2957e)
 
 
 ## Latest Bluesky Posts:
+* [Struggled today with fetch in a Deno app. The rust lib Deno uses is extra strict about TLS security and would not connect to a REST API. Had to pull the json into a webhook app and fetch from that in Deno. A little detail here. 🤷‍♂️](https://bsky.app/profile/cogley.jp/post/3lcfp4k4d5k2u)
+* [Today we got a concerning piece of mail, an introduction to a “masseur” who does house calls. It had a power of attorney form, which screamed scam. Do people really stamp and return those!? I imagine the target is elderly folk, who might just do it. 😱](https://bsky.app/profile/cogley.jp/post/3lcfo2s2jsv2c)
 * [Lol this is creative. Check out my BlueSky receipt at bskypt.vercel.app/cogley.jp&#xA;https://bskypt.vercel.app/cogley.jp](https://bsky.app/profile/cogley.jp/post/3lcbpxayrls2v)
-* [I did myself a favor and subscribed to polypane.app by Kilian Valkhof, which is just an outstanding and multifaceted tool for web dev! 🎛️](https://bsky.app/profile/cogley.jp/post/3lc7h4iujca2o)
-* [Do you know about CUBE CSS, a thoughtful approach to CSS and website design authored by @bell.bz? I think this approach is great because it leverages CSS’s basic nature (and doesn’t fight it), and probably, makes it a little easier to work in a cross-disciplinary team. 👏🏻](https://bsky.app/profile/cogley.jp/post/3lc7ekedzqt2m)
 
 
 ## Stats:
@@ -31,7 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4640 |
+| Repo Size in MB | 4641 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.2 |
 | V8 Version | 13.0.245.12-rusty |
