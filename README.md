@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** December 2nd, 2024 at 9:02:49 PM GMT+9  
+**Last Updated:** December 3rd, 2024 at 4:44:38 PM GMT+9  
 **Today is:** Tuesday, December 3, 2024  
 
 
@@ -8,7 +8,7 @@
 
 I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
 
-I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
+I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're _old_ if you know what `autoexec.bat` and `config.sys` are)! 
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,12 +31,14 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4636 |
+| Repo Size in MB | 4639 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.2 |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
+
+
 
 ### How does this readme work? 
 
