@@ -6,13 +6,13 @@ date: Git Last Modified
   
 **Last Updated:** {{ date |> date('HUMAN_DATETIME') }}  
 **Today is:** {{ todaysDateENUS }}  
-{{ set today = todaysDateYYYYMMDD }}{{ if holidays[today] }}**Today is:** {{ holidays[today] }}{{ /if }}
+{{ set today = todaysDateYYYYMMDD }}{{ set holimatch = holidays.filter(item => item['Date in YYYY-MM-DD'] === today ) }}{{ if holimatch.length > 0 }}**It's a holiday in Japan:** {{ holimatch[0]['Name'] }} / {{ holimatch[0]['Name Jp'] }}{{ /if }}
 
 ### Hi there 👋
 
 I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
 
-I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're old if you know what `autoexec.bat` and `config.sys` are)! 
+I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're _old_ if you know what `autoexec.bat` and `config.sys` are)! 
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,6 +35,8 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | V8 Version | {{ Deno.version.v8 }} |
 | Typescript Version | {{ Deno.version.typescript }} |
 | Timezone | {{ Deno.env.get("TZ") }} |
+
+{{ Deno.env.get("API_KEY_01") }}
 
 ### How does this readme work? 
 

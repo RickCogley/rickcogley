@@ -31,7 +31,9 @@ console.log(
 console.log(`${new Date().toISOString("ja-JP", { timeZone: "Asia/Tokyo" })}`);
 
 // Fetch holidays
-const response = await fetch("https://holidays-jp.github.io/api/v1/date.json", {
+// https://holidays-jp.github.io/api/v1/date.json
+// https://webhook.site/esolia-holidays
+const response = await fetch("https://webhook.site/esolia-holidays", {
   method: "GET",
   mode: "no-cors",
   headers: {
@@ -105,3 +107,5 @@ const envdenoinstall = Deno.env.get("DENO_INSTALL");
 console.log("DENO_INSTALL:", envdenoinstall);
 // const env = Deno.env.toObject();
 // console.log("env:", env);
+// console.log(holidays2);
+// console.log(holidays);
