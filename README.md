@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** December 4th, 2024 at 10:40:10 AM GMT+9  
+**Last Updated:** December 4th, 2024 at 5:57:35 PM GMT+9  
 **Today is:** Wednesday, December 4, 2024  
 
 
@@ -31,14 +31,13 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4702 |
+| Repo Size in MB | 4704 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.2 |
+| Deno Build and Architecture | linux x86_64 |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
-
-01F2C9C133CD4C1BB9691945792DE178
 
 ### How does this readme work? 
 
