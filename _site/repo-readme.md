@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** December 3rd, 2024 at 4:44:38 PM GMT+9  
+**Last Updated:** December 4th, 2024 at 10:40:10 AM GMT+9  
 **Today is:** Wednesday, December 4, 2024  
 
 
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [Deno’s fetch uses a rust library that won’t connect to servers with older TLS or cipher suites, so I worked around it in Lume by pulling a json file using the venerable curl, then manipulating that as I needed. Details in this gist. ⛑️](https://bsky.app/profile/cogley.jp/post/3lcgzfeibps2d)
 * [Struggled today with fetch in a Deno app. The rust lib Deno uses is extra strict about TLS security and would not connect to a REST API. Had to pull the json into a webhook app and fetch from that in Deno. A little detail here. 🤷‍♂️](https://bsky.app/profile/cogley.jp/post/3lcfp4k4d5k2u)
 * [Today we got a concerning piece of mail, an introduction to a “masseur” who does house calls. It had a power of attorney form, which screamed scam. Do people really stamp and return those!? I imagine the target is elderly folk, who might just do it. 😱](https://bsky.app/profile/cogley.jp/post/3lcfo2s2jsv2c)
-* [Lol this is creative. Check out my BlueSky receipt at bskypt.vercel.app/cogley.jp&#xA;https://bskypt.vercel.app/cogley.jp](https://bsky.app/profile/cogley.jp/post/3lcbpxayrls2v)
 
 
 ## Stats:
@@ -31,14 +31,14 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4641 |
+| Repo Size in MB | 4702 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.2 |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
 
-
+01F2C9C133CD4C1BB9691945792DE178
 
 ### How does this readme work? 
 
