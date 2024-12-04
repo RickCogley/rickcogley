@@ -41,8 +41,8 @@ jobs:
       - name: Build site
         # Run the build script from deno.json
         env:
-          API_KEY_01: ${{ secrets.API_KEY_01 }}
-        run: export API_KEY_01=${{ secrets.API_KEY_01 }} && deno task build
+          API_KEY_01: ${{ secrets.PRODBKEY }}
+        run: deno task build
 
       - name: Commit changes
         # Commit the changes to the repository
