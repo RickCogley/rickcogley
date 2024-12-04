@@ -40,9 +40,9 @@ jobs:
 
       - name: Build site
         # Run the build script from deno.json
-        run: deno task build
         env:
           API_KEY_01: ${{ secrets.API_KEY_01 }}
+        run: deno task build
 
       - name: Commit changes
         # Commit the changes to the repository
