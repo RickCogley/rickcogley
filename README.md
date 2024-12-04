@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Wednesday, December 4, 2024  
+**Today is:** Thursday, December 5, 2024  
 
 
 ### Hi there 👋
@@ -13,11 +13,11 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/67504093d5cd6)
 * [🤼‍♂️ Wrasslin’ Deno fetch](https://rick.status.lol/674f018d15a26)
 * [🌀 Marvelling at polypane.app; wow, what a fantastic tool. It will really help site development.](https://rick.status.lol/674d6dc717a34)
 * [🚶‍♂️ Stepping through [CSS Complete](https://piccalil.li/complete-css), shaking off what feels like years of counterproductive knowledge.](https://rick.status.lol/674bafe79378c)
 * [💻 Subscribed to and am now kicking the tires on &quot;CleanShot X&quot;. It&#039;s really fantastic screenshot software for Mac.](https://rick.status.lol/6747bc72c0a59)
-* [😘 Enjoyed an evening celebrating our dog Maru the Shiba&#039;s 4th birthday. Happy birthday, little buddy!](https://rick.status.lol/67446268c9ec6)
 
 
 ## Latest Bluesky Posts:
@@ -31,7 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4707 |
+| Repo Size in MB | 4708 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.2 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
