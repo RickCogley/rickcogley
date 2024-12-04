@@ -109,3 +109,14 @@ console.log("DENO_INSTALL:", envdenoinstall);
 // console.log("env:", env);
 // console.log(holidays2);
 // console.log(holidays);
+
+// test import holiday json file
+import fh from "./_data/futureholidays.json" with { type: "json" };
+const dateToMatch = "2024-12-28";
+// Step 1: Filter the array to find the object(s) with the matching 'date'
+const filteredData = fh.filter(item => item['Date in YYYY-MM-DD'] === dateToMatch);
+
+// Step 2: Map the filtered results to return the desired value ('user name')
+const holname = filteredData.map(item => item['Name']);
+console.log("MATCHED HOLIDAY:");
+console.log(holname);
