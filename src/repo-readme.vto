@@ -31,8 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Repo Total Files | {{ search.files("").length }} |
 | Repo Size in MB | {{ repoSizeKB }} |
 | Lume Version | {{ lumeVersion }} |
-| Deno Version | {{ Deno.version.deno }} |
-| Deno Build and Architecture | {{ Deno.build.os }} {{ Deno.build.arch }} |
+| Deno Version | {{ Deno.version.deno }} ({{ Deno.build.os }} {{ Deno.build.arch }}) |
 | V8 Version | {{ Deno.version.v8 }} |
 | Typescript Version | {{ Deno.version.typescript }} |
 | Timezone | {{ Deno.env.get("TZ") }} |
