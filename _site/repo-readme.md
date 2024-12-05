@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Thursday, December 5, 2024  
+**Today is:** Friday, December 6, 2024  
 
 
 ### Hi there 👋
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [If you code Typescript with Deno, which you should since its tooling makes life easy, you might take advantage of ‘dvm’ or Deno Version Manager. It allows you to install and track multiple deno versions, and easily switch between. 🤩](https://bsky.app/profile/cogley.jp/post/3lckbvqpjr62f)
+* [Deno 2.1 lets you zip everything up into a single executable, which makes for easy and secure distribution (and far less user support). Ian Bull’s post demos this important feature. 🧁](https://bsky.app/profile/cogley.jp/post/3lciqnamuhc2o)
 * [Deno’s fetch uses a rust library that won’t connect to servers with older TLS or cipher suites, so I worked around it in Lume by pulling a json file using the venerable curl, then manipulating that as I needed. Details in this gist. ⛑️](https://bsky.app/profile/cogley.jp/post/3lcgzfeibps2d)
-* [Struggled today with fetch in a Deno app. The rust lib Deno uses is extra strict about TLS security and would not connect to a REST API. Had to pull the json into a webhook app and fetch from that in Deno. A little detail here. 🤷‍♂️](https://bsky.app/profile/cogley.jp/post/3lcfp4k4d5k2u)
-* [Today we got a concerning piece of mail, an introduction to a “masseur” who does house calls. It had a power of attorney form, which screamed scam. Do people really stamp and return those!? I imagine the target is elderly folk, who might just do it. 😱](https://bsky.app/profile/cogley.jp/post/3lcfo2s2jsv2c)
 
 
 ## Stats:
