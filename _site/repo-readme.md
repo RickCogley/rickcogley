@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Friday, December 6, 2024  
+**Today is:** Saturday, December 7, 2024  
 
 
 ### Hi there 👋
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [Our break starts mid-day on the 27th, and continues thru 5th Jan.&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3lclwdkzpcs2d)
+* [Rawr? Not so sure about the Mozilla rebrand since the Moz://a is so very iconic and the new font (however advanced) just looks like a slab serif? See what it will look like on the JKR landing page for the redesign. 🦖](https://bsky.app/profile/cogley.jp/post/3lcltan4mxz2u)
 * [If you code Typescript with Deno, which you should since its tooling makes life easy, you might take advantage of ‘dvm’ or Deno Version Manager. It allows you to install and track multiple deno versions, and easily switch between. 🤩](https://bsky.app/profile/cogley.jp/post/3lckbvqpjr62f)
-* [Deno 2.1 lets you zip everything up into a single executable, which makes for easy and secure distribution (and far less user support). Ian Bull’s post demos this important feature. 🧁](https://bsky.app/profile/cogley.jp/post/3lciqnamuhc2o)
-* [Deno’s fetch uses a rust library that won’t connect to servers with older TLS or cipher suites, so I worked around it in Lume by pulling a json file using the venerable curl, then manipulating that as I needed. Details in this gist. ⛑️](https://bsky.app/profile/cogley.jp/post/3lcgzfeibps2d)
 
 
 ## Stats:
@@ -31,9 +31,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4708 |
+| Repo Size in MB | 4710 |
 | Lume Version | v2.4.2 |
-| Deno Version | 2.1.2 (linux x86_64) |
+| Deno Version | 2.1.3 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
