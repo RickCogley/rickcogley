@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [I for one am just glad I could find that one uuid I had forgot about, containing ‘beefcade’. 😂](https://bsky.app/profile/cogley.jp/post/3lcthywajup2q)
 * [If you code in JavaScript like so many devs do, join me in signing Ryan Dahl’s open letter to Oracle, to relinquish the JavaScript trademark. Please read and sign (with GitHub) here. 🧐📝](https://bsky.app/profile/cogley.jp/post/3lcrsujpain23)
 * [Our break starts mid-day on the 27th, and continues thru 5th Jan.&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3lclwdkzpcs2d)
-* [Rawr? Not so sure about the Mozilla rebrand since the Moz://a is so very iconic and the new font (however advanced) just looks like a slab serif? See what it will look like on the JKR landing page for the redesign. 🦖](https://bsky.app/profile/cogley.jp/post/3lcltan4mxz2u)
 
 
 ## Stats:
@@ -31,7 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4711 |
+| Repo Size in MB | 4714 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.3 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
