@@ -43,8 +43,21 @@ const response = await fetch("https://webhook.site/esolia-holidays", {
 const holidays = await response.json();
 export { holidays };
 
+// Fetch holidays with bearer token
+const response2 = await fetch("https://pro.dbflex.net/secure/api/v2/15331/Work%20Holiday/API%20Holidays%20Today%20or%20Later/select.json", {
+  method: "GET",
+  mode: "no-cors",
+  headers: {
+    "Accept": "application/json",
+    "Authorization": "Bearer " + Deno.env.get("API_KEY_01"),
+  },
+});
+const holidays2 = await response2.json();
+export { holidays2 };
+
 // Get repo folder size
 import { join } from "https://deno.land/std/path/mod.ts";
+import { ModuleEngine } from "lume/plugins/modules.ts";
 async function getFolderSize(path: string): Promise<number> {
   let totalSize = 0;
 
