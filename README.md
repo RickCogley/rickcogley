@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Friday, December 13, 2024  
+**Today is:** Saturday, December 14, 2024  
 
 
 ### Hi there 👋
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [AT Protocol service list.&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3ld55grnp6k2t)
 * [If you need a logo designed, consider asking Lucie Baratte, founder of Logology. They have a catalog of ready-made logos, and can design custom ones as well. We love what they did for eSolia’s 25th anniversary refresh! 🥰](https://bsky.app/profile/cogley.jp/post/3lcyh63gluk2q)
 * [I like the Monokai Pro VS Code theme enough to have paid for it, and my eyes are thanking me. Good stuff from Wimer Hazenberg, and you can read about its interesting history here! 👨🏼‍💻](https://bsky.app/profile/cogley.jp/post/3lcyenbzbqb24)
-* [I for one am just glad I could find that one uuid I had forgot about, containing ‘beefcade’. 😂](https://bsky.app/profile/cogley.jp/post/3lcthywajup2q)
 
 
 ## Stats:
@@ -31,7 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4717 |
+| Repo Size in MB | 4718 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.4 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
