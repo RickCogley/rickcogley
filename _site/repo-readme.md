@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Monday, December 16, 2024  
+**Today is:** Tuesday, December 17, 2024  
 
 
 ### Hi there 👋
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [I found out I have a library card I can use with Libby, so I took advantage and checked out Kitchen by Banana Yoshimoto. Kudos to translator Megan Backus, who managed to evoke the right emotions. 📚](https://bsky.app/profile/cogley.jp/post/3ldfqlhfyns23)
 * [AT Protocol service list.&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3ld55grnp6k2t)
 * [If you need a logo designed, consider asking Lucie Baratte, founder of Logology. They have a catalog of ready-made logos, and can design custom ones as well. We love what they did for eSolia’s 25th anniversary refresh! 🥰](https://bsky.app/profile/cogley.jp/post/3lcyh63gluk2q)
-* [I like the Monokai Pro VS Code theme enough to have paid for it, and my eyes are thanking me. Good stuff from Wimer Hazenberg, and you can read about its interesting history here! 👨🏼‍💻](https://bsky.app/profile/cogley.jp/post/3lcyenbzbqb24)
 
 
 ## Stats:
