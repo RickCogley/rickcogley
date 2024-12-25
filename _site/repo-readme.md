@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Wednesday, December 25, 2024  
+**Today is:** Thursday, December 26, 2024  
 
 
 ### Hi there 👋
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [Got a Kindle Paperwhite Signature Edition, but unfortunately it’s not possible to transfer old Kindle book purchases I made a long time ago in the US, to my main Japan-based Amazon account. The Paperwhite e-ink tech is fantastic, but it’s annoying to have to pay twice. 😤](https://bsky.app/profile/cogley.jp/post/3le3kh4gsbj2g)
 * [Been doing the “big tidy” for the past couple of weekends. Today was about changing the sink filter, cleaning the range hood, sprinkling weed killer, and lubing up the rollers and hinges in the house. 🏡🧹](https://bsky.app/profile/cogley.jp/post/3ldsrsgiszi24)
 * [I read this a while back, and it is worth a re-read: The Devil in the White City by Erik Larson 📚](https://bsky.app/profile/cogley.jp/post/3ldp37vueci2o)
-* [I found out I have a library card I can use with Libby, so I took advantage and checked out Kitchen by Banana Yoshimoto. Kudos to translator Megan Backus, who managed to evoke the right emotions. 📚](https://bsky.app/profile/cogley.jp/post/3ldfqlhfyns23)
 
 
 ## Stats:
@@ -31,7 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4725 |
+| Repo Size in MB | 4726 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.4 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
