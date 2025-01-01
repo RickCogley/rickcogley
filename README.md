@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Wednesday, January 1, 2025  
+**Today is:** Thursday, January 2, 2025  
 
 
 ### Hi there 👋
@@ -13,17 +13,17 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [🎍 Happy new year 2025](https://rick.status.lol/6774f860dcccc)
 * [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/67504093d5cd6)
 * [🤼‍♂️ Wrasslin’ Deno fetch](https://rick.status.lol/674f018d15a26)
 * [🌀 Marvelling at polypane.app; wow, what a fantastic tool. It will really help site development.](https://rick.status.lol/674d6dc717a34)
 * [🚶‍♂️ Stepping through [CSS Complete](https://piccalil.li/complete-css), shaking off what feels like years of counterproductive knowledge.](https://rick.status.lol/674bafe79378c)
-* [💻 Subscribed to and am now kicking the tires on &quot;CleanShot X&quot;. It&#039;s really fantastic screenshot software for Mac.](https://rick.status.lol/6747bc72c0a59)
 
 
 ## Latest Bluesky Posts:
+* [Japan Shrine Donation Amounts: https://cogley.jp/2025/01/01/japan-shrine-donation-amounts.html](https://bsky.app/profile/cogley.jp/post/3leo2yggmyg27)
+* [Happy New Year one and all. Hope it’s a good one for you! In Japan, we have osechi like in these photos. 🎍🇯🇵](https://bsky.app/profile/cogley.jp/post/3lennfyrrk723)
 * [Got a Kindle Paperwhite Signature Edition, but unfortunately it’s not possible to transfer old Kindle book purchases I made a long time ago in the US, to my main Japan-based Amazon account. The Paperwhite e-ink tech is fantastic, but it’s annoying to have to pay twice. 😤](https://bsky.app/profile/cogley.jp/post/3le3kh4gsbj2g)
-* [Been doing the “big tidy” for the past couple of weekends. Today was about changing the sink filter, cleaning the range hood, sprinkling weed killer, and lubing up the rollers and hinges in the house. 🏡🧹](https://bsky.app/profile/cogley.jp/post/3ldsrsgiszi24)
-* [I read this a while back, and it is worth a re-read: The Devil in the White City by Erik Larson 📚](https://bsky.app/profile/cogley.jp/post/3ldp37vueci2o)
 
 
 ## Stats:
