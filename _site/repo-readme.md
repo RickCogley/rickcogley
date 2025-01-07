@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Tuesday, January 7, 2025  
+**Today is:** Wednesday, January 8, 2025  
 
 
 ### Hi there 👋
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [For my birthday (59! what?!) I got this Kanazawa-ya U-shaped pillow with wool stuffing. Ordered during their New Year sale, it came with a nice case (expected) and extra stuffing and a handkerchief to boot (a bonus!). It’s great! 😴 #金澤屋](https://bsky.app/profile/cogley.jp/post/3lf52vsmnkq2k)
 * [Congrats to Aoyama Gakuin for their incredible run of the Hakone Ekiden in 10:40:20, a new record. 2nd Komazawa 2:50 back, 3rd Kokugakuin 9:29 back, edging Waseda! 🏃🏼‍♂️](https://bsky.app/profile/cogley.jp/post/3lesr2or2aj2x)
 * [Depressing to read this. It’s going to get worse, too, I reckon.&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3les7l75ct22m)
-* [Japan Shrine Donation Amounts: https://cogley.jp/2025/01/01/japan-shrine-donation-amounts.html](https://bsky.app/profile/cogley.jp/post/3leo2yggmyg27)
 
 
 ## Stats:
