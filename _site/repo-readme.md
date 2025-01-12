@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
-**Today is:** Sunday, January 12, 2025  
+**Today is:** Monday, January 13, 2025  
 
 
 ### Hi there 👋
@@ -21,9 +21,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 
 ## Latest Bluesky Posts:
+* [Congrats, can’t wait to try the Google Font subsetting and PurgeCSS. Thanks for all the hard work!&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3lfifbh7qms2c)
 * [At Unitora in Senkyaku-Banrai (Toyosu, Shijomae), before we go to TeamLab Planets. It was sooo good. 🍣](https://bsky.app/profile/cogley.jp/post/3lfgtccxcmm2o)
 * [For my birthday (59! what?!) I got this Kanazawa-ya U-shaped pillow with wool stuffing. Ordered during their New Year sale, it came with a nice case (expected) and extra stuffing and a handkerchief to boot (a bonus!). It’s great! 😴 #金澤屋](https://bsky.app/profile/cogley.jp/post/3lf52vsmnkq2k)
-* [Congrats to Aoyama Gakuin for their incredible run of the Hakone Ekiden in 10:40:20, a new record. 2nd Komazawa 2:50 back, 3rd Kokugakuin 9:29 back, edging Waseda! 🏃🏼‍♂️](https://bsky.app/profile/cogley.jp/post/3lesr2or2aj2x)
 
 
 ## Stats:
@@ -31,7 +31,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4708 |
+| Repo Size in MB | 4709 |
 | Lume Version | v2.4.2 |
 | Deno Version | 2.1.5 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
