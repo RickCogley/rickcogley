@@ -1,8 +1,8 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** January 13th, 2025 at 1:35:54 PM GMT+9  
-**Today is:** Monday, January 13, 2025  
-**It's a holiday in Japan:**Coming-of-age Day / 成人の日
+**Last Updated:**&nbsp; January 13th, 2025 at 1:41:11 PM GMT+9  
+**Today is:**&nbsp; Monday, January 13, 2025  
+**It's a holiday in Japan:**&nbsp;Coming-of-age Day / 成人の日
 ### Hi there 👋
 
 I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
@@ -35,7 +35,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4793 |
+| Repo Size in MB | 4794 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.1.5 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
