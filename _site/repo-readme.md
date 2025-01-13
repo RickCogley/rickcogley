@@ -1,6 +1,6 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
+**Last Updated:** January 13th, 2025 at 1:28:42 PM GMT+9  
 **Today is:** Monday, January 13, 2025  
 **It's a holiday in Japan:**Coming-of-age Day / 成人の日
 ### Hi there 👋
@@ -12,8 +12,6 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
-* [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/6781e8d4892e8)
-* [🎍 Happy new year 2025](https://rick.status.lol/6774f860dcccc)
 * [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/6781e8d4892e8)
 * [🎍 Happy new year 2025](https://rick.status.lol/6774f860dcccc)
 * [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/67504093d5cd6)
@@ -37,9 +35,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 6042 |
+| Repo Size in MB | 4790 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.1.5 (darwin aarch64) |
+| Deno Version | 2.1.5 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
