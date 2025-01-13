@@ -4,9 +4,9 @@ date: Git Last Modified
 ---
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
-**Last Updated:** {{ date |> date('HUMAN_DATETIME') }}  
-**Today is:** {{ todaysDateENUS }}  
-{{ set matchdate = todaysDateYYYYMMDD }}{{ set matchholi = futureholidays.filter(item => item['Date in YYYY-MM-DD'] === matchdate ) }}{{ if matchholi.length > 0 }}**It's a holiday in Japan:**  {{ set resultholi = matchholi.map(item => item['Name']) + " / " + matchholi.map(item => item['Name Jp']) }}{{ resultholi }}{{ /if }}
+**Last Updated:**&nbsp; {{ date |> date('HUMAN_DATETIME') }}  
+**Today is:**&nbsp; {{ todaysDateENUS }}  
+{{ set matchdate = todaysDateYYYYMMDD }}{{ set matchholi = futureholidays.filter(item => item['Date in YYYY-MM-DD'] === matchdate ) }}{{ if matchholi.length > 0 }}**It's a holiday in Japan:**&nbsp; {{ set resultholi = matchholi.map(item => item['Name']) + " / " + matchholi.map(item => item['Name Jp']) }}{{ resultholi }}{{ /if }}
 
 ### Hi there 👋
 
