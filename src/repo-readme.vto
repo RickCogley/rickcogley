@@ -6,7 +6,7 @@ date: Git Last Modified
   
 **Last Updated:** {{ date |> date('HUMAN_DATETIME') }}  
 **Today is:** {{ todaysDateENUS }}  
-{{ set matchdate = todaysDateYYYYMMDD }}{{ set matchholi = futureholidays.filter(item => item['Date in YYYY-MM-DD'] === matchdate ) }}{{ if matchholi.length > 0 }}**It's a holiday in Japan:** {{ set resultholi = matchholi.map(item => item['Name']) + " / " + matchholi.map(item => item['Name Jp']) }}{{ resultholi }}{{ /if }}
+{{ set matchdate = todaysDateYYYYMMDD }}{{ set matchholi = futureholidays.filter(item => item['Date in YYYY-MM-DD'] === matchdate ) }}{{ if matchholi.length > 0 }}**It's a holiday in Japan:**  {{ set resultholi = matchholi.map(item => item['Name']) + " / " + matchholi.map(item => item['Name Jp']) }}{{ resultholi }}{{ /if }}
 
 ### Hi there 👋
 
