@@ -13,6 +13,8 @@ import date from "lume/plugins/date.ts";
 import { getGitDate } from "lume/core/utils/date.ts";
 import { enUS } from "npm:date-fns/locale/en-US";
 import { ja } from "npm:date-fns/locale/ja";
+import purgecss from "lume/plugins/purgecss.ts";
+import plaintext from "lume/plugins/plaintext.ts";
 
 /** Configure the site */
 export default function () {
@@ -26,7 +28,11 @@ export default function () {
       .use(simpleIcons())
       .use(icons())
       .use(prism())
-      .use(date({ locales: { enUS, ja } }));
+      .use(date({ locales: { enUS, ja } }))
+      .use(purgecss({
+        fontFace: true,
+      }))
+      .use(plaintext())
 
     site.data("textColor", (hex: string) => {
       const color = new Color(`#${hex}`);

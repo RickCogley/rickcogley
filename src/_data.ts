@@ -121,3 +121,4 @@ console.log("DENO_INSTALL:", envdenoinstall);
 // console.log("env:", env);
 // console.log(holidays2);
 // console.log(holidays);
+console.log(microblogposts);

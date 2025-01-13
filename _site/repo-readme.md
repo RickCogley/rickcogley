@@ -2,8 +2,7 @@
   
 **Last Updated:** December 4th, 2024 at 7:34:27 PM GMT+9  
 **Today is:** Monday, January 13, 2025  
-
-
+**It's a holiday in Japan:**Coming-of-age Day / 成人の日
 ### Hi there 👋
 
 I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
@@ -15,25 +14,32 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 ## Latest Statuses:
 * [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/6781e8d4892e8)
 * [🎍 Happy new year 2025](https://rick.status.lol/6774f860dcccc)
+* [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/6781e8d4892e8)
+* [🎍 Happy new year 2025](https://rick.status.lol/6774f860dcccc)
 * [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/67504093d5cd6)
 * [🤼‍♂️ Wrasslin’ Deno fetch](https://rick.status.lol/674f018d15a26)
 * [🌀 Marvelling at polypane.app; wow, what a fantastic tool. It will really help site development.](https://rick.status.lol/674d6dc717a34)
-
 
 ## Latest Bluesky Posts:
 * [Congrats, can’t wait to try the Google Font subsetting and PurgeCSS. Thanks for all the hard work!&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3lfifbh7qms2c)
 * [At Unitora in Senkyaku-Banrai (Toyosu, Shijomae), before we go to TeamLab Planets. It was sooo good. 🍣](https://bsky.app/profile/cogley.jp/post/3lfgtccxcmm2o)
 * [For my birthday (59! what?!) I got this Kanazawa-ya U-shaped pillow with wool stuffing. Ordered during their New Year sale, it came with a nice case (expected) and extra stuffing and a handkerchief to boot (a bonus!). It’s great! 😴 #金澤屋](https://bsky.app/profile/cogley.jp/post/3lf52vsmnkq2k)
 
+## Latest Micro Blog Posts:
+* [&lt;p&gt;At Unitora in Senkyaku-Banrai (Toyosu, Shijomae), before we go to TeamLab Planets ...](http://rickcogley.micro.blog/2025/01/11/at-unitora-in-senkyakubanrai-toyosu.html)
+* [&lt;p&gt;For my birthday (59! what?!) I got this &lt;a href=&#34;https://www.kanazawaya.ne ...](http://rickcogley.micro.blog/2025/01/07/for-my-birthday-what-i.html)
+* [&lt;p&gt;Congrats to Aoyama Gakuin for their incredible run of the Hakone Ekiden in 10:40: ...](http://rickcogley.micro.blog/2025/01/03/congrats-to-aoyama-gakuin-for.html)
+* [&lt;p&gt;Do you know how much money to give when you pray at a shrine in Japan? Read on to ...](http://rickcogley.micro.blog/2025/01/01/japan-shrine-donation-amounts.html)
+* [&lt;p&gt;Happy New Year one and all. Hope it’s a good one for you! In Japan, we have osech ...](http://rickcogley.micro.blog/2025/01/01/happy-new-year-one-and.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4709 |
-| Lume Version | v2.4.2 |
-| Deno Version | 2.1.5 (linux x86_64) |
+| Repo Size in MB | 6042 |
+| Lume Version | v2.5.0 |
+| Deno Version | 2.1.5 (darwin aarch64) |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
@@ -68,12 +74,6 @@ I'm generating this readme using the Lume static site generator. See [this page]
 
 <img src="/_site/icons/phosphor/acorn-duotone.svg" width="40px">
 <img src="/_site/css.svg" width="40px">
-
-
-
-
-
-
 
 
 

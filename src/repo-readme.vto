@@ -24,6 +24,10 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 {{ for item of bskyposts.entries }}* [{{ item.description.value }}]({{ item.links[0].href }})
 {{ /for }}
 
+## Latest Micro Blog Posts:
+{{ for item of microblogposts.entries }}* [{{ item.description.value |> plaintext |> substring(0,90)  |> concat(" ","...") }}]({{ item.id }})
+{{ /for }}
+
 ## Stats:
 
 | Item | Value |
