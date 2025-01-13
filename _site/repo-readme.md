@@ -1,8 +1,8 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; January 13th, 2025 at 1:41:11 PM GMT+9  
-**Today is:**&nbsp; Monday, January 13, 2025  
-**It's a holiday in Japan:**&nbsp;Coming-of-age Day / 成人の日
+**Today is:**&nbsp; Tuesday, January 14, 2025  
+
 ### Hi there 👋
 
 I'm the founder of a boutique IT services company called [eSolia](https://esolia.com), based in Tokyo and founded in 1999. We just passed our 25th anniversary and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
