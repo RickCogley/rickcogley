@@ -25,7 +25,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 {{ /for }}
 
 ## Latest Micro Blog Posts:
-{{ for item of microblogposts.entries }}* [{{ item.description.value |> plaintext |> substring(0,90)  |> concat(" ","...") }}]({{ item.id }})
+{{ for item of microblogposts.entries }}* [{{ item.description.value |> plaintext |> substring(9,90)  |> concat(" ","...") }}]({{ item.id }})
 {{ /for }}
 
 ## Stats:
