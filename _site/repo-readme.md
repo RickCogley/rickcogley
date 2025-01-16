@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; January 15th, 2025 at 5:45:46 PM GMT+9  
-**Today is:**&nbsp; Thursday, January 16, 2025  
+**Today is:**&nbsp; Friday, January 17, 2025  
 
 ### Hi there 👋
 
@@ -12,30 +12,30 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [🇯🇵 Renewed Japan driver license](https://rick.status.lol/6788c5f4d217e)
 * [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/6781e8d4892e8)
 * [🎍 Happy new year 2025](https://rick.status.lol/6774f860dcccc)
 * [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/67504093d5cd6)
 * [🤼‍♂️ Wrasslin’ Deno fetch](https://rick.status.lol/674f018d15a26)
-* [🌀 Marvelling at polypane.app; wow, what a fantastic tool. It will really help site development.](https://rick.status.lol/674d6dc717a34)
 
 ## Latest Bluesky Posts:
-* [Apple’s Image Playground (that I just got access to) would not make a fire-breathing Shiba for me, but it did set a Shiba’s tail on fire. 😜](https://bsky.app/profile/cogley.jp/post/3lfnzs4hwzu2m)
-* [Congrats, can’t wait to try the Google Font subsetting and PurgeCSS. Thanks for all the hard work!&#xA;&#xA;[contains quote post or other embedded content]](https://bsky.app/profile/cogley.jp/post/3lfifbh7qms2c)
-* [At Unitora in Senkyaku-Banrai (Toyosu, Shijomae), before we go to TeamLab Planets. It was sooo good. 🍣](https://bsky.app/profile/cogley.jp/post/3lfgtccxcmm2o)
+* [TeamLab Planets in Toyosu was Fantastic: https://cogley.jp/2025/01/16/teamlab-planets-in-toyosu-was.html](https://bsky.app/profile/cogley.jp/post/3lftspyx6pf22)
+* [A few years back I took IDEO’s “Insights for Innovation” 5-week course, and just reviewed the assignment submissions. I did manage to implement what I wanted to, at eSolia, and think this course was worth it. 😄](https://bsky.app/profile/cogley.jp/post/3lftrd55x4g2d)
+* [Renewed my Japan drivers license at the Futamatagawa center. A pretty efficient process for the most part, though I feel a little traumatized after having watched their safety video which contained several actual scenes of cars hitting bicycles! Be safe out there, people. 🚙](https://bsky.app/profile/cogley.jp/post/3lftqyqhc4s2l)
 
 ## Latest Micro Blog Posts:
+* [Visited &lt;a href=&#34;https://www.teamlab.art/jp/e/planets/&#34;&gt;TeamLab Pla ...](http://rickcogley.micro.blog/2025/01/16/teamlab-planets-in-toyosu-was.html)
+* [A few years back I took IDEO&amp;rsquo;s &amp;ldquo;&lt;a href=&#34;https://www.i ...](http://rickcogley.micro.blog/2025/01/16/a-few-years-back-i.html)
+* [Renewed my Japan drivers license at the Futamatagawa center. A pretty efficient p ...](http://rickcogley.micro.blog/2025/01/16/renewed-my-japan-drivers-license.html)
 * [Apple&amp;rsquo;s Image Playground (that I just got access to) would not make a f ...](http://rickcogley.micro.blog/2025/01/14/apples-image-playground-that-i.html)
 * [At Unitora in Senkyaku-Banrai (Toyosu, Shijomae), before we go to TeamLab Planets ...](http://rickcogley.micro.blog/2025/01/11/at-unitora-in-senkyakubanrai-toyosu.html)
-* [For my birthday (59! what?!) I got this &lt;a href=&#34;https://www.kanazawaya.ne ...](http://rickcogley.micro.blog/2025/01/07/for-my-birthday-what-i.html)
-* [Congrats to Aoyama Gakuin for their incredible run of the Hakone Ekiden in 10:40: ...](http://rickcogley.micro.blog/2025/01/03/congrats-to-aoyama-gakuin-for.html)
-* [Do you know how much money to give when you pray at a shrine in Japan? Read on to ...](http://rickcogley.micro.blog/2025/01/01/japan-shrine-donation-amounts.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4797 |
+| Repo Size in MB | 4798 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.1.5 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
