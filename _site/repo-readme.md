@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; January 15th, 2025 at 5:45:46 PM GMT+9  
-**Today is:**&nbsp; Tuesday, January 21, 2025  
+**Today is:**&nbsp; Wednesday, January 22, 2025  
 
 ### Hi there 👋
 
@@ -19,23 +19,23 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🤼‍♂️ Wrasslin’ Deno fetch](https://rick.status.lol/674f018d15a26)
 
 ## Latest Bluesky Posts:
+* [If you like design and thinking about design, User Friendly by Cliff Kuang is a home run of a book. Just fantastic. You could follow its threads to study further, for a year. 📚](https://bsky.app/profile/cogley.jp/post/3lgactzfckt2g)
 * [Interestingly heard via two completely separate conversations, D2’s husband and her best friend both are programming in python now in their careers; the former for data science, the latter for the back end of web sites. All that python setup nonsense gives me a rash, though. 🐍](https://bsky.app/profile/cogley.jp/post/3lg54az2as52b)
 * [TeamLab Planets in Toyosu was Fantastic: https://cogley.jp/2025/01/16/teamlab-planets-in-toyosu-was.html](https://bsky.app/profile/cogley.jp/post/3lftspyx6pf22)
-* [A few years back I took IDEO’s “Insights for Innovation” 5-week course, and just reviewed the assignment submissions. I did manage to implement what I wanted to, at eSolia, and think this course was worth it. 😄](https://bsky.app/profile/cogley.jp/post/3lftrd55x4g2d)
 
 ## Latest Micro Blog Posts:
+* [If you like design and thinking about design, &lt;a href=&#34;https://micro.blog/ ...](http://rickcogley.micro.blog/2025/01/21/if-you-like-design-and.html)
 * [Interestingly heard via two completely separate conversations, D2&amp;rsquo;s hus ...](http://rickcogley.micro.blog/2025/01/20/interestingly-heard-via-two-completely.html)
 * [Visited &lt;a href=&#34;https://www.teamlab.art/jp/e/planets/&#34;&gt;TeamLab Pla ...](http://rickcogley.micro.blog/2025/01/16/teamlab-planets-in-toyosu-was.html)
 * [A few years back I took IDEO&amp;rsquo;s &amp;ldquo;&lt;a href=&#34;https://www.i ...](http://rickcogley.micro.blog/2025/01/16/a-few-years-back-i.html)
 * [Renewed my Japan drivers license at the Futamatagawa center. A pretty efficient p ...](http://rickcogley.micro.blog/2025/01/16/renewed-my-japan-drivers-license.html)
-* [Apple&amp;rsquo;s Image Playground (that I just got access to) would not make a f ...](http://rickcogley.micro.blog/2025/01/14/apples-image-playground-that-i.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4801 |
+| Repo Size in MB | 4802 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.1.6 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
