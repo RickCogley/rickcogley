@@ -35,7 +35,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4805 |
+| Repo Size in MB | 4807 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.1.7 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |

@@ -9,8 +9,6 @@ I'm the founder of a boutique IT services company called [eSolia](https://esolia
 
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're _old_ if you know what `autoexec.bat` and `config.sys` are)! 
 
-I'm currently refreshing my knowledge for modern JavaScript. 
-
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
@@ -37,7 +35,7 @@ I'm currently refreshing my knowledge for modern JavaScript.
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4805 |
+| Repo Size in MB | 4807 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.1.7 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
