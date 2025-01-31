@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; January 15th, 2025 at 5:45:46 PM GMT+9  
-**Today is:**&nbsp; Friday, January 31, 2025  
+**Today is:**&nbsp; Saturday, February 1, 2025  
 
 ### Hi there 👋
 
@@ -19,16 +19,16 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🤼‍♂️ Wrasslin’ Deno fetch](https://rick.status.lol/674f018d15a26)
 
 ## Latest Bluesky Posts:
+* [Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia. You fill a fill a form, tell what blessings you want (we chose business success and employee health), wear a special sash around your neck, and attend a 15 min ceremony. Let’s go! ⛩️🙏🏻](https://bsky.app/profile/cogley.jp/post/3lgyx25kmtd22)
 * [If you like design and thinking about design, User Friendly by Cliff Kuang is a home run of a book. Just fantastic. You could follow its threads to study further, for a year. 📚](https://bsky.app/profile/cogley.jp/post/3lgactzfckt2g)
 * [Interestingly heard via two completely separate conversations, D2’s husband and her best friend both are programming in python now in their careers; the former for data science, the latter for the back end of web sites. All that python setup nonsense gives me a rash, though. 🐍](https://bsky.app/profile/cogley.jp/post/3lg54az2as52b)
-* [TeamLab Planets in Toyosu was Fantastic: https://cogley.jp/2025/01/16/teamlab-planets-in-toyosu-was.html](https://bsky.app/profile/cogley.jp/post/3lftspyx6pf22)
 
 ## Latest Micro Blog Posts:
+* [Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia.  ...](http://rickcogley.micro.blog/2025/01/31/went-to-kanda-daimyojin-shrine.html)
 * [If you like design and thinking about design, &lt;a href=&#34;https://micro.blog/ ...](http://rickcogley.micro.blog/2025/01/21/if-you-like-design-and.html)
 * [Interestingly heard via two completely separate conversations, D2&amp;rsquo;s hus ...](http://rickcogley.micro.blog/2025/01/20/interestingly-heard-via-two-completely.html)
 * [Visited &lt;a href=&#34;https://www.teamlab.art/jp/e/planets/&#34;&gt;TeamLab Pla ...](http://rickcogley.micro.blog/2025/01/16/teamlab-planets-in-toyosu-was.html)
 * [A few years back I took IDEO&amp;rsquo;s &amp;ldquo;&lt;a href=&#34;https://www.i ...](http://rickcogley.micro.blog/2025/01/16/a-few-years-back-i.html)
-* [Renewed my Japan drivers license at the Futamatagawa center. A pretty efficient p ...](http://rickcogley.micro.blog/2025/01/16/renewed-my-japan-drivers-license.html)
 
 ## Stats:
 
@@ -37,7 +37,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Repo Total Files | 7 |
 | Repo Size in MB | 4809 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.1.7 (linux x86_64) |
+| Deno Version | 2.1.9 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
 | Typescript Version | 5.6.2 |
 | Timezone | Asia/Tokyo |
