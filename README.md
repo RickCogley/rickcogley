@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; January 15th, 2025 at 5:45:46 PM GMT+9  
-**Today is:**&nbsp; Friday, February 14, 2025  
+**Today is:**&nbsp; Saturday, February 15, 2025  
 
 ### Hi there 👋
 
@@ -12,30 +12,30 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
-* [😷 Recovered from a persistent cold](https://rick.status.lol/67a1a389c28bb)
-* [🇯🇵 Renewed Japan driver license](https://rick.status.lol/6788c5f4d217e)
-* [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/6781e8d4892e8)
-* [🎍 Happy new year 2025](https://rick.status.lol/6774f860dcccc)
-* [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/67504093d5cd6)
+* [😷 Recovered from a persistent cold](https://rick.status.lol/rick/67a1a389c28bb)
+* [🇯🇵 Renewed Japan driver license](https://rick.status.lol/rick/6788c5f4d217e)
+* [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/rick/6781e8d4892e8)
+* [🎍 Happy new year 2025](https://rick.status.lol/rick/6774f860dcccc)
+* [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/rick/67504093d5cd6)
 
 ## Latest Bluesky Posts:
+* [Happy Valentine’s Day 😍 special chocolate from Blue Cacao!](https://bsky.app/profile/cogley.jp/post/3li55ltuyrd2g)
 * [I really enjoyed and found insightful I Never Thought of It That Way by Mónica Guzmán. It will give you tips about how to bridge the divide in conversation with those you disagree with, and help you stay curious! 📚](https://bsky.app/profile/cogley.jp/post/3lhzfa4sp7l27)
 * [Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia. You fill a fill a form, tell what blessings you want (we chose business success and employee health), wear a special sash around your neck, and attend a 15 min ceremony. Let’s go! ⛩️🙏🏻](https://bsky.app/profile/cogley.jp/post/3lgyx25kmtd22)
-* [If you like design and thinking about design, User Friendly by Cliff Kuang is a home run of a book. Just fantastic. You could follow its threads to study further, for a year. 📚](https://bsky.app/profile/cogley.jp/post/3lgactzfckt2g)
 
 ## Latest Micro Blog Posts:
+* [Happy Valentine’s Day 😍 special chocolate from Blue Cacao!&lt;/p&gt; &lt;img src ...](http://rickcogley.micro.blog/2025/02/14/happy-valentines-day-special-chocolate.html)
 * [I really enjoyed and found insightful &lt;a href=&#34;https://micro.blog/books/97 ...](http://rickcogley.micro.blog/2025/02/13/i-really-enjoyed-and-found.html)
 * [Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia.  ...](http://rickcogley.micro.blog/2025/01/31/went-to-kanda-daimyojin-shrine.html)
 * [If you like design and thinking about design, &lt;a href=&#34;https://micro.blog/ ...](http://rickcogley.micro.blog/2025/01/21/if-you-like-design-and.html)
 * [Interestingly heard via two completely separate conversations, D2&amp;rsquo;s hus ...](http://rickcogley.micro.blog/2025/01/20/interestingly-heard-via-two-completely.html)
-* [Visited &lt;a href=&#34;https://www.teamlab.art/jp/e/planets/&#34;&gt;TeamLab Pla ...](http://rickcogley.micro.blog/2025/01/16/teamlab-planets-in-toyosu-was.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4782 |
+| Repo Size in MB | 4783 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.1.10 (linux x86_64) |
 | V8 Version | 13.0.245.12-rusty |
