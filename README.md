@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; January 15th, 2025 at 5:45:46 PM GMT+9  
-**Today is:**&nbsp; Sunday, February 16, 2025  
+**Today is:**&nbsp; Monday, February 17, 2025  
 
 ### Hi there 👋
 
@@ -19,16 +19,16 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/rick/67504093d5cd6)
 
 ## Latest Bluesky Posts:
+* [Our dog goes to daycare with a big unit of a black lab, whose human is French, so I decided to compile a French dog command list, with Japanese and English, to try to communicate next time we meet. Assis! 🐾](https://bsky.app/profile/cogley.jp/post/3lib6u4kynp2g)
 * [Happy Valentine’s Day 😍 special chocolate from Blue Cacao!](https://bsky.app/profile/cogley.jp/post/3li55ltuyrd2g)
 * [I really enjoyed and found insightful I Never Thought of It That Way by Mónica Guzmán. It will give you tips about how to bridge the divide in conversation with those you disagree with, and help you stay curious! 📚](https://bsky.app/profile/cogley.jp/post/3lhzfa4sp7l27)
-* [Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia. You fill a fill a form, tell what blessings you want (we chose business success and employee health), wear a special sash around your neck, and attend a 15 min ceremony. Let’s go! ⛩️🙏🏻](https://bsky.app/profile/cogley.jp/post/3lgyx25kmtd22)
 
 ## Latest Micro Blog Posts:
+* [Our dog goes to daycare with a big unit of a black lab, whose human is French, so ...](http://rickcogley.micro.blog/2025/02/16/our-dog-goes-to-daycare.html)
 * [Happy Valentine’s Day 😍 special chocolate from Blue Cacao!&lt;/p&gt; &lt;img src ...](http://rickcogley.micro.blog/2025/02/14/happy-valentines-day-special-chocolate.html)
 * [I really enjoyed and found insightful &lt;a href=&#34;https://micro.blog/books/97 ...](http://rickcogley.micro.blog/2025/02/13/i-really-enjoyed-and-found.html)
 * [Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia.  ...](http://rickcogley.micro.blog/2025/01/31/went-to-kanda-daimyojin-shrine.html)
 * [If you like design and thinking about design, &lt;a href=&#34;https://micro.blog/ ...](http://rickcogley.micro.blog/2025/01/21/if-you-like-design-and.html)
-* [Interestingly heard via two completely separate conversations, D2&amp;rsquo;s hus ...](http://rickcogley.micro.blog/2025/01/20/interestingly-heard-via-two-completely.html)
 
 ## Stats:
 
