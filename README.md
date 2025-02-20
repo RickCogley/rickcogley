@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; January 15th, 2025 at 5:45:46 PM GMT+9  
-**Today is:**&nbsp; Thursday, February 20, 2025  
+**Today is:**&nbsp; Friday, February 21, 2025  
 
 ### Hi there 👋
 
@@ -19,23 +19,23 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/rick/67504093d5cd6)
 
 ## Latest Bluesky Posts:
+* [If you do any system admin and use the terminal, starship.rs is a really easy value add. For instance if you’re in a vps that just has bash installed, running the starship installer gets you a decent prompt in 10 sec.](https://bsky.app/profile/cogley.jp/post/3lilrkwlzq62y)
 * [Web-toolbox.dev is an excellent &amp; convenient bilingual English/Japanese site for web devs by K (thanks!), with various tools for generation, encoding, SEO, text. 🛠️](https://bsky.app/profile/cogley.jp/post/3liiozz2n342l)
 * [I want to learn more about storytelling, and The Perfect Story by Karen Eber 📚 has been great so far. The author posted on LinkedIn about a new Japanese translation, which you can find here.](https://bsky.app/profile/cogley.jp/post/3lig4qk7dbq2l)
-* [I searched on the word “Hygge” after eating lunch at a cafe called that, and found this cozy little book on the topic: The Little Book of Hygge: Danish Secrets to Happy Living (The Happiness Institute Series) by Meik Wiking 📚](https://bsky.app/profile/cogley.jp/post/3lig4lecnbr2a)
 
 ## Latest Micro Blog Posts:
+* [If you do any system admin and use the terminal, &lt;a href=&#34;https://starship ...](http://rickcogley.micro.blog/2025/02/20/if-you-do-any-system.html)
 * [&lt;a href=&#34;https://web-toolbox.dev/&#34;&gt;Web-toolbox.dev&lt;/a&gt; is an  ...](http://rickcogley.micro.blog/2025/02/19/webtoolboxdev-is-an-excellent-convenient.html)
 * [I want to learn more about storytelling, and &lt;a href=&#34;https://micro.blog/b ...](http://rickcogley.micro.blog/2025/02/18/i-want-to-learn-more.html)
 * [I searched on the word &amp;ldquo;Hygge&amp;rdquo; after eating lunch at a cafe c ...](http://rickcogley.micro.blog/2025/02/18/i-searched-on-the-word.html)
 * [Our dog goes to daycare with a big unit of a black lab, whose human is French, so ...](http://rickcogley.micro.blog/2025/02/16/our-dog-goes-to-daycare.html)
-* [Happy Valentine’s Day 😍 special chocolate from Blue Cacao!&lt;/p&gt; &lt;img src ...](http://rickcogley.micro.blog/2025/02/14/happy-valentines-day-special-chocolate.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4786 |
+| Repo Size in MB | 4787 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.2.0 (linux x86_64) |
 | V8 Version | 13.4.114.9-rusty |
