@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Saturday, February 22, 2025  
+**Today is:**&nbsp; Sunday, February 23, 2025  
 
 ### Hi there 👋
 
@@ -12,11 +12,11 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [💦 Wrasslin’ Lume to get it to handle multilingual.](https://rick.status.lol/rick/67b98bf4e488e)
 * [😷 Recovered from a persistent cold](https://rick.status.lol/rick/67a1a389c28bb)
 * [🇯🇵 Renewed Japan driver license](https://rick.status.lol/rick/6788c5f4d217e)
 * [😋 Eating lunch at a high end fish place in Senkyaku Banrai in Toyosu](https://rick.status.lol/rick/6781e8d4892e8)
 * [🎍 Happy new year 2025](https://rick.status.lol/rick/6774f860dcccc)
-* [🥌 Leanin&#039; heavy on curl to get the job done](https://rick.status.lol/rick/67504093d5cd6)
 
 ## Latest Bluesky Posts:
 * [If you do any system admin and use the terminal, starship.rs is a really easy value add. For instance if you’re in a vps that just has bash installed, running the starship installer gets you a decent prompt in 10 sec.](https://bsky.app/profile/cogley.jp/post/3lilrkwlzq62y)
