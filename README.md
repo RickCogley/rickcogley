@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Tuesday, February 25, 2025  
+**Today is:**&nbsp; Wednesday, February 26, 2025  
 
 ### Hi there 👋
 
@@ -19,9 +19,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🎍 Happy new year 2025](https://rick.status.lol/rick/6774f860dcccc)
 
 ## Latest Bluesky Posts:
+* [Getting some lovin’ from @maru-the-shiba.bsky.social](https://bsky.app/profile/cogley.jp/post/3lix6kg7wjh2c)
 * [Learned about our local evac center’s “Hamakko Toilet” at today’s event. It’s a sewage pipe you fill with pool water at one end, set toilets above opened man holes, and periodically flush by opening a big valve at the other end. 🚽🚽](https://bsky.app/profile/cogley.jp/post/3litr5srvnj2f)
 * [Had a local disaster prevention event today. A civil servant / volunteer fireman said we should not assume Yokohama city will prepare enough food or supplies, and that we need to ready our own. A sobering thought! 🧯🚒](https://bsky.app/profile/cogley.jp/post/3litqraiz4n2c)
-* [If you do any system admin and use the terminal, starship.rs is a really easy value add. For instance if you’re in a vps that just has bash installed, running the starship installer gets you a decent prompt in 10 sec.](https://bsky.app/profile/cogley.jp/post/3lilrkwlzq62y)
 
 ## Latest Micro Blog Posts:
 * [Learned about our local evac center’s “Hamakko Toilet” at today’s event. It’s a s ...](http://rickcogley.micro.blog/2025/02/23/learned-about-our-local-evac.html)
@@ -35,9 +35,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4794 |
+| Repo Size in MB | 4795 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.2.1 (linux x86_64) |
+| Deno Version | 2.2.2 (linux x86_64) |
 | V8 Version | 13.4.114.9-rusty |
 | Typescript Version | 5.7.3 |
 | Timezone | Asia/Tokyo |
