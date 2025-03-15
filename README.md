@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Saturday, March 15, 2025  
+**Today is:**&nbsp; Sunday, March 16, 2025  
 
 ### Hi there 👋
 
@@ -19,16 +19,16 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🎍 Happy new year 2025](https://rick.status.lol/rick/6774f860dcccc)
 
 ## Latest Bluesky Posts:
+* [I loved Think Again by Adam Grant 📚. I’m going to set aside regular time for re-thinking, try to abandon best practices, and “not get stranded at the summit of Mt. Stupid.” 😅](https://bsky.app/profile/cogley.jp/post/3lkf54km7uu22)
+* [Some of the fam went to Sapporo and Otaru in Hokkaido. I had to work, but they brought some hanasaki crab and we ate it last night. Wow, it’s reaally good! 🦀](https://bsky.app/profile/cogley.jp/post/3lkf4xurzc42c)
 * [Getting some lovin’ from @maru-the-shiba.bsky.social](https://bsky.app/profile/cogley.jp/post/3lix6kg7wjh2c)
-* [Learned about our local evac center’s “Hamakko Toilet” at today’s event. It’s a sewage pipe you fill with pool water at one end, set toilets above opened man holes, and periodically flush by opening a big valve at the other end. 🚽🚽](https://bsky.app/profile/cogley.jp/post/3litr5srvnj2f)
-* [Had a local disaster prevention event today. A civil servant / volunteer fireman said we should not assume Yokohama city will prepare enough food or supplies, and that we need to ready our own. A sobering thought! 🧯🚒](https://bsky.app/profile/cogley.jp/post/3litqraiz4n2c)
 
 ## Latest Micro Blog Posts:
+* [I loved &lt;a href=&#34;https://micro.blog/books/9781984878113&#34;&gt;Think Agai ...](http://rickcogley.micro.blog/2025/03/15/i-loved-think-again-by.html)
+* [Some of the fam went to Sapporo and Otaru in Hokkaido. I had to work, but they br ...](http://rickcogley.micro.blog/2025/03/15/some-of-the-fam-went.html)
 * [Learned about our local evac center’s “Hamakko Toilet” at today’s event. It’s a s ...](http://rickcogley.micro.blog/2025/02/23/learned-about-our-local-evac.html)
 * [Had a local disaster prevention event today. A civil servant / volunteer fireman  ...](http://rickcogley.micro.blog/2025/02/23/had-a-local-disaster-prevention.html)
 * [If you do any system admin and use the terminal, &lt;a href=&#34;https://starship ...](http://rickcogley.micro.blog/2025/02/20/if-you-do-any-system.html)
-* [&lt;a href=&#34;https://web-toolbox.dev/&#34;&gt;Web-toolbox.dev&lt;/a&gt; is an  ...](http://rickcogley.micro.blog/2025/02/19/webtoolboxdev-is-an-excellent-convenient.html)
-* [I want to learn more about storytelling, and &lt;a href=&#34;https://micro.blog/b ...](http://rickcogley.micro.blog/2025/02/18/i-want-to-learn-more.html)
 
 ## Stats:
 
@@ -37,7 +37,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Repo Total Files | 7 |
 | Repo Size in MB | 4805 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.2.3 (linux x86_64) |
+| Deno Version | 2.2.4 (linux x86_64) |
 | V8 Version | 13.4.114.11-rusty |
 | Typescript Version | 5.7.3 |
 | Timezone | Asia/Tokyo |
