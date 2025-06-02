@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Monday, June 2, 2025  
+**Today is:**&nbsp; Tuesday, June 3, 2025  
 
 ### Hi there 👋
 
@@ -19,16 +19,16 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🎍 Happy new year 2025](https://rick.status.lol/rick/6774f860dcccc)
 
 ## Latest Bluesky Posts:
-* [My firm just launched our new “Tech It Easy” blog with IT tips in English and Japanese from our team members, like this post on keyboard shortcuts. We hope it might come in handy. 😎&#xA;https://blog.esolia.pro/en/posts/20250403-essential-keyboard-shortcuts-en/](https://bsky.app/profile/cogley.jp/post/3lqggcgcex32t)
-* [Version 3 of the static site generator Lume was released after a Herculean dev cycle. It’s an incredibly flexible and powerful SSG written in Typescript by Óscar Otero.](https://bsky.app/profile/cogley.jp/post/3loonji4tew2m)
-* [When our tree flowers and I start hearing uguisu calls, I always feel spring has come. 🌸](https://bsky.app/profile/cogley.jp/post/3llnxflckws2e)
+* [On 2nd June in 1859 (166 years ago), the Yokohama port opened for business, after the US-Japan trade agreement the following year. I’ve been fortunate to live here in Yokohama for years now, and enjoy the international feeling of especially the port areas of Sakuragicho and Kannai. ⚓️](https://bsky.app/profile/cogley.jp/post/3lqltythqoj2j)
+* [Do you feel an age or generation gap working with people from younger or older generations? I know I do. I’d love to hear your experiences. Δ](https://bsky.app/profile/cogley.jp/post/3lqltenq7c62h)
+* [There’s a 1963 phone from NTT called the “model 600”, very much like the Bell model 500, which you can view among others at the NTT History Center of Technologies in Musashino, in west Tokyo. I hope to visit some day. ☎️&#xA;https://group.ntt/en/newsrelease/2022/09/06/220906a.html](https://bsky.app/profile/cogley.jp/post/3lqlpmqgf5u2j)
 
 ## Latest Micro Blog Posts:
-* [My firm just launched our new &amp;ldquo;Tech It Easy&amp;rdquo; blog with IT tip ...](http://rickcogley.micro.blog/2025/05/31/my-firm-just-launched-our.html)
-* [Version 3 of the static site generator Lume &lt;a href=&#34;https://lume.land/blo ...](http://rickcogley.micro.blog/2025/05/09/version-of-the-static-site.html)
-* [When our tree flowers and I start hearing uguisu calls, I always feel spring has  ...](http://rickcogley.micro.blog/2025/03/31/when-our-tree-flowers-and.html)
-* [Saw Wicked on Broadway a few years ago with A, and now we saw the IMAX movie. The ...](http://rickcogley.micro.blog/2025/03/23/saw-wicked-on-broadway-a.html)
-* [I loved &lt;a href=&#34;https://micro.blog/books/9781984878113&#34;&gt;Think Agai ...](http://rickcogley.micro.blog/2025/03/15/i-loved-think-again-by.html)
+* [On 2nd June in 1859 (166 years ago), the Yokohama port opened for business, after ...](http://rickcogley.micro.blog/2025/06/02/on-nd-june-in-years.html)
+* [Do you feel an age or generation gap working with people from younger or older ge ...](http://rickcogley.micro.blog/2025/06/02/do-you-feel-an-age.html)
+* [There&amp;rsquo;s a 1963 phone from NTT called the &amp;ldquo;model 600&amp;rdquo ...](http://rickcogley.micro.blog/2025/06/02/theres-a-phone-from-ntt.html)
+* [A few months ago I learned about Tilley and Dreyfuss&amp;rsquo; work &amp;ldquo;& ...](http://rickcogley.micro.blog/2025/06/02/a-few-months-ago-i.html)
+* [We are debating finally cancelling the landline in our house, which made me think ...](http://rickcogley.micro.blog/2025/06/02/we-are-debating-finally-cancelling.html)
 
 ## Stats:
 
