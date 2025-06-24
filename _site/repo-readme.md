@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Tuesday, June 24, 2025  
+**Today is:**&nbsp; Wednesday, June 25, 2025  
 
 ### Hi there 👋
 
@@ -19,25 +19,25 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🎍 Happy new year 2025](https://rick.status.lol/rick/6774f860dcccc)
 
 ## Latest Bluesky Posts:
+* [I use git and git clients daily, and a recent one I really like is the fast and featureful fork. It’s available for MacOS or Windows, and “just works”. ⋔⌨️⋔](https://bsky.app/profile/cogley.jp/post/3lsdz4srqok2i)
 * [Japan visitors, it’s supposed to be rainy season, but instead we have a heat stroke alert in Kanto. Take it seriously, stay cool, don’t push too hard! 🥵](https://bsky.app/profile/cogley.jp/post/3lrttcczgxf2t)
 * [My team at eSolia published a couple new blog posts, on checking your laptop battery health and asking AI about IT terms. Check them out! 😎&#xA;https://blog.esolia.pro/en/posts/20250409-check-battery-health-en/](https://bsky.app/profile/cogley.jp/post/3lr5evllwf22z)
-* [On 2nd June in 1859 (166 years ago), the Yokohama port opened for business, after the US-Japan trade agreement the following year. I’ve been fortunate to live here in Yokohama for years now, and enjoy the international feeling of especially the port areas of Sakuragicho and Kannai. ⚓️](https://bsky.app/profile/cogley.jp/post/3lqltythqoj2j)
 
 ## Latest Micro Blog Posts:
+* [I use git and git clients daily, and a recent one I really like is the fast and f ...](http://rickcogley.micro.blog/2025/06/24/i-use-git-and-git.html)
 * [Japan visitors, it&amp;rsquo;s supposed to be rainy season, but instead we have a ...](http://rickcogley.micro.blog/2025/06/18/japan-visitors-its-supposed-to.html)
 * [My team at eSolia published a couple new blog posts, on &lt;a href=&#34;https://b ...](http://rickcogley.micro.blog/2025/06/09/my-team-at-esolia-published.html)
 * [On 2nd June in 1859 (166 years ago), the Yokohama port opened for business, after ...](http://rickcogley.micro.blog/2025/06/02/on-nd-june-in-years.html)
 * [Do you feel an age or generation gap working with people from younger or older ge ...](http://rickcogley.micro.blog/2025/06/02/do-you-feel-an-age.html)
-* [There&amp;rsquo;s a 1963 phone from NTT called the &amp;ldquo;model 600&amp;rdquo ...](http://rickcogley.micro.blog/2025/06/02/theres-a-phone-from-ntt.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4859 |
+| Repo Size in MB | 4858 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.3.6 (linux x86_64) |
+| Deno Version | 2.3.7 (linux x86_64) |
 | V8 Version | 13.7.152.6-rusty |
 | Typescript Version | 5.8.3 |
 | Timezone | Asia/Tokyo |
