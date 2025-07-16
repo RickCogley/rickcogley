@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Wednesday, July 16, 2025  
+**Today is:**&nbsp; Thursday, July 17, 2025  
 
 ### Hi there 👋
 
@@ -37,8 +37,8 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Repo Total Files | 7 |
 | Repo Size in MB | 4879 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.4.1 (linux x86_64) |
-| V8 Version | 13.7.152.6-rusty |
+| Deno Version | 2.4.2 (linux x86_64) |
+| V8 Version | 13.7.152.14-rusty |
 | Typescript Version | 5.8.3 |
 | Timezone | Asia/Tokyo |
 
