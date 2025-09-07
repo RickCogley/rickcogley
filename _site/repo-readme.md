@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Sunday, September 7, 2025  
+**Today is:**&nbsp; Monday, September 8, 2025  
 
 ### Hi there 👋
 
@@ -19,23 +19,23 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [🇯🇵 Renewed Japan driver license](https://rick.status.lol/rick/6788c5f4d217e)
 
 ## Latest Bluesky Posts:
+* [Visited Osaka Expo 2025 on 6 Sept with 220,000 others. It was hot and crowded but ultimately a good time thanks to A’s planning and a little luck.](https://bsky.app/profile/cogley.jp/post/3lyag23rvig2u)
 * [We have the J-ALERT disaster warning system here in Japan which pushes mobile alerts regarding quakes, floods etc. It makes a big racket when a train car of phones get an alert! 💥](https://bsky.app/profile/cogley.jp/post/3ly2zhtuqak25)
 * [A and I are heading to Osaka to visit the Expo. Of course a typhoon was coming up as we were heading down so there was a delay but we are moving now. Oh and there’s a pet bird chirping away. 🚄🐤](https://bsky.app/profile/cogley.jp/post/3ly2yuvvisd24)
-* [Did you know you can add your Japan My Number card to your Apple Wallet? You can, using your MyNaPortal app. 🧐](https://bsky.app/profile/cogley.jp/post/3lsfubkj6yn2i)
 
 ## Latest Micro Blog Posts:
+* [Visited Osaka Expo 2025 on 6 Sept with 220,000 others. It was hot and crowded but ...](http://rickcogley.micro.blog/2025/09/07/visited-osaka-expo-on-sept.html)
 * [We have the &lt;a href=&#34;https://esolia.com/japan-emergency-broadcast-system-j ...](http://rickcogley.micro.blog/2025/09/05/we-have-the-jalert-disaster.html)
 * [A and I are heading to Osaka to visit the Expo. Of course a typhoon was coming up ...](http://rickcogley.micro.blog/2025/09/05/a-and-i-are-heading.html)
 * [Did you know you can add your Japan My Number card to your Apple Wallet? You can, ...](http://rickcogley.micro.blog/2025/06/25/did-you-know-you-can.html)
 * [I use git and git clients daily, and a recent one I really like is the fast and f ...](http://rickcogley.micro.blog/2025/06/24/i-use-git-and-git.html)
-* [Japan visitors, it&amp;rsquo;s supposed to be rainy season, but instead we have a ...](http://rickcogley.micro.blog/2025/06/18/japan-visitors-its-supposed-to.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4908 |
+| Repo Size in MB | 4909 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.4.5 (linux x86_64) |
 | V8 Version | 13.7.152.14-rusty |
