@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Thursday, October 16, 2025  
+**Today is:**&nbsp; Friday, October 17, 2025  
 
 ### Hi there 👋
 
@@ -12,11 +12,11 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Statuses:
+* [😒 Another daughter will leave the nest soon. Feeling pretty sad.](https://rick.status.lol/rick/68f0c9ae0437b)
 * [🗾 In line at the Osaka World Expo 2025. Yesterday was a typhoon but today is a scorcher.](https://rick.status.lol/rick/68bb6fe4797f2)
 * [🗺️ Heading to the Osaka Expo and no typhoon will stop us!](https://rick.status.lol/rick/68ba83e34be64)
 * [💦 Wrasslin’ Lume to get it to handle multilingual.](https://rick.status.lol/rick/67b98bf4e488e)
 * [😷 Recovered from a persistent cold](https://rick.status.lol/rick/67a1a389c28bb)
-* [🇯🇵 Renewed Japan driver license](https://rick.status.lol/rick/6788c5f4d217e)
 
 ## Latest Bluesky Posts:
 * [Visited Osaka Expo 2025 on 6 Sept with 220,000 others. It was hot and crowded but ultimately a good time thanks to A’s planning and a little luck.](https://bsky.app/profile/cogley.jp/post/3lyag23rvig2u)
@@ -35,7 +35,7 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4929 |
+| Repo Size in MB | 4930 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.5.4 (linux x86_64) |
 | V8 Version | 14.0.365.5-rusty |
