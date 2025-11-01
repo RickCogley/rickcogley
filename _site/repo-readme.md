@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Saturday, November 1, 2025  
+**Today is:**&nbsp; Sunday, November 2, 2025  
 
 ### Hi there 👋
 
@@ -19,16 +19,16 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [😷 Recovered from a persistent cold](https://rick.status.lol/rick/67a1a389c28bb)
 
 ## Latest Bluesky Posts:
+* [Exciting World Series this year! On to game 7! 🏟️⚾️](https://bsky.app/profile/cogley.jp/post/3m4jzsjzigh2p)
 * [When you change your domain’s DNS (NS records), you can flush the records in major DNS providers to force a quicker propagation:&#xA;&#xA;Cloudflare: https://1.1.1.1/purge-cache/&#xA;Google: https://developers.google.com/speed/public-dns/cache&#xA;OpenDNS: https://cachecheck.opendns.com/](https://bsky.app/profile/cogley.jp/post/3m435settfy2b)
 * [Visited Osaka Expo 2025 on 6 Sept with 220,000 others. It was hot and crowded but ultimately a good time thanks to A’s planning and a little luck.](https://bsky.app/profile/cogley.jp/post/3lyag23rvig2u)
-* [We have the J-ALERT disaster warning system here in Japan which pushes mobile alerts regarding quakes, floods etc. It makes a big racket when a train car of phones get an alert! 💥](https://bsky.app/profile/cogley.jp/post/3ly2zhtuqak25)
 
 ## Latest Micro Blog Posts:
+* [Exciting World Series this year! On to game 7! 🏟️⚾️&lt;/p&gt; ...](http://rickcogley.micro.blog/2025/11/01/exciting-world-series-this-year.html)
 * [When you change your domain&amp;rsquo;s DNS (NS records), you can flush the recor ...](http://rickcogley.micro.blog/2025/10/26/when-you-change-your-domains.html)
 * [Visited Osaka Expo 2025 on 6 Sept with 220,000 others. It was hot and crowded but ...](http://rickcogley.micro.blog/2025/09/07/visited-osaka-expo-on-sept.html)
 * [We have the &lt;a href=&#34;https://esolia.com/japan-emergency-broadcast-system-j ...](http://rickcogley.micro.blog/2025/09/05/we-have-the-jalert-disaster.html)
 * [A and I are heading to Osaka to visit the Expo. Of course a typhoon was coming up ...](http://rickcogley.micro.blog/2025/09/05/a-and-i-are-heading.html)
-* [Did you know you can add your Japan My Number card to your Apple Wallet? You can, ...](http://rickcogley.micro.blog/2025/06/25/did-you-know-you-can.html)
 
 ## Stats:
 
