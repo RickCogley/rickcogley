@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Friday, November 14, 2025  
+**Today is:**&nbsp; Saturday, November 15, 2025  
 
 ### Hi there 👋
 
@@ -19,23 +19,23 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [😷 Recovered from a persistent cold](https://rick.status.lol/rick/67a1a389c28bb)
 
 ## Latest Bluesky Posts:
+* [We updated and upgraded eSolia’s Japan Emergency Information pages. Help a visitor to or resident in Japan by sharing! 🚑&#xA;https://esolia.co.jp/en/resources/japan/emergency/](https://bsky.app/profile/cogley.jp/post/3m5kxvolxl42o)
 * [Gosh what an exciting World Series. Dodgers and Blue Jays were both stellar and it was a nail biter until the end! Congrats LAD! 💦⚾️](https://bsky.app/profile/cogley.jp/post/3m4mtr7ndar2p)
 * [Exciting World Series this year! On to game 7! 🏟️⚾️](https://bsky.app/profile/cogley.jp/post/3m4jzsjzigh2p)
-* [When you change your domain’s DNS (NS records), you can flush the records in major DNS providers to force a quicker propagation:&#xA;&#xA;Cloudflare: https://1.1.1.1/purge-cache/&#xA;Google: https://developers.google.com/speed/public-dns/cache&#xA;OpenDNS: https://cachecheck.opendns.com/](https://bsky.app/profile/cogley.jp/post/3m435settfy2b)
 
 ## Latest Micro Blog Posts:
+* [We updated and upgraded eSolia&amp;rsquo;s &lt;a href=&#34;https://esolia.co.jp/e ...](http://rickcogley.micro.blog/2025/11/14/we-updated-and-upgraded-esolias.html)
 * [Gosh what an exciting World Series. Dodgers and Blue Jays were both stellar and i ...](http://rickcogley.micro.blog/2025/11/02/gosh-what-an-exciting-world.html)
 * [Exciting World Series this year! On to game 7! 🏟️⚾️&lt;/p&gt; ...](http://rickcogley.micro.blog/2025/11/01/exciting-world-series-this-year.html)
 * [When you change your domain&amp;rsquo;s DNS (NS records), you can flush the recor ...](http://rickcogley.micro.blog/2025/10/26/when-you-change-your-domains.html)
 * [Visited Osaka Expo 2025 on 6 Sept with 220,000 others. It was hot and crowded but ...](http://rickcogley.micro.blog/2025/09/07/visited-osaka-expo-on-sept.html)
-* [We have the &lt;a href=&#34;https://esolia.com/japan-emergency-broadcast-system-j ...](http://rickcogley.micro.blog/2025/09/05/we-have-the-jalert-disaster.html)
 
 ## Stats:
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4944 |
+| Repo Size in MB | 4945 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.5.6 (linux x86_64) |
 | V8 Version | 14.0.365.5-rusty |
