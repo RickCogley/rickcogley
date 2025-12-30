@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
   
 **Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Tuesday, December 30, 2025  
+**Today is:**&nbsp; Wednesday, December 31, 2025  
 
 ### Hi there 👋
 
@@ -19,9 +19,9 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 * [😷 Recovered from a persistent cold](https://rick.status.lol/rick/67a1a389c28bb)
 
 ## Latest Bluesky Posts:
+* [We are about to become _empty-nesters_ with daughter 1 ready to fly the coop to her **new** apartment closer to work. Pretty sad about it to be honest but it is nice to have them home for the holidays.](https://bsky.app/profile/cogley.jp/post/3mb6qt6vpiz2u)
 * [We updated and upgraded eSolia’s Japan Emergency Information pages. Help a visitor to or resident in Japan by sharing! 🚑&#xA;https://esolia.co.jp/en/resources/japan/emergency/](https://bsky.app/profile/cogley.jp/post/3m5kxvolxl42o)
 * [Gosh what an exciting World Series. Dodgers and Blue Jays were both stellar and it was a nail biter until the end! Congrats LAD! 💦⚾️](https://bsky.app/profile/cogley.jp/post/3m4mtr7ndar2p)
-* [Exciting World Series this year! On to game 7! 🏟️⚾️](https://bsky.app/profile/cogley.jp/post/3m4jzsjzigh2p)
 
 ## Latest Micro Blog Posts:
 * [We updated and upgraded eSolia&amp;rsquo;s &lt;a href=&#34;https://esolia.co.jp/e ...](http://rickcogley.micro.blog/2025/11/14/we-updated-and-upgraded-esolias.html)
