@@ -16,7 +16,10 @@ site.ignore("archive");
 
 // Prepare script to get holidays from dbflex
 // Escape the double quotes around the auth header
-site.script("getholidays", "cd src/_data && curl https://pro.dbflex.net/secure/api/v2/15331/${API_KEY_01}/Work%20Holiday/API%20Holidays%20Today%20or%20Later/select.json -o futureholidays.json");
+site.script(
+  "getholidays",
+  "cd src/_data && curl https://pro.dbflex.net/secure/api/v2/15331/${API_KEY_01}/Work%20Holiday/API%20Holidays%20Today%20or%20Later/select.json -o futureholidays.json",
+);
 
 // Prepare script to copy the generated readme to the repo root
 site.script(

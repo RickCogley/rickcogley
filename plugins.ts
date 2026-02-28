@@ -2,7 +2,7 @@ import "lume/types.ts";
 // import Color from "https://colorjs.io/dist/color.js";
 import Color from "npm:colorjs.io";
 import simpleIcons from "https://deno.land/x/lume_icon_plugins@v0.1.1/simpleicons.ts";
-import icons from "lume/plugins/icons.ts"
+import icons from "lume/plugins/icons.ts";
 import basePath from "lume/plugins/base_path.ts";
 import favicon from "lume/plugins/favicon.ts";
 import metas from "lume/plugins/metas.ts";
@@ -32,7 +32,7 @@ export default function () {
       .use(purgecss({
         fontFace: true,
       }))
-      .use(plaintext())
+      .use(plaintext());
 
     site.data("textColor", (hex: string) => {
       const color = new Color(`#${hex}`);

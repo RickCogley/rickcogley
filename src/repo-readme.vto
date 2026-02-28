@@ -2,47 +2,134 @@
 url: /repo-readme.md
 date: Git Last Modified
 ---
-[![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
-  
-**Last Updated:**&nbsp; {{ date |> date('HUMAN_DATETIME') }}  
-**Today is:**&nbsp; {{ todaysDateENUS }}  
+[![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
+
+**Last Updated:**&nbsp; {{ date |> date('HUMAN_DATETIME') }}
+**Today is:**&nbsp; {{ todaysDateENUS }}
 {{ set matchdate = todaysDateYYYYMMDD }}{{ set matchholi = futureholidays.filter(item => item['Date in YYYY-MM-DD'] === matchdate ) }}{{ if matchholi.length > 0 }}**It's a holiday in Japan:**&nbsp; {{ set resultholi = matchholi.map(item => item['Name']) + " / " + matchholi.map(item => item['Name Jp']) }}{{ resultholi }}{{ /if }}
 
 ### Hi there 👋
 
-I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tokyo, in 1999. We passed our 25th anniversary in July 2024 and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
+I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tokyo, in 1999. We passed our 25th anniversary in July 2024 and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.
 
-I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)! 
+I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late '80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)!
+
+{{ if randomQuote.text }}
+> _"{{ randomQuote.text }}"_ — {{ randomQuote.source }}
+{{ /if }}
+
+{{ if presence.status.emoji }}
+### {{ presence.status.emoji }} Currently: {{ presence.status.label }}
+{{ if presence.custom_text }}
+
+**Working on:** {{ presence.custom_text }}
+{{ /if }}
+{{ if presence.status.description }}
+
+_{{ presence.status.description }}_
+{{ /if }}
+{{ /if }}
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-## Latest Statuses:
-{{ for item of statuses.entries }}* [{{ item.description.value }}]({{ item.id }})
+{{ if nowData.this_week }}
+### What I'm Up To This Week
+{{ if nowData.this_week.themes && nowData.this_week.themes.length > 0 }}
+
+{{ set themeLabels = nowData.this_week.themes.map(t => "`" + t + "`").join(" ") }}**Themes:** {{ themeLabels }}
+{{ /if }}
+{{ if nowData.this_week.total_count > 0 }}
+
+**Activity:** {{ nowData.this_week.post_count }} posts{{ if nowData.this_week.article_count > 0 }}, {{ nowData.this_week.article_count }} articles{{ /if }}{{ if nowData.this_week.podcast_count > 0 }}, {{ nowData.this_week.podcast_count }} podcasts{{ /if }} this week
+{{ /if }}
+{{ /if }}
+
+{{ if nowData.currently_reading && nowData.currently_reading.length > 0 }}
+### Currently Reading
+{{ for book of nowData.currently_reading }}
+
+📖 **{{ book.title }}** by {{ book.author }}
+{{ /for }}
+{{ /if }}
+
+### Latest Posts
+
+{{ set postItems = [] }}{{ for item of posts.posts }}{{ set emoji = item.type === "article" ? "📝" : "💬" }}{{ set linktext = item.title ? item.title : item.excerpt.substring(0, 80) + "..." }}{{ set linkurl = item.title ? "https://cogley.jp/" + item.slug : "https://cogley.jp" }}{{ set postItems = postItems.concat("- " + emoji + " [" + linktext + "](" + linkurl + ") <sub>" + item.stream + "</sub>") }}{{ /for }}
+{{ for line of postItems }}
+{{ line }}
 {{ /for }}
 
-## Latest Bluesky Posts:
-{{ for item of bskyposts.entries }}* [{{ item.description.value }}]({{ item.links[0].href }})
-{{ /for }}
+### Content Stats
 
-## Latest Micro Blog Posts:
-{{ for item of microblogposts.entries }}* [{{ item.description.value |> plaintext |> substring(9,90)  |> concat(" ","...") }}]({{ item.id }})
-{{ /for }}
+| Type | Count |
+| --- | --- |
+| Posts | {{ stats.posts }} |
+| Articles | {{ stats.articles }} |
+| Podcasts | {{ stats.podcasts }} |
+| Pages | {{ stats.pages }} |
 
-## Stats:
+### System Architecture
+
+```mermaid
+graph LR
+    subgraph "Content Creation"
+        A[Markdown Files] --> B[pub-cogley CMS]
+        C[Quick Posts] --> B
+    end
+    subgraph "pub-cogley Platform"
+        B --> D[(D1 Database)]
+        D --> E[REST API]
+        E --> F[api.cogley.jp]
+    end
+    subgraph "Distribution"
+        F --> G[cogley.jp Website]
+        F --> H[GitHub Profile README]
+        F --> I[Syndication]
+    end
+    subgraph "Syndication Targets"
+        I --> J[Bluesky]
+        I --> K[Mastodon]
+        I --> L[Nostr]
+    end
+    style B fill:#f9f,stroke:#333
+    style F fill:#bbf,stroke:#333
+```
+
+### Content Flow
+
+```mermaid
+flowchart TD
+    A[New Post Created] --> B{Post Type?}
+    B -->|Micro| C[Short-form Content]
+    B -->|Article| D[Long-form Content]
+    B -->|Podcast| E[Audio Content]
+    C --> F[pub-cogley API]
+    D --> F
+    E --> F
+    F --> G[cogley.jp]
+    F --> H[Syndicate to Bluesky]
+    F --> I[Syndicate to Mastodon]
+    F --> J[Syndicate to Nostr]
+    F --> K[GitHub README via Lume]
+    style F fill:#bbf,stroke:#333
+    style G fill:#bfb,stroke:#333
+```
+
+### Build Stats
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | {{ search.files("").length }} |
-| Repo Size in MB | {{ repoSizeKB }} |
+| Repo Size in KB | {{ repoSizeKB }} |
 | Lume Version | {{ lumeVersion }} |
 | Deno Version | {{ Deno.version.deno }} ({{ Deno.build.os }} {{ Deno.build.arch }}) |
 | V8 Version | {{ Deno.version.v8 }} |
 | Typescript Version | {{ Deno.version.typescript }} |
 | Timezone | {{ Deno.env.get("TZ") }} |
 
-### How does this readme work? 
+### How does this readme work?
 
-I'm generating this readme using the Lume static site generator. See [this page](https://rickcogley.github.io/rickcogley/) for details to get your own! 
+I'm generating this readme using the [Lume](https://lume.land) static site generator, pulling data from my [pub-cogley](https://github.com/rickcogley/pub-cogley) API. See [this page](https://rickcogley.github.io/rickcogley/) for details to get your own!
 
 ### Tech Stack
 
@@ -67,21 +154,3 @@ I'm generating this readme using the Lume static site generator. See [this page]
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
-
-<img src="{{ "acorn" |> icon("phosphor", "duotone").replace("icons","_site/icons") }}" width="40px">
-<img src="/_site/css.svg" width="40px">
-
-{{# https://github.com/RickCogley/rickcogley/blob/main/icons/phosphor/acorn-duotone.svg #}}
-
-{{# <img src="/_site/icons/phosphor/acorn-duotone.svg" width="28px"> #}}
-{{# <img src="https://rickcogley.github.io/rickcogley/icons/phosphor/acorn-duotone.svg" width="36px"> #}}
-
-{{# ![acorn]({{ "acorn" |> icon("phosphor", "duotone").replace("icons","_site/icons") }}) #}}
-
-{{# ## Latest Blog Posts:
-{{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
-{{ /for }} #}}
-
-{{# ## Latest Blog Posts:
-{{ for item of microblogposts.entries }}* [{{ item.description.value |> slice(9,80) |> split(" ") |> slice(0,20) |> join(" ") |> concat(" ","...") }}]({{ item.id }})
-{{ /for }} #}}

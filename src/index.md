@@ -11,26 +11,26 @@ metas:
   description: =header.description
   image: =header.avatar
   generator: true
-  twitter: ''
+  twitter: ""
 links:
   - text: Lume
-    href: 'https://lume.land'
+    href: "https://lume.land"
     type: fireship
     only_icon: true
   - type: javascript
-    text: 'Vento'
-    href: 'https://vento.js.org/'
+    text: "Vento"
+    href: "https://vento.js.org/"
     only_icon: true
   - type: github
     text: Template Github (Rick's Profile)
-    href: 'https://github.com/rickcogley/rickcogley'
+    href: "https://github.com/rickcogley/rickcogley"
     only_icon: true
   - type: github
     text: Lume Github
-    href: 'https://github.com/lumeland'
+    href: "https://github.com/lumeland"
     only_icon: true
 footer: "Powered by [Lume](https://lume.land) & [SimpleMe](https://github.com/lumeland/theme-simple-me) theme"
-extra_head: ''
+extra_head: ""
 ---
 
 ## Github's Special Profile Repos
@@ -170,7 +170,8 @@ Just Edit the `repo-readme.vto` Vento template in markdown format, save, commit
 and push. If the GH action is working right, Lume will generate the readme file
 and copy it into place, after which you can see it on your personal repo.
 
-You can see a more simple version without any website creation tooling, in my [org eSolia's profile repo](https://github.com/eSolia/.github).
+You can see a more simple version without any website creation tooling, in my
+[org eSolia's profile repo](https://github.com/eSolia/.github).
 
 ## Is it good?
 

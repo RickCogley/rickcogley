@@ -1,9 +1,8 @@
 // Simple constants
 export const cacheBuster = `${new Date().getTime()}`;
-export const todaysDateYYYYMMDD = `${
-  new Date().toISOString("ja-JP", { timeZone: "Asia/Tokyo" }).split("T")[0]
-}`;
-// export const todaysDateYYYYMMDD2 = `${new Date().toISOString().slice(0, 10)}`;
+export const todaysDateYYYYMMDD = new Date().toLocaleDateString("sv-SE", {
+  timeZone: "Asia/Tokyo",
+});
 export const todaysDateJAJP = `${
   new Date().toLocaleString("ja-JP", {
     year: "numeric",
@@ -21,39 +20,93 @@ export const todaysDateENUS = `${
   })
 }`;
 
-// const tzoptions = { timeZone: 'America/Los_Angeles' };
-// console.log(date.toLocaleString('en-US', tzoptions));
-// export const todaysDateYYYYMMDD2 = `${new Date().toISOString().split("T")[0]}`;
-console.log(
-  `${new Date().toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })}`,
-);
-//console.log(event.toLocaleString('ko-KR', { timeZone: 'Asia/Tokyo' }));
-console.log(`${new Date().toISOString("ja-JP", { timeZone: "Asia/Tokyo" })}`);
+// Generic JSON fetcher with error handling
+const API_BASE = "https://api.cogley.jp/api";
 
-// Fetch holidays
-// https://holidays-jp.github.io/api/v1/date.json
-// https://webhook.site/esolia-holidays
-const response = await fetch("https://webhook.site/esolia-holidays", {
-  method: "GET",
-  mode: "no-cors",
-  headers: {
-    "Accept": "application/json",
-  },
+async function fetchJSON<T>(path: string, fallback: T): Promise<T> {
+  try {
+    const response = await fetch(`${API_BASE}${path}`, {
+      headers: { "Accept": "application/json" },
+    });
+    if (!response.ok) {
+      console.error(`API error ${response.status} for ${path}`);
+      return fallback;
+    }
+    return await response.json() as T;
+  } catch (error) {
+    console.error(`Failed to fetch ${path}:`, error);
+    return fallback;
+  }
+}
+
+// Fetch pub-cogley API data
+export const profile = await fetchJSON<
+  { sections: Array<Record<string, unknown>> }
+>("/profile", { sections: [] });
+
+export const quotes = await fetchJSON<
+  { quotes: Array<{ text: string; source: string }> }
+>("/profile/quotes", { quotes: [] });
+
+export const nowData = await fetchJSON<{
+  presence: Record<string, unknown>;
+  this_week: Record<string, unknown>;
+  recent_posts: Array<Record<string, unknown>>;
+  currently_reading: Array<Record<string, unknown>>;
+  sections: Array<Record<string, unknown>>;
+  github_activity: Record<string, unknown>;
+}>("/now", {
+  presence: {},
+  this_week: {},
+  recent_posts: [],
+  currently_reading: [],
+  sections: [],
+  github_activity: {},
 });
-const holidays = await response.json();
-export { holidays };
 
-// Fetch holidays with bearer token
-// const response2 = await fetch("https://pro.dbflex.net/secure/api/v2/15331/Work%20Holiday/API%20Holidays%20Today%20or%20Later/select.json", {
-//   method: "GET",
-//   mode: "no-cors",
-//   headers: {
-//     "Accept": "application/json",
-//     "Authorization": "Bearer " + Deno.env.get("API_KEY_01"),
-//   },
-// });
-// const holidays2 = await response2.json();
-// export { holidays2 };
+export const stats = await fetchJSON<{
+  posts: number;
+  articles: number;
+  podcasts: number;
+  pages: number;
+  drafts: number;
+}>("/stats", { posts: 0, articles: 0, podcasts: 0, pages: 0, drafts: 0 });
+
+export const posts = await fetchJSON<{
+  posts: Array<{
+    id: string;
+    type: string;
+    title: string | null;
+    content: string;
+    excerpt: string;
+    stream: string;
+    published_at: string;
+  }>;
+}>("/posts?status=published&limit=5", { posts: [] });
+
+export const presence = await fetchJSON<{
+  status: {
+    id: string;
+    label: string;
+    emoji: string;
+    description: string;
+  };
+  custom_text: string;
+  set_at: string;
+}>("/presence", {
+  status: { id: "", label: "", emoji: "", description: "" },
+  custom_text: "",
+  set_at: "",
+});
+
+// Pick a random quote (seeded by day so it changes daily, not per build)
+const dayOfYear = Math.floor(
+  (Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) /
+    86400000,
+);
+export const randomQuote = quotes.quotes.length > 0
+  ? quotes.quotes[dayOfYear % quotes.quotes.length]
+  : { text: "", source: "" };
 
 // Get repo folder size
 import { join } from "https://deno.land/std/path/mod.ts";
@@ -73,52 +126,6 @@ async function getFolderSize(path: string): Promise<number> {
   return totalSize;
 }
 const folderPath = "./";
-getFolderSize(folderPath).then((size) => {
-  console.log(`Total size: ${size / 1024 / 1024} MB`);
-});
 export const repoSizeLong = await getFolderSize(folderPath);
 export const repoSizeKB = Math.trunc(repoSizeLong / 1024);
 export const repoSizeMB = Math.trunc(repoSizeLong / 1024 / 1024);
-
-// Shuffle
-// https://en.wikipedia.org/wiki/Fisher-Yates_shuffle
-// import shuffle from "https://deno.land/x/shuffle/mod.ts";
-// console.log(shuffle(["i","ro","ha","ni","ho","he","to"]));
-
-// Import rss feed and convert to json
-import { parseFeed } from "https://deno.land/x/rss/mod.ts";
-async function fetchAndConvertRSS(url: string, limit: number) {
-  // Fetch the RSS feed
-  const response = await fetch(url);
-  const xml = await response.text();
-  // Parse the RSS feed
-  const feed = await parseFeed(xml);
-  // Limit the number of entries
-  const limitedEntries = feed.entries.slice(0, limit);
-  // Convert to JSON
-  // const json = JSON.stringify( {...feed, entries: limitedEntries }, null, 2);
-  const json = { ...feed, entries: limitedEntries };
-  return json;
-}
-const rssUrl = "https://rick.status.lol/feed/rss";
-const limit = 5;
-fetchAndConvertRSS(rssUrl, limit).then(console.log).catch(console.error);
-export const statuses = await fetchAndConvertRSS(rssUrl, limit);
-
-const rssUrl2 = "https://cogley.jp/feed.xml";
-const limit2 = 5;
-fetchAndConvertRSS(rssUrl2, limit2).then(console.log).catch(console.error);
-export const microblogposts = await fetchAndConvertRSS(rssUrl2, limit2);
-
-const rssUrl3 = "https://bsky.app/profile/did:plc:vc7gwsfznu7ct7isottesibn/rss";
-const limit3 = 3;
-fetchAndConvertRSS(rssUrl3, limit3).then(console.log).catch(console.error);
-export const bskyposts = await fetchAndConvertRSS(rssUrl3, limit3);
-
-const envdenoinstall = Deno.env.get("DENO_INSTALL");
-console.log("DENO_INSTALL:", envdenoinstall);
-// const env = Deno.env.toObject();
-// console.log("env:", env);
-// console.log(holidays2);
-// console.log(holidays);
-console.log(microblogposts);

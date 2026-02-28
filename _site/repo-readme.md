@@ -1,50 +1,113 @@
-[![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)  
-  
-**Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9  
-**Today is:**&nbsp; Sunday, January 4, 2026  
+[![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
+
+**Last Updated:**&nbsp; February 22nd, 2025 at 5:31:28 PM GMT+9
+**Today is:**&nbsp; Saturday, February 28, 2026
 
 ### Hi there 👋
 
-I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tokyo, in 1999. We passed our 25th anniversary in July 2024 and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.  
+I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tokyo, in 1999. We passed our 25th anniversary in July 2024 and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.
 
-I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late ’80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)! 
+I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late '80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)!
+
+> _"Into my heart an air that kills<br>From yon far country blows:<br>What are those blue remembered hills,<br>What spires, what farms are those?<br><br>That is the land of lost content,<br>I see it shining plain,<br>The happy highways where I went<br>And cannot come again."_ — A.E. Housman, "A Shropshire Lad"
+
+### 😤 Currently: Swamped
+
+**Working on:** Revamp Hanawa CMS
+
+_Packed schedule, minimal interruptions_
 
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-## Latest Statuses:
-* [🎯 Just updated the design and functionality of my long-form &quot;now&quot; page at rick.cogley.jp, check it out! It&#039;s part of a larger effort to build a personal publishing stack using sveltekit on cloudflare.!](https://rick.status.lol/rick/6958efc2cad2b)
-* [😒 Another daughter will leave the nest soon. Feeling pretty sad.](https://rick.status.lol/rick/68f0c9ae0437b)
-* [🗾 In line at the Osaka World Expo 2025. Yesterday was a typhoon but today is a scorcher.](https://rick.status.lol/rick/68bb6fe4797f2)
-* [🗺️ Heading to the Osaka Expo and no typhoon will stop us!](https://rick.status.lol/rick/68ba83e34be64)
-* [💦 Wrasslin’ Lume to get it to handle multilingual.](https://rick.status.lol/rick/67b98bf4e488e)
+### What I'm Up To This Week
 
-## Latest Bluesky Posts:
-* [Just updated the design and functionality of my long-form &#34;now&#34; page at rick.cogley.jp, check it out! It&#39;s part of a larger effort to build a personal publishing stack using sveltekit on cloudflare.!](https://bsky.app/profile/cogley.jp/post/3mbizvvyuxe2c)
-* [I like and use @cloudflare.social but how disappointing is this: I added a client domain under my account on a “pro” subscription, then decided a separate account for them would be best. Paid for “pro” again after migrating, so can I apply the first $240 to another domain? No, per “policy”. Wow. 🙂‍↔️](https://bsky.app/profile/cogley.jp/post/3mbf7oa4mr22m)
-* [We are about to become _empty-nesters_ with daughter 1 ready to fly the coop to her **new** apartment closer to work. Pretty sad about it to be honest but it is nice to have them home for the holidays.](https://bsky.app/profile/cogley.jp/post/3mb6qt6vpiz2u)
+**Themes:** `japan` `personal`
 
-## Latest Micro Blog Posts:
-* [We updated and upgraded eSolia&amp;rsquo;s &lt;a href=&#34;https://esolia.co.jp/e ...](http://rickcogley.micro.blog/2025/11/14/we-updated-and-upgraded-esolias.html)
-* [Gosh what an exciting World Series. Dodgers and Blue Jays were both stellar and i ...](http://rickcogley.micro.blog/2025/11/02/gosh-what-an-exciting-world.html)
-* [Exciting World Series this year! On to game 7! 🏟️⚾️&lt;/p&gt; ...](http://rickcogley.micro.blog/2025/11/01/exciting-world-series-this-year.html)
-* [When you change your domain&amp;rsquo;s DNS (NS records), you can flush the recor ...](http://rickcogley.micro.blog/2025/10/26/when-you-change-your-domains.html)
-* [Visited Osaka Expo 2025 on 6 Sept with 220,000 others. It was hot and crowded but ...](http://rickcogley.micro.blog/2025/09/07/visited-osaka-expo-on-sept.html)
+**Activity:** 3 posts this week
 
-## Stats:
+### Currently Reading
+
+📖 **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play** by Cliff Kuang, Robert Fabricant
+
+### Latest Posts
+
+- 💬 [Watched a TV show with A about a guy who shelters bitey dangerous dogs that peop...](https://cogley.jp) <sub>japan</sub>
+- 💬 [Got some made-in-Japan Shoes Like Pottery shoes, which are super comfy. They are...](https://cogley.jp) <sub>personal</sub>
+- 💬 [J brought Matterhorn choco and K brought homemade cookies and bread, we're bless...](https://cogley.jp) <sub>personal</sub>
+- 📝 [Enabling WebMCP Tools on my SvelteKit Migration Reference](https://cogley.jp/enabling-webmcp-tools-on-my-sveltekit-migration-reference) <sub>tech</sub>
+- 📝 [Markdown for Agents on SvelteKit + Cloudflare Workers](https://cogley.jp/markdown-for-agents-on-sveltekit-cloudflare-workers) <sub>tech</sub>
+
+### Content Stats
+
+| Type | Count |
+| --- | --- |
+| Posts | 2247 |
+| Articles | 61 |
+| Podcasts | 9 |
+| Pages | 10 |
+
+### System Architecture
+
+```mermaid
+graph LR
+    subgraph "Content Creation"
+        A[Markdown Files] --> B[pub-cogley CMS]
+        C[Quick Posts] --> B
+    end
+    subgraph "pub-cogley Platform"
+        B --> D[(D1 Database)]
+        D --> E[REST API]
+        E --> F[api.cogley.jp]
+    end
+    subgraph "Distribution"
+        F --> G[cogley.jp Website]
+        F --> H[GitHub Profile README]
+        F --> I[Syndication]
+    end
+    subgraph "Syndication Targets"
+        I --> J[Bluesky]
+        I --> K[Mastodon]
+        I --> L[Nostr]
+    end
+    style B fill:#f9f,stroke:#333
+    style F fill:#bbf,stroke:#333
+```
+
+### Content Flow
+
+```mermaid
+flowchart TD
+    A[New Post Created] --> B{Post Type?}
+    B -->|Micro| C[Short-form Content]
+    B -->|Article| D[Long-form Content]
+    B -->|Podcast| E[Audio Content]
+    C --> F[pub-cogley API]
+    D --> F
+    E --> F
+    F --> G[cogley.jp]
+    F --> H[Syndicate to Bluesky]
+    F --> I[Syndicate to Mastodon]
+    F --> J[Syndicate to Nostr]
+    F --> K[GitHub README via Lume]
+    style F fill:#bbf,stroke:#333
+    style G fill:#bfb,stroke:#333
+```
+
+### Build Stats
 
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in MB | 4981 |
+| Repo Size in KB | 7193 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.6.3 (linux x86_64) |
-| V8 Version | 14.2.231.17-rusty |
+| Deno Version | 2.7.1 (darwin aarch64) |
+| V8 Version | 14.5.201.2-rusty |
 | Typescript Version | 5.9.2 |
 | Timezone | Asia/Tokyo |
 
-### How does this readme work? 
+### How does this readme work?
 
-I'm generating this readme using the Lume static site generator. See [this page](https://rickcogley.github.io/rickcogley/) for details to get your own! 
+I'm generating this readme using the [Lume](https://lume.land) static site generator, pulling data from my [pub-cogley](https://github.com/rickcogley/pub-cogley) API. See [this page](https://rickcogley.github.io/rickcogley/) for details to get your own!
 
 ### Tech Stack
 
@@ -69,10 +132,3 @@ I'm generating this readme using the Lume static site generator. See [this page]
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
-
-<img src="/_site/icons/phosphor/acorn-duotone.svg" width="40px">
-<img src="/_site/css.svg" width="40px">
-
-
-
-
