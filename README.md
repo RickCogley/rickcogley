@@ -17,8 +17,12 @@ I have spent my career in IT in Japan, doing a wide range of activities, such as
 
 _Packed schedule, minimal interruptions_
 
-[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Activity (last 30 days)
 
+**901** commits &nbsp;|&nbsp; **296** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+
+**Languages:** TypeScript (13) · Svelte (1) · Vento (1) · CSS (1)
+**Active repos (15):** `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/pulse` `eSolia/nexus` and 10 more
 ### What I'm Up To This Week
 
 **Themes:** `japan` `personal`
@@ -98,9 +102,9 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 4996 |
+| Repo Size in KB | 7225 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.7.1 (linux x86_64) |
+| Deno Version | 2.7.1 (darwin aarch64) |
 | V8 Version | 14.5.201.2-rusty |
 | Typescript Version | 5.9.2 |
 | Timezone | Asia/Tokyo |

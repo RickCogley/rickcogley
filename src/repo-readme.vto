@@ -30,7 +30,15 @@ _{{ presence.status.description }}_
 {{ /if }}
 {{ /if }}
 
-[![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickcogley&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+{{ if nowData.github_activity }}
+### GitHub Activity (last 30 days)
+
+{{ set ga = nowData.github_activity }}**{{ ga.total_period_commits }}** commits &nbsp;|&nbsp; **{{ ga.weekly_commits }}** this week &nbsp;|&nbsp; 🔥 **{{ ga.streak_days }}**-day streak
+
+{{ if ga.languages && ga.languages.length > 0 }}{{ set langLabels = ga.languages.map(l => l.name + " (" + l.count + ")").join(" · ") }}**Languages:** {{ langLabels }}{{ /if }}
+
+{{ if ga.active_repos && ga.active_repos.length > 0 }}{{ set repoCount = ga.active_repos.length }}{{ set repoPreview = ga.active_repos.slice(0, 5).map(r => "`" + r + "`").join(" ") }}**Active repos ({{ repoCount }}):** {{ repoPreview }}{{ if repoCount > 5 }} and {{ repoCount - 5 }} more{{ /if }}{{ /if }}
+{{ /if }}
 
 {{ if nowData.this_week }}
 ### What I'm Up To This Week
