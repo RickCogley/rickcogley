@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; February 28th, 2026 at 9:23:26 AM GMT+9
-**Today is:**&nbsp; Sunday, March 15, 2026
+**Today is:**&nbsp; Monday, March 16, 2026
 
 ### Hi there 👋
 
@@ -9,7 +9,7 @@ I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tok
 
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late '80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)!
 
-> _"The cause of freedom is not the cause of a race or a sect, a party or a class – it is the cause of humankind, the very birthright of humanity."_ — Anna Julia Cooper
+> _"Returning hate for hate multiplies hate, adding deeper darkness to a night already devoid of stars. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."_ — Reverend Martin Luther King, Jr.
 
 ### 😤 Currently: Swamped
 
@@ -19,7 +19,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**884** commits &nbsp;|&nbsp; **215** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**883** commits &nbsp;|&nbsp; **196** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (14) · HTML (2) · CSS (2) · Svelte (1) · Vento (1)
 **Active repos (15):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/nexus` and 10 more
@@ -27,7 +27,7 @@ _Packed schedule, minimal interruptions_
 
 **Themes:** `tech` `personal`
 
-**Activity:** 4 posts this week
+**Activity:** 4 posts, 1 articles this week
 
 ### Currently Reading
 
@@ -35,18 +35,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 📝 [Migrating 8 SvelteKit Sites to Vite 8 in a day: What We Learned](https://cogley.jp/migrating-sveltekit-to-vite-8) <sub>tech</sub>
 - 💬 [Updated 10 SvelteKit apps to use vite 8. Very quick to build, uses rolldown and ...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Updated migrate to svelte with several improvements, including a section on Svel...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Got some premium mint balm from J. Love the scent and feel of it. Thanks! <i cla...](https://cogley.jp) <sub>personal</sub>
 - 💬 [Bing Webmaster Tools is just awful. You do all the recommendations, use IndexNow...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Watched a TV show with A about a guy who shelters bitey dangerous dogs that peop...](https://cogley.jp) <sub>japan</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
 | Posts | 2251 |
-| Articles | 61 |
+| Articles | 62 |
 | Podcasts | 9 |
 | Pages | 10 |
 
@@ -102,7 +102,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5017 |
+| Repo Size in KB | 5015 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.5 (linux x86_64) |
 | V8 Version | 14.6.202.9-rusty |
