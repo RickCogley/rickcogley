@@ -1,15 +1,15 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; February 28th, 2026 at 9:23:26 AM GMT+9
-**Today is:**&nbsp; Friday, March 20, 2026
-**It's a holiday in Japan:**&nbsp;Vernal Equinox Day / 春分の日
+**Today is:**&nbsp; Saturday, March 21, 2026
+
 ### Hi there 👋
 
 I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tokyo, in 1999. We passed our 25th anniversary in July 2024 and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.
 
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late '80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)!
 
-> _"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."_ — Robert A. Heinlein, Time Enough for Love
+> _"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."_ — Frank Herbert, Dune, 'Litany Against Fear'
 
 ### 😤 Currently: Swamped
 
@@ -19,15 +19,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**847** commits &nbsp;|&nbsp; **259** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**830** commits &nbsp;|&nbsp; **220** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (14) · CSS (2) · HTML (2) · Svelte (1) · Vento (1)
+**Languages:** TypeScript (14) · HTML (2) · CSS (2) · Svelte (1) · Vento (1)
 **Active repos (15):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/courier` and 10 more
 ### What I'm Up To This Week
 
-**Themes:** `business` `tech`
+**Themes:** `japan` `tech` `business`
 
-**Activity:** 3 posts, 1 articles this week
+**Activity:** 2 posts, 2 articles this week
 
 ### Currently Reading
 
@@ -35,18 +35,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [Learners of Japanese: I revamped my 'goroawase' Japanese word play page to make ...](https://cogley.jp) <sub>japan</sub>
+- 📝 [Cloudflare Pages vs Workers in 2026: Migration Guide](https://cogley.jp/cloudflare-pages-to-workers-migration) <sub>tech</sub>
 - 💬 [I wrote a long-form article about data sovereignty on my company site, after see...](https://cogley.jp) <sub>business</sub>
 - 📝 [Migrating 8 SvelteKit Sites to Vite 8 in a day: What We Learned](https://cogley.jp/migrating-sveltekit-to-vite-8) <sub>tech</sub>
 - 💬 [Updated 10 SvelteKit apps to use vite 8. Very quick to build, uses rolldown and ...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Updated migrate to svelte with several improvements, including a section on Svel...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Got some premium mint balm from J. Love the scent and feel of it. Thanks! <i cla...](https://cogley.jp) <sub>personal</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2252 |
-| Articles | 62 |
+| Posts | 2253 |
+| Articles | 63 |
 | Podcasts | 9 |
 | Pages | 10 |
 
@@ -102,7 +102,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5019 |
+| Repo Size in KB | 5023 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.7 (linux x86_64) |
 | V8 Version | 14.6.202.9-rusty |
