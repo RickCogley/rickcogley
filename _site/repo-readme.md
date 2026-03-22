@@ -1,7 +1,7 @@
 [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; February 28th, 2026 at 9:23:26 AM GMT+9
-**Today is:**&nbsp; Sunday, March 22, 2026
+**Today is:**&nbsp; Monday, March 23, 2026
 
 ### Hi there 👋
 
@@ -9,7 +9,7 @@ I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tok
 
 I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late '80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)!
 
-> _"It's probably not just by chance that I'm alone. It would be very hard for a man to live with me, unless he's terribly strong. And if he's stronger than I, I'm the one who can't live with him. … I'm neither smart nor stupid, but I don't think I'm a run-of-the-mill person. I've been in business without being a businesswoman, I've loved without being a woman made only for love. The two men I've loved, I think, will remember me, on earth or in heaven, because men always remember a woman who caused them concern and uneasiness. I've done my best, in regard to people and to life, without precepts, but with a taste for justice."_ — Coco Chanel
+> _"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."_ — Robert A. Heinlein, Time Enough for Love
 
 ### 😤 Currently: Swamped
 
@@ -19,13 +19,13 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**840** commits &nbsp;|&nbsp; **193** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**798** commits &nbsp;|&nbsp; **204** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (14) · HTML (2) · CSS (2) · Svelte (1) · Vento (1)
 **Active repos (15):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/courier` and 10 more
 ### What I'm Up To This Week
 
-**Themes:** `japan` `tech` `business`
+**Themes:** `tech` `japan` `business`
 
 **Activity:** 2 posts, 2 articles this week
 
@@ -35,18 +35,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 📝 [Svelte 5への移行：インタラクティブリファレンスガイド](https://cogley.jp/migrate-to-svelte-5-interactive-reference) <sub>tech</sub>
 - 💬 [Learners of Japanese: I revamped my 'goroawase' Japanese word play page to make ...](https://cogley.jp) <sub>japan</sub>
 - 📝 [Cloudflare Pages vs Workers in 2026: Migration Guide](https://cogley.jp/cloudflare-pages-to-workers-migration) <sub>tech</sub>
 - 💬 [I wrote a long-form article about data sovereignty on my company site, after see...](https://cogley.jp) <sub>business</sub>
 - 📝 [Migrating 8 SvelteKit Sites to Vite 8 in a day: What We Learned](https://cogley.jp/migrating-sveltekit-to-vite-8) <sub>tech</sub>
-- 💬 [Updated 10 SvelteKit apps to use vite 8. Very quick to build, uses rolldown and ...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
 | Posts | 2253 |
-| Articles | 63 |
+| Articles | 64 |
 | Podcasts | 9 |
 | Pages | 10 |
 
@@ -102,7 +102,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5021 |
+| Repo Size in KB | 5022 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.7 (linux x86_64) |
 | V8 Version | 14.6.202.9-rusty |
