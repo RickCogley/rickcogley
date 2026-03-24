@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Tuesday, March 24, 2026
+**Today is:**&nbsp; Wednesday, March 25, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."_ — Frank Herbert, Dune, 'Litany Against Fear'
+> _"Don't it always seem to go, that you don't know what you've got 'til it's gone."_ — Joni Mitchell, 'Big Yellow Taxi'
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**777** commits &nbsp;|&nbsp; **204** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**759** commits &nbsp;|&nbsp; **150** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (14) · HTML (2) · CSS (2) · Svelte (1) · Vento (1)
 **Active repos (15):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/courier` and 10 more
@@ -47,7 +47,7 @@ _Packed schedule, minimal interruptions_
 
 **Themes:** `tech` `japan` `business`
 
-**Activity:** 2 posts, 6 articles this week
+**Activity:** 2 posts, 8 articles this week
 
 ### Currently Reading
 
@@ -55,18 +55,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 📝 [設定はどこへ消えた？ ベンダードキュメント変更検知の自動化](https://cogley.jp/automating-vendor-doc-drift-detection) <sub>tech</sub>
+- 📝 [Who Moved My Settings? Automating Vendor Doc Drift Detection](https://cogley.jp/automating-vendor-doc-drift-detection) <sub>tech</sub>
 - 📝 [SvelteKit + Cloudflare WorkersでAIエージェント向けMarkdownを配信する](https://cogley.jp/markdown-for-agents) <sub>tech</sub>
 - 📝 [SvelteKitサイト8個をVite 8に1日で移行した記録](https://cogley.jp/migrating-sveltekit-to-vite-8) <sub>tech</sub>
 - 📝 [Cloudflare PagesからWorkersへの移行ガイド（2026年版）](https://cogley.jp/cloudflare-pages-to-workers-migration) <sub>tech</sub>
-- 📝 [SvelteKit移行リファレンスにWebMCPツールを実装する](https://cogley.jp/enabling-webmcp-tools-sveltekit-migration-reference) <sub>tech</sub>
-- 📝 [Svelte 5への移行：インタラクティブリファレンスガイド](https://cogley.jp/migrate-to-svelte-5-interactive-reference) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
 | Posts | 2253 |
-| Articles | 68 |
+| Articles | 70 |
 | Podcasts | 9 |
 | Pages | 10 |
 
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5031 |
+| Repo Size in KB | 5032 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.7 (linux x86_64) |
 | V8 Version | 14.6.202.9-rusty |
