@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Friday, March 27, 2026
+**Today is:**&nbsp; Saturday, March 28, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"I have a foreboding of an America in my children's or grandchildren's time — when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what's true, we slide, almost without noticing, back into superstition and darkness..."_ — Carl Sagan, "The Demon-Haunted World"
+> _"Into my heart an air that kills<br>From yon far country blows:<br>What are those blue remembered hills,<br>What spires, what farms are those?<br><br>That is the land of lost content,<br>I see it shining plain,<br>The happy highways where I went<br>And cannot come again."_ — A.E. Housman, "A Shropshire Lad"
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**736** commits &nbsp;|&nbsp; **159** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**701** commits &nbsp;|&nbsp; **189** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (14) · HTML (2) · CSS (2) · Svelte (1) · Vento (1)
-**Active repos (15):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/courier` and 10 more
+**Languages:** TypeScript (11) · Svelte (2) · HTML (2) · CSS (2) · Vento (1)
+**Active repos (12):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/courier` and 7 more
 ### What I'm Up To This Week
 
 **Themes:** `tech`
 
-**Activity:** 3 posts, 10 articles this week
+**Activity:** 3 posts, 11 articles this week
 
 ### Currently Reading
 
@@ -55,18 +55,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 📝 [Svelte 5の34パターンをJSON Feedで配信、SvelteKitコードベースをAIで監査する](https://cogley.jp/svelte-patterns-feed-ai-codebase-audits) <sub>tech</sub>
+- 📝 [Audit Your SvelteKit Codebase with a JSON Feed of 34 Svelte 5 Patterns](https://cogley.jp/svelte-patterns-feed-ai-codebase-audits) <sub>tech</sub>
 - 📝 [Cloudflare Dynamic Workers：エッジでのサンドボックス化されたコード実行](https://cogley.jp/cloudflare-dynamic-workers) <sub>tech</sub>
 - 📝 [Cloudflare Dynamic Workers: Sandboxed Code Execution at the Edge](https://cogley.jp/cloudflare-dynamic-workers) <sub>tech</sub>
 - 💬 [Telework Offensive! It's not just a welfare matter; moving toward a practical te...](https://cogley.jp) <sub>tech</sub>
-- 💬 [How Should You Manage Your Passwords? We’ll look at how to manage passwords safe...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Introducing Acrobat Standard features for use in administrative departments From...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
 | Posts | 2256 |
-| Articles | 72 |
+| Articles | 74 |
 | Podcasts | 9 |
 | Pages | 10 |
 
@@ -122,9 +122,9 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5033 |
+| Repo Size in KB | 5036 |
 | Lume Version | v2.5.0 |
-| Deno Version | 2.7.8 (linux x86_64) |
+| Deno Version | 2.7.9 (linux x86_64) |
 | V8 Version | 14.7.173.7-rusty |
 | Typescript Version | 5.9.2 |
 | Timezone | Asia/Tokyo |
