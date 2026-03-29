@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Sunday, March 29, 2026
+**Today is:**&nbsp; Monday, March 30, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Instead of being fearful of failing a challenge, fear doing nothing."_ — Soichiro Honda
+> _"We often suffer more in imagination than in reality."_ — Seneca
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**764** commits &nbsp;|&nbsp; **248** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**751** commits &nbsp;|&nbsp; **243** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (11) · Svelte (2) · HTML (2) · CSS (2) · Vento (1)
 **Active repos (12):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/courier` and 7 more
@@ -47,7 +47,7 @@ _Packed schedule, minimal interruptions_
 
 **Themes:** `tech`
 
-**Activity:** 3 posts, 13 articles this week
+**Activity:** 3 posts, 12 articles this week
 
 ### Currently Reading
 
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5036 |
+| Repo Size in KB | 5037 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.9 (linux x86_64) |
 | V8 Version | 14.7.173.7-rusty |
