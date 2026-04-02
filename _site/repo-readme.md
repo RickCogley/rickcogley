@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Thursday, April 2, 2026
+**Today is:**&nbsp; Friday, April 3, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"I do not at all believe in human freedom in the philosophical sense. Everybody acts not only under external compulsion but also in accordance with inner necessity."_ — Albert Einstein
+> _"How slow men are in matters when they believe they have time and how swift they are when necessity drives them to it."_ — Niccolò Machiavelli
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**737** commits &nbsp;|&nbsp; **252** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**713** commits &nbsp;|&nbsp; **221** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (11) · Svelte (2) · HTML (2) · CSS (2) · Vento (1)
 **Active repos (12):** `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/codex` `eSolia/periodic` `eSolia/courier` and 7 more
@@ -47,7 +47,7 @@ _Packed schedule, minimal interruptions_
 
 **Themes:** `tech`
 
-**Activity:** 3 posts, 6 articles this week
+**Activity:** 0 posts, 4 articles this week
 
 ### Currently Reading
 
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5039 |
+| Repo Size in KB | 5040 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.11 (linux x86_64) |
 | V8 Version | 14.7.173.7-rusty |
