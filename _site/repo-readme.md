@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Friday, April 3, 2026
+**Today is:**&nbsp; Saturday, April 4, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"How slow men are in matters when they believe they have time and how swift they are when necessity drives them to it."_ — Niccolò Machiavelli
+> _"As I grow older, I pay less attention to what people say. I just watch what they do."_ — Andrew Carnegie
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**713** commits &nbsp;|&nbsp; **221** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**699** commits &nbsp;|&nbsp; **205** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (11) · Svelte (2) · HTML (2) · CSS (2) · Vento (1)
 **Active repos (12):** `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/codex` `eSolia/periodic` `eSolia/courier` and 7 more
 ### What I'm Up To This Week
 
-**Themes:** `tech`
+**Themes:** `japan` `tech`
 
-**Activity:** 0 posts, 4 articles this week
+**Activity:** 1 posts, 4 articles this week
 
 ### Currently Reading
 
@@ -55,18 +55,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [Heading to Sendai tomorrow for an onsen soak with A....](https://cogley.jp) <sub>japan</sub>
+- 📝 [エンジニアリング・バックプレッシャー：AIが生成するコードの品質を10のSvelteKitリポジトリで守る](https://cogley.jp/engineering-backpressure-ai-code-quality) <sub>tech</sub>
+- 📝 [Engineering Backpressure for AI-Generated Code](https://cogley.jp/engineering-backpressure-ai-code-quality) <sub>tech</sub>
 - 📝 [AIに頼る前にまず自分の手でコードを書け：新卒エンジニアへ](https://cogley.jp/code-the-hard-way-before-using-ai) <sub>tech</sub>
 - 📝 [Learn to Code the Hard Way First](https://cogley.jp/code-the-hard-way-before-using-ai) <sub>tech</sub>
-- 📝 [Svelte 5の34パターンをJSON Feedで配信、SvelteKitコードベースをAIで監査する](https://cogley.jp/svelte-patterns-feed-ai-codebase-audits) <sub>tech</sub>
-- 📝 [Audit Your SvelteKit Codebase with a JSON Feed of 34 Svelte 5 Patterns](https://cogley.jp/svelte-patterns-feed-ai-codebase-audits) <sub>tech</sub>
-- 📝 [Cloudflare Dynamic Workers：エッジでのサンドボックス化されたコード実行](https://cogley.jp/cloudflare-dynamic-workers) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2256 |
-| Articles | 76 |
+| Posts | 2257 |
+| Articles | 78 |
 | Podcasts | 9 |
 | Pages | 10 |
 
