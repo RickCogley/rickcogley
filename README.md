@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Saturday, April 4, 2026
+**Today is:**&nbsp; Sunday, April 5, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"As I grow older, I pay less attention to what people say. I just watch what they do."_ — Andrew Carnegie
+> _"Stop thinking about art works as objects, and start thinking about them as triggers for experiences... That solves a lot of problems. Art is something that happens, a process, not a quality, and all sorts of things can make it happen ...what makes a work of art 'good' for you is not something that is already 'inside' it, but something that happens inside you."_ — Brian Eno
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**699** commits &nbsp;|&nbsp; **205** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**688** commits &nbsp;|&nbsp; **120** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (11) · Svelte (2) · HTML (2) · CSS (2) · Vento (1)
 **Active repos (12):** `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/codex` `eSolia/periodic` `eSolia/courier` and 7 more
@@ -47,7 +47,7 @@ _Packed schedule, minimal interruptions_
 
 **Themes:** `japan` `tech`
 
-**Activity:** 1 posts, 4 articles this week
+**Activity:** 1 posts, 2 articles this week
 
 ### Currently Reading
 
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5040 |
+| Repo Size in KB | 5042 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.11 (linux x86_64) |
 | V8 Version | 14.7.173.7-rusty |
