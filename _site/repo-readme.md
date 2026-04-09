@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Thursday, April 9, 2026
+**Today is:**&nbsp; Friday, April 10, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"The blood of the covenant is thicker than the water of the womb."_ — Proverb
+> _"Curiosity killed the cat, but satisfaction brought it back."_ — Proverb
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**606** commits &nbsp;|&nbsp; **86** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**598** commits &nbsp;|&nbsp; **94** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (11) · Svelte (2) · Vento (1)
-**Active repos (10):** `RickCogley/pub-cogley` `eSolia/codex` `eSolia/esolia-2025` `eSolia/periodic` `eSolia/courier` and 5 more
+**Active repos (10):** `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/codex` `eSolia/periodic` `eSolia/courier` and 5 more
 ### What I'm Up To This Week
 
 **Themes:** `tech` `personal` `japan`
 
-**Activity:** 3 posts, 2 articles this week
+**Activity:** 4 posts, 2 articles this week
 
 ### Currently Reading
 
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [I have been successfully using Anthropic Claude and I like how it works....](https://cogley.jp) <sub>tech</sub>
 - 💬 [Let’s share your data using OneDrive! This article clearly explains how to secur...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Sendai was great, very relaxing. We rented a Kei, expecting a beater, but gettin...](https://cogley.jp) <sub>personal</sub>
 - 💬 [Heading to Sendai tomorrow for an onsen soak with A....](https://cogley.jp) <sub>japan</sub>
 - 📝 [エンジニアリング・バックプレッシャー：AIが生成するコードの品質を10のSvelteKitリポジトリで守る](https://cogley.jp/engineering-backpressure-ai-code-quality) <sub>tech</sub>
-- 📝 [Engineering Backpressure for AI-Generated Code](https://cogley.jp/engineering-backpressure-ai-code-quality) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2259 |
+| Posts | 2260 |
 | Articles | 78 |
 | Podcasts | 9 |
 | Pages | 10 |
