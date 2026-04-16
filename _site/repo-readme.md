@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Thursday, April 16, 2026
+**Today is:**&nbsp; Friday, April 17, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"The problem with the world is that the intelligent people are full of doubt, while the stupid people are full of confidence."_ — Charles Bukowski
+> _"It's probably not just by chance that I'm alone. It would be very hard for a man to live with me, unless he's terribly strong. And if he's stronger than I, I'm the one who can't live with him. … I'm neither smart nor stupid, but I don't think I'm a run-of-the-mill person. I've been in business without being a businesswoman, I've loved without being a woman made only for love. The two men I've loved, I think, will remember me, on earth or in heaven, because men always remember a woman who caused them concern and uneasiness. I've done my best, in regard to people and to life, without precepts, but with a taste for justice."_ — Coco Chanel
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,11 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**497** commits &nbsp;|&nbsp; **233** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**498** commits &nbsp;|&nbsp; **253** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (11) · Svelte (2) · Vento (1)
+**Languages:** TypeScript (11) · Svelte (2) · Vento (1) · Shell (1) · PowerShell (1)
 **Active repos (10):** `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/codex` `RickCogley/rick.cogley.jp` `eSolia/periodic` and 5 more
 ### What I'm Up To This Week
-
-**Themes:** `tech`
-
-**Activity:** 1 posts this week
 
 ### Currently Reading
 
@@ -122,7 +118,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5052 |
+| Repo Size in KB | 5053 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.12 (linux x86_64) |
 | V8 Version | 14.7.173.7-rusty |
