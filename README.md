@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Monday, April 20, 2026
+**Today is:**&nbsp; Tuesday, April 21, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Don't it always seem to go, that you don't know what you've got 'til it's gone."_ — Joni Mitchell, 'Big Yellow Taxi'
+> _"We must adjust to changing times and still hold to unchanging principles."_ — US President Jimmy Carter
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**684** commits &nbsp;|&nbsp; **492** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**755** commits &nbsp;|&nbsp; **602** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (13) · Svelte (2) · Vento (1) · PowerShell (1) · Python (1)
-**Active repos (11):** `eSolia/codex` `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/periodic` `eSolia/courier` and 6 more
+**Languages:** TypeScript (13) · Svelte (2) · PowerShell (1) · Vento (1) · Python (1)
+**Active repos (11):** `eSolia/codex` `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/periodic` `eSolia/pulse` and 6 more
 ### What I'm Up To This Week
 
-**Themes:** `business`
+**Themes:** `tech` `business`
 
-**Activity:** 0 posts, 2 articles this week
+**Activity:** 0 posts, 4 articles this week
 
 ### Currently Reading
 
@@ -55,18 +55,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 📝 [Cloudflare Workers HTML to Markdown: Free-Plan Edition](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
+- 📝 [Cloudflare Workers無料プランでHTML→Markdown変換](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
 - 📝 [SECURITY ACTION: Japan's Free SME Security Credential](https://cogley.jp/japan-ipa-security-action-sme) <sub>business</sub>
 - 📝 [SECURITY ACTION：中小企業の無料セキュリティ制度](https://cogley.jp/japan-ipa-security-action-sme) <sub>business</sub>
 - 💬 [I have been successfully using Anthropic Claude and I like how it works....](https://cogley.jp) <sub>tech</sub>
-- 💬 [Let’s share your data using OneDrive! This article clearly explains how to secur...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Sendai was great, very relaxing. We rented a Kei, expecting a beater, but gettin...](https://cogley.jp) <sub>personal</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
 | Posts | 2260 |
-| Articles | 80 |
+| Articles | 82 |
 | Podcasts | 9 |
 | Pages | 10 |
 
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 7 |
-| Repo Size in KB | 5056 |
+| Repo Size in KB | 5055 |
 | Lume Version | v2.5.0 |
 | Deno Version | 2.7.12 (linux x86_64) |
 | V8 Version | 14.7.173.7-rusty |
