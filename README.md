@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5045 |
+| Repo Size in KB | 5048 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.7.13 (linux x86_64) |
 | V8 Version | 14.7.173.20-rusty |
