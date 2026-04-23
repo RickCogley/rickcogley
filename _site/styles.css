@@ -19,10 +19,8 @@
 .header-avatar {
   border-radius: 50%;
   aspect-ratio: 1;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center center;
-     object-position: center center;
+  object-fit: cover;
+  object-position: center center;
   width: 200px;
   max-width: 50vw;
 }

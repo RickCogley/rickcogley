@@ -1,15 +1,35 @@
-[![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
+[![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
-**Last Updated:**&nbsp; February 28th, 2026 at 9:23:26 AM GMT+9
-**Today is:**&nbsp; Monday, March 23, 2026
+**Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
+**Today is:**&nbsp; Friday, April 24, 2026
 
 ### Hi there 👋
 
-I founded [eSolia](https://esolia.com), a boutique IT services firm based in Tokyo, in 1999. We passed our 25th anniversary in July 2024 and hope to stay healthy and profitable, working on improving our operations by implementing ISO 27001.
+Bilingual IT consultant in Japan since 1987. Based in Yokohama, working in Tokyo.
 
-I have spent my career in IT in Japan, doing a wide range of activities, such as compsci tutoring, physical cabling, network engineering, project management, software development, system architecture and design, solution consulting, web design and development, and delivering training courses to name a few. Sometimes I look back with nostalgia on the way things were in the late '80s, but mostly, I like how things are now (you're _old_ if you remember the struggle of `autoexec.bat` and `config.sys`, and trying to squeeze drivers into limited memory)!
+### Career
 
-> _"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."_ — Robert A. Heinlein, Time Enough for Love
+I came to Japan in 1987 as a research student at the University of Tokyo. Programming turned out to be far more interesting than animal experiments, so I pivoted to tech.
+
+My first job (around 1989) was at a telephone card ("teleca") design company, where I built and ran the office network. This was right when "DOS/V" machines were taking off in Japan after IBM released the PS/2 with its kanji processing chip. A PS/2 cost around ¥2M; a DOS/V clone was maybe ¥250K. That's where my technical career started.
+
+From there I moved to a network support company doing helpdesk, user support, and network engineering. In 1993 I co-founded a PC training company, serving as CIO and building the technology operations side from scratch.
+
+In the summer of 1999 I founded [eSolia Inc.](https://esolia.co.jp), my current firm. We've been providing bilingual IT outsourcing and infrastructure services to international companies in Tokyo for over 26 years, and are working on ISO 27001 implementation.
+
+### Current Tech Stack
+
+Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [Cloudflare Workers](https://developers.cloudflare.com/workers/). Full-stack on D1 (SQLite), R2, and KV.
+
+**Projects:**
+- [cogley.jp](https://cogley.jp) — Articles on tech, business, and Japan (SvelteKit + Cloudflare Workers)
+- [svelte.cogley.jp](https://svelte.cogley.jp) — Interactive migration reference: React/Vue/Angular to Svelte 5 (bilingual EN/JA)
+- [rick.cogley.jp](https://rick.cogley.jp) — Profile site
+- [pulse.esolia.co.jp](https://pulse.esolia.co.jp) — Security & compliance management. Tracks compliance against ISO 27001, CIS Controls, and other frameworks (SvelteKit + Cloudflare Workers)
+- [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
+- [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
+
+> _"Instead of being fearful of failing a challenge, fear doing nothing."_ — Soichiro Honda
 
 ### 😤 Currently: Swamped
 
@@ -19,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**798** commits &nbsp;|&nbsp; **204** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**881** commits &nbsp;|&nbsp; **782** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (14) · HTML (2) · CSS (2) · Svelte (1) · Vento (1)
-**Active repos (15):** `eSolia/esolia-2025` `eSolia/codex` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/courier` and 10 more
+**Languages:** TypeScript (13) · Svelte (2) · PowerShell (1) · Python (1) · Vento (1)
+**Active repos (11):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/nexus` `eSolia/periodic` and 6 more
 ### What I'm Up To This Week
 
-**Themes:** `tech` `japan` `business`
+**Themes:** `tech` `business`
 
-**Activity:** 2 posts, 2 articles this week
+**Activity:** 0 posts, 4 articles this week
 
 ### Currently Reading
 
@@ -35,18 +55,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
-- 📝 [Svelte 5への移行：インタラクティブリファレンスガイド](https://cogley.jp/migrate-to-svelte-5-interactive-reference) <sub>tech</sub>
-- 💬 [Learners of Japanese: I revamped my 'goroawase' Japanese word play page to make ...](https://cogley.jp) <sub>japan</sub>
-- 📝 [Cloudflare Pages vs Workers in 2026: Migration Guide](https://cogley.jp/cloudflare-pages-to-workers-migration) <sub>tech</sub>
-- 💬 [I wrote a long-form article about data sovereignty on my company site, after see...](https://cogley.jp) <sub>business</sub>
-- 📝 [Migrating 8 SvelteKit Sites to Vite 8 in a day: What We Learned](https://cogley.jp/migrating-sveltekit-to-vite-8) <sub>tech</sub>
+- 📝 [Cloudflare Workers HTML to Markdown: Free-Plan Edition](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
+- 📝 [Cloudflare Workers無料プランでHTML→Markdown変換](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
+- 📝 [SECURITY ACTION: Japan's Free SME Security Credential](https://cogley.jp/japan-ipa-security-action-sme) <sub>business</sub>
+- 📝 [SECURITY ACTION：中小企業の無料セキュリティ制度](https://cogley.jp/japan-ipa-security-action-sme) <sub>business</sub>
+- 💬 [I have been successfully using Anthropic Claude and I like how it works....](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2253 |
-| Articles | 64 |
+| Posts | 2260 |
+| Articles | 82 |
 | Podcasts | 9 |
 | Pages | 10 |
 
@@ -101,11 +121,11 @@ flowchart TD
 
 | Item | Value |
 | --- | --- |
-| Repo Total Files | 7 |
-| Repo Size in KB | 5022 |
-| Lume Version | v2.5.0 |
-| Deno Version | 2.7.7 (linux x86_64) |
-| V8 Version | 14.6.202.9-rusty |
+| Repo Total Files | 0 |
+| Repo Size in KB | 5038 |
+| Lume Version | v3.2.4 |
+| Deno Version | 2.7.13 (linux x86_64) |
+| V8 Version | 14.7.173.20-rusty |
 | Typescript Version | 5.9.2 |
 | Timezone | Asia/Tokyo |
 
