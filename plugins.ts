@@ -19,6 +19,8 @@ import plaintext from "lume/plugins/plaintext.ts";
 /** Configure the site */
 export default function () {
   return (site: Lume.Site) => {
+    site.add("/styles.css");
+
     site.use(postcss())
       .use(metas())
       .use(favicon())
