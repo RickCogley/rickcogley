@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Friday, April 24, 2026
+**Today is:**&nbsp; Saturday, April 25, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Instead of being fearful of failing a challenge, fear doing nothing."_ — Soichiro Honda
+> _"We often suffer more in imagination than in reality."_ — Seneca
 
 ### 😤 Currently: Swamped
 
@@ -39,13 +39,13 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**881** commits &nbsp;|&nbsp; **782** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**922** commits &nbsp;|&nbsp; **908** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (13) · Svelte (2) · PowerShell (1) · Python (1) · Vento (1)
 **Active repos (11):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/nexus` `eSolia/periodic` and 6 more
 ### What I'm Up To This Week
 
-**Themes:** `tech` `business`
+**Themes:** `japan` `tech`
 
 **Activity:** 0 posts, 4 articles this week
 
@@ -55,18 +55,18 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 📝 [The Soul of Japanese Shoes: Kurume, Asakusa, and a Dutch Word](https://cogley.jp/japanese-shoes) <sub>japan</sub>
+- 📝 [日本の靴のたましい：久留米の釜、浅草の錐、そしてオランダ語の物語](https://cogley.jp/japanese-shoes) <sub>japan</sub>
 - 📝 [Cloudflare Workers HTML to Markdown: Free-Plan Edition](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
 - 📝 [Cloudflare Workers無料プランでHTML→Markdown変換](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
 - 📝 [SECURITY ACTION: Japan's Free SME Security Credential](https://cogley.jp/japan-ipa-security-action-sme) <sub>business</sub>
-- 📝 [SECURITY ACTION：中小企業の無料セキュリティ制度](https://cogley.jp/japan-ipa-security-action-sme) <sub>business</sub>
-- 💬 [I have been successfully using Anthropic Claude and I like how it works....](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
 | Posts | 2260 |
-| Articles | 82 |
+| Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
 
