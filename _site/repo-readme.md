@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Monday, April 27, 2026
+**Today is:**&nbsp; Tuesday, April 28, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Science is what you know. Philosophy is what you don’t know."_ — Bertrand Russell
+> _"I do not at all believe in human freedom in the philosophical sense. Everybody acts not only under external compulsion but also in accordance with inner necessity."_ — Albert Einstein
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**871** commits &nbsp;|&nbsp; **650** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**878** commits &nbsp;|&nbsp; **542** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (13) · Svelte (2) · CSS (1) · PowerShell (1) · Vento (1)
+**Languages:** TypeScript (13) · Svelte (2) · CSS (1) · PowerShell (1) · Python (1)
 **Active repos (13):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/nexus` `eSolia/periodic` and 8 more
 ### What I'm Up To This Week
 
-**Themes:** `japan` `tech`
+**Themes:** `personal` `japan`
 
-**Activity:** 0 posts, 4 articles this week
+**Activity:** 1 posts, 2 articles this week
 
 ### Currently Reading
 
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [Just a STUNNING London Marathon result, with two sub-2-hour finishes....](https://cogley.jp) <sub>personal</sub>
 - 📝 [The Soul of Japanese Shoes: Kurume, Asakusa, and a Dutch Word](https://cogley.jp/japanese-shoes) <sub>japan</sub>
 - 📝 [日本の靴のたましい：久留米の釜、浅草の錐、そしてオランダ語の物語](https://cogley.jp/japanese-shoes) <sub>japan</sub>
 - 📝 [Cloudflare Workers HTML to Markdown: Free-Plan Edition](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
 - 📝 [Cloudflare Workers無料プランでHTML→Markdown変換](https://cogley.jp/cloudflare-workers-html-to-markdown) <sub>tech</sub>
-- 📝 [SECURITY ACTION: Japan's Free SME Security Credential](https://cogley.jp/japan-ipa-security-action-sme) <sub>business</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2260 |
+| Posts | 2261 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5051 |
+| Repo Size in KB | 5052 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.7.13 (linux x86_64) |
 | V8 Version | 14.7.173.20-rusty |
