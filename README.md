@@ -1,8 +1,8 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Tuesday, April 28, 2026
-
+**Today is:**&nbsp; Wednesday, April 29, 2026
+**It's a holiday in Japan:**&nbsp; Showa Day / 昭和の日
 ### Hi there 👋
 
 Bilingual IT consultant in Japan since 1987. Based in Yokohama, working in Tokyo.
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"I do not at all believe in human freedom in the philosophical sense. Everybody acts not only under external compulsion but also in accordance with inner necessity."_ — Albert Einstein
+> _"How slow men are in matters when they believe they have time and how swift they are when necessity drives them to it."_ — Niccolò Machiavelli
 
 ### 😤 Currently: Swamped
 
@@ -39,10 +39,10 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**878** commits &nbsp;|&nbsp; **542** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**963** commits &nbsp;|&nbsp; **638** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (13) · Svelte (2) · CSS (1) · PowerShell (1) · Python (1)
-**Active repos (13):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/nexus` `eSolia/periodic` and 8 more
+**Languages:** TypeScript (14) · Svelte (2) · CSS (1) · PowerShell (1) · Python (1)
+**Active repos (14):** `eSolia/codex` `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/nexus` `eSolia/periodic` and 9 more
 ### What I'm Up To This Week
 
 **Themes:** `personal` `japan`
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5052 |
+| Repo Size in KB | 5097 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.7.13 (linux x86_64) |
 | V8 Version | 14.7.173.20-rusty |
