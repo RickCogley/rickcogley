@@ -1,8 +1,8 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Sunday, May 3, 2026
-**It's a holiday in Japan:**&nbsp; Constitution Day / 憲法記念日
+**Today is:**&nbsp; Monday, May 4, 2026
+**It's a holiday in Japan:**&nbsp; Green Day / みどりの日
 ### Hi there 👋
 
 Bilingual IT consultant in Japan since 1987. Based in Yokohama, working in Tokyo.
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Imitation is the sincerest form of flattery that mediocrity can pay to greatness."_ — Oscar Wilde
+> _"Jack of all trades, master of none, but oftentimes better than master of one."_ — Proverb
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1095** commits &nbsp;|&nbsp; **643** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**1094** commits &nbsp;|&nbsp; **554** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (18) · Svelte (2) · CSS (2) · PowerShell (1) · Astro (1)
 **Active repos (18):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/periodic` `eSolia/nexus` and 13 more
