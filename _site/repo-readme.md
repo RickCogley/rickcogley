@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Tuesday, June 2, 2026
+**Today is:**&nbsp; Wednesday, June 3, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Great minds think alike, though fools rarely differ."_ — Proverb
+> _"The cause of freedom is not the cause of a race or a sect, a party or a class – it is the cause of humankind, the very birthright of humanity."_ — Anna Julia Cooper
 
 ### 😤 Currently: Swamped
 
@@ -39,13 +39,13 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1115** commits &nbsp;|&nbsp; **328** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**1108** commits &nbsp;|&nbsp; **315** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (15) · SCSS (2) · Svelte (2) · Bicep (1) · Vento (1)
-**Active repos (13):** `eSolia/codex` `eSolia/nexus` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/blog.esolia.pro` and 8 more
+**Active repos (13):** `eSolia/codex` `eSolia/nexus` `eSolia/esolia-2025` `eSolia/blog.esolia.pro` `RickCogley/pub-cogley` and 8 more
 ### What I'm Up To This Week
 
-**Themes:** `tech`
+**Themes:** `personal`
 
 **Activity:** 1 posts this week
 
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
-- 💬 [Is it safety to remove USB device? Is “Safely Remove Hardware and Eject Media” s...](https://cogley.jp) <sub>tech</sub>
+- 💬 [So I read in the Japan Times that APA hotels are going to expand internationally...](https://cogley.jp) <sub>personal</sub>
+- 💬 [Is it safe to remove that USB device? Is “Safely Remove Hardware and Eject Media...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Reflecting on the True Value of IT Professionals at the Heart of Tokyo Station W...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Starz “Amadeus” starring Will Sharpe and Paul Bettany was well done, and satisfy...](https://cogley.jp) <sub>personal</sub>
 - 💬 [Just a STUNNING London Marathon result, with two sub-2-hour finishes....](https://cogley.jp) <sub>personal</sub>
-- 📝 [The Soul of Japanese Shoes: Kurume, Asakusa, and a Dutch Word](https://cogley.jp/japanese-shoes) <sub>japan</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2264 |
+| Posts | 2265 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
