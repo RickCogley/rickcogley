@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Tuesday, June 23, 2026
+**Today is:**&nbsp; Wednesday, June 24, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"There can be no greater gift than that of giving one’s time and energy to help others without expecting anything in return."_ — Nelson Mandela
+> _"Imitation is the sincerest form of flattery that mediocrity can pay to greatness."_ — Oscar Wilde
 
 ### 😤 Currently: Swamped
 
@@ -39,11 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**702** commits &nbsp;|&nbsp; **297** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**647** commits &nbsp;|&nbsp; **274** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (14) · Svelte (2) · SCSS (2) · Bicep (1) · HTML (1)
-**Active repos (14):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/courier` `eSolia/nexus` and 9 more
+**Languages:** TypeScript (14) · Svelte (2) · SCSS (2) · HTML (1) · Bicep (1)
+**Active repos (14):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/courier` `eSolia/chocho` and 9 more
 ### What I'm Up To This Week
+
+**Themes:** `tech`
+
+**Activity:** 1 posts this week
 
 ### Currently Reading
 
@@ -51,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [IT Terms You Think You Know: What Is a Server? we’ll give a gentle and beginner-...](https://cogley.jp) <sub>tech</sub>
 - 💬 [So I read in the Japan Times that APA hotels are going to expand internationally...](https://cogley.jp) <sub>personal</sub>
 - 💬 [Is it safe to remove that USB device? Is “Safely Remove Hardware and Eject Media...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Reflecting on the True Value of IT Professionals at the Heart of Tokyo Station W...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Starz “Amadeus” starring Will Sharpe and Paul Bettany was well done, and satisfy...](https://cogley.jp) <sub>personal</sub>
-- 💬 [Just a STUNNING London Marathon result, with two sub-2-hour finishes....](https://cogley.jp) <sub>personal</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2265 |
+| Posts | 2266 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
