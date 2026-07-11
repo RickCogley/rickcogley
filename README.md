@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Saturday, July 11, 2026
+**Today is:**&nbsp; Sunday, July 12, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"It's probably not just by chance that I'm alone. It would be very hard for a man to live with me, unless he's terribly strong. And if he's stronger than I, I'm the one who can't live with him. … I'm neither smart nor stupid, but I don't think I'm a run-of-the-mill person. I've been in business without being a businesswoman, I've loved without being a woman made only for love. The two men I've loved, I think, will remember me, on earth or in heaven, because men always remember a woman who caused them concern and uneasiness. I've done my best, in regard to people and to life, without precepts, but with a taste for justice."_ — Coco Chanel
+> _"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."_ — Robert A. Heinlein, Time Enough for Love
 
 ### 😤 Currently: Swamped
 
@@ -39,11 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**666** commits &nbsp;|&nbsp; **366** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**647** commits &nbsp;|&nbsp; **335** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (10) · Svelte (2) · Python (1) · HTML (1) · CSS (1)
 **Active repos (10):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/pub-cogley` `eSolia/blog.esolia.pro` `eSolia/chocho` and 5 more
 ### What I'm Up To This Week
+
+**Themes:** `tech`
+
+**Activity:** 1 posts this week
 
 ### Currently Reading
 
@@ -51,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [I updated my Migrate to Svelte app to show the latest and greatest. If you're us...](https://cogley.jp) <sub>tech</sub>
 - 💬 [How to Automatically Power On a PC After a Power Outage：Dell BIOS Setting Guide ...](https://cogley.jp) <sub>tech</sub>
 - 💬 [IT Terms You Think You Know: What Is a Server? we’ll give a gentle and beginner-...](https://cogley.jp) <sub>tech</sub>
 - 💬 [So I read in the Japan Times that APA hotels are going to expand internationally...](https://cogley.jp) <sub>personal</sub>
 - 💬 [Is it safe to remove that USB device? Is “Safely Remove Hardware and Eject Media...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Reflecting on the True Value of IT Professionals at the Heart of Tokyo Station W...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2267 |
+| Posts | 2268 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
@@ -118,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5155 |
+| Repo Size in KB | 5156 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.2 (linux x86_64) |
 | V8 Version | 14.9.207.2-rusty |
