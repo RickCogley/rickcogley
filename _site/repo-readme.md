@@ -1,8 +1,8 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Sunday, July 19, 2026
-
+**Today is:**&nbsp; Monday, July 20, 2026
+**It's a holiday in Japan:**&nbsp; Marine Day / 海の日
 ### Hi there 👋
 
 Bilingual IT consultant in Japan since 1987. Based in Yokohama, working in Tokyo.
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"We often suffer more in imagination than in reality."_ — Seneca
+> _"What are you afraid of losing, when nothing in the world actually belongs to you?"_ — Marcus Aurelius
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,11 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**815** commits &nbsp;|&nbsp; **510** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**801** commits &nbsp;|&nbsp; **460** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (11) · Python (1) · HTML (1) · Svelte (1) · Bicep (1)
 **Active repos (10):** `eSolia/codex` `RickCogley/pub-cogley` `eSolia/pulse` `eSolia/chocho` `eSolia/esolia-2025` and 5 more
 ### What I'm Up To This Week
-
-**Themes:** `japan`
-
-**Activity:** 1 posts this week
 
 ### Currently Reading
 
@@ -122,7 +118,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5164 |
+| Repo Size in KB | 5165 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.3 (linux x86_64) |
 | V8 Version | 14.9.207.2-rusty |
