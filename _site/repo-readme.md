@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Saturday, August 1, 2026
+**Today is:**&nbsp; Sunday, August 2, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"The cause of freedom is not the cause of a race or a sect, a party or a class – it is the cause of humankind, the very birthright of humanity."_ — Anna Julia Cooper
+> _"I’m the governor of Minnesota, congresswoman, I’m not here to be your prop for your obsession!"_ — Tim Walz, Governor of Minnesota
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1039** commits &nbsp;|&nbsp; **446** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**972** commits &nbsp;|&nbsp; **453** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (11) · SCSS (2) · Python (1) · Svelte (1) · Bicep (1)
+**Languages:** TypeScript (11) · SCSS (2) · Python (1) · Svelte (1) · Shell (1)
 **Active repos (10):** `eSolia/codex` `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/pulse` `RickCogley/dotfiles` and 5 more
 ### What I'm Up To This Week
 
-**Themes:** `personal`
+**Themes:** `japan` `personal`
 
-**Activity:** 1 posts this week
+**Activity:** 2 posts this week
 
 ### Currently Reading
 
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [This morning at about 5:30 I drove Maru to the big park he likes for his walk....](https://cogley.jp) <sub>japan</sub>
 - 💬 [I’m sitting in the barber shop and, what, angine de poitrine is on the normal-as...](https://cogley.jp) <sub>personal</sub>
 - 💬 [Updated my Japan Shoes article to include a photo of my new weatherproof shoes f...](https://cogley.jp) <sub>japan</sub>
 - 💬 [I updated my Migrate to Svelte app to show the latest and greatest. If you're us...](https://cogley.jp) <sub>tech</sub>
 - 💬 [How to Automatically Power On a PC After a Power Outage：Dell BIOS Setting Guide ...](https://cogley.jp) <sub>tech</sub>
-- 💬 [IT Terms You Think You Know: What Is a Server? we’ll give a gentle and beginner-...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2270 |
+| Posts | 2271 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5174 |
+| Repo Size in KB | 5175 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.4 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
