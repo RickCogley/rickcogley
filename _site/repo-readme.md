@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Sunday, August 2, 2026
+**Today is:**&nbsp; Monday, August 3, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"I’m the governor of Minnesota, congresswoman, I’m not here to be your prop for your obsession!"_ — Tim Walz, Governor of Minnesota
+> _"I lived so carefully, thinking someone was watching. But the stage was empty, the audience never came."_ — Osamu Dazai
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**972** commits &nbsp;|&nbsp; **453** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**964** commits &nbsp;|&nbsp; **486** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (11) · SCSS (2) · Python (1) · Svelte (1) · Shell (1)
+**Languages:** TypeScript (11) · SCSS (2) · Svelte (1) · Shell (1) · Bicep (1)
 **Active repos (10):** `eSolia/codex` `RickCogley/pub-cogley` `eSolia/esolia-2025` `eSolia/pulse` `RickCogley/dotfiles` and 5 more
 ### What I'm Up To This Week
 
-**Themes:** `japan` `personal`
+**Themes:** `japan`
 
-**Activity:** 2 posts this week
+**Activity:** 1 posts this week
 
 ### Currently Reading
 
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5175 |
+| Repo Size in KB | 5176 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.4 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
