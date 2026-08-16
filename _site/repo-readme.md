@@ -1,8 +1,8 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Sunday, August 16, 2026
-**It's a holiday in Japan:**&nbsp; eSolia Summer Holiday / イソリア夏季休暇
+**Today is:**&nbsp; Monday, August 17, 2026
+
 ### Hi there 👋
 
 Bilingual IT consultant in Japan since 1987. Based in Yokohama, working in Tokyo.
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"What are you afraid of losing, when nothing in the world actually belongs to you?"_ — Marcus Aurelius
+> _"Science is what you know. Philosophy is what you don’t know."_ — Bertrand Russell
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**998** commits &nbsp;|&nbsp; **529** this week &nbsp;|&nbsp; 🔥 **9**-day streak
+**1020** commits &nbsp;|&nbsp; **577** this week &nbsp;|&nbsp; 🔥 **10**-day streak
 
 **Languages:** TypeScript (10) · HTML (2) · SCSS (2) · Svelte (1) · Bicep (1)
 **Active repos (10):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/dotfiles` `eSolia/blog.esolia.pro` `eSolia/pulse` and 5 more
@@ -118,7 +118,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5186 |
+| Repo Size in KB | 5187 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.5 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
