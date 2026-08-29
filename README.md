@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Friday, August 28, 2026
+**Today is:**&nbsp; Sunday, August 30, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"The cause of freedom is not the cause of a race or a sect, a party or a class – it is the cause of humankind, the very birthright of humanity."_ — Anna Julia Cooper
+> _"I lived so carefully, thinking someone was watching. But the stage was empty, the audience never came."_ — Osamu Dazai
 
 ### 😤 Currently: Swamped
 
@@ -39,10 +39,10 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1001** commits &nbsp;|&nbsp; **263** this week &nbsp;|&nbsp; 🔥 **0**-day streak
+**884** commits &nbsp;|&nbsp; **175** this week &nbsp;|&nbsp; 🔥 **23**-day streak
 
-**Languages:** TypeScript (10) · SCSS (2) · HTML (1) · Svelte (1) · Shell (1)
-**Active repos (9):** `eSolia/codex` `eSolia/esolia-2025` `RickCogley/dotfiles` `eSolia/nexus` `eSolia/pulse` and 4 more
+**Languages:** TypeScript (4) · SCSS (2) · HTML (1) · Svelte (1) · JavaScript (1)
+**Active repos (4):** `eSolia/codex` `eSolia/esolia-2025` `eSolia/nexus` `RickCogley/dotfiles`
 ### What I'm Up To This Week
 
 ### Currently Reading
