@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Saturday, September 19, 2026
+**Today is:**&nbsp; Sunday, September 20, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Imitation is the sincerest form of flattery that mediocrity can pay to greatness."_ — Oscar Wilde
+> _"Jack of all trades, master of none, but oftentimes better than master of one."_ — Proverb
 
 ### 😤 Currently: Swamped
 
@@ -39,11 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**833** commits &nbsp;|&nbsp; **304** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**906** commits &nbsp;|&nbsp; **392** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** Shell (2) · TypeScript (2) · PowerShell (1) · HTML (1) · Vento (1)
+**Languages:** TypeScript (3) · Shell (2) · PowerShell (1) · HTML (1) · Vento (1)
 **Active repos (5):** `eSolia/codex` `eSolia/blog.esolia.pro` `eSolia/nexus` `RickCogley/dotfiles` `eSolia/esolia-2025`
 ### What I'm Up To This Week
+
+**Themes:** `tech`
+
+**Activity:** 10 posts this week
 
 ### Currently Reading
 
@@ -51,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
-- 💬 [This morning at about 5:30 I drove Maru to the big park he likes for his walk....](https://cogley.jp) <sub>japan</sub>
-- 💬 [I’m sitting in the barber shop and, what, angine de poitrine is on the normal-as...](https://cogley.jp) <sub>personal</sub>
-- 💬 [Updated my Japan Shoes article to include a photo of my new weatherproof shoes f...](https://cogley.jp) <sub>japan</sub>
-- 💬 [I updated my Migrate to Svelte app to show the latest and greatest. If you're us...](https://cogley.jp) <sub>tech</sub>
-- 💬 [How to Automatically Power On a PC After a Power Outage：Dell BIOS Setting Guide ...](https://cogley.jp) <sub>tech</sub>
+- 💬 [Telework Offensive! It's not just a welfare matter; moving toward a practical te...](https://cogley.jp) <sub>tech</sub>
+- 💬 [Are you doing Clear Desk and Clear Screen? A quick security tip about the import...](https://cogley.jp) <sub>tech</sub>
+- 💬 [This Is Your First Step to Saving Time! Essential Shortcuts You Can Use Starting...](https://cogley.jp) <sub>tech</sub>
+- 💬 [Simple Maintenance Tips to keep your PC running smoothly By performing simple ma...](https://cogley.jp) <sub>tech</sub>
+- 💬 [How to Fix Outlook Calendar Sync Issues Here are some methods to help resolve ou...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2271 |
+| Posts | 2304 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
@@ -118,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5160 |
+| Repo Size in KB | 5161 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.7 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
