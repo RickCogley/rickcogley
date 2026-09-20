@@ -1,8 +1,8 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Sunday, September 20, 2026
-
+**Today is:**&nbsp; Monday, September 21, 2026
+**It's a holiday in Japan:**&nbsp; Respect for the Aged Day / 敬老の日
 ### Hi there 👋
 
 Bilingual IT consultant in Japan since 1987. Based in Yokohama, working in Tokyo.
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Jack of all trades, master of none, but oftentimes better than master of one."_ — Proverb
+> _"The blood of the covenant is thicker than the water of the womb."_ — Proverb
 
 ### 😤 Currently: Swamped
 
@@ -39,10 +39,10 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**906** commits &nbsp;|&nbsp; **392** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**908** commits &nbsp;|&nbsp; **474** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
-**Languages:** TypeScript (3) · Shell (2) · PowerShell (1) · HTML (1) · Vento (1)
-**Active repos (5):** `eSolia/codex` `eSolia/blog.esolia.pro` `eSolia/nexus` `RickCogley/dotfiles` `eSolia/esolia-2025`
+**Languages:** TypeScript (4) · Shell (2) · PowerShell (1) · HTML (1) · Vento (1)
+**Active repos (5):** `eSolia/codex` `eSolia/blog.esolia.pro` `eSolia/esolia-2025` `eSolia/nexus` `RickCogley/dotfiles`
 ### What I'm Up To This Week
 
 **Themes:** `tech`
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5161 |
+| Repo Size in KB | 5162 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.7 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
