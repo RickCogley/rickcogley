@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Monday, September 28, 2026
+**Today is:**&nbsp; Tuesday, September 29, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall."_ — Ralph Waldo Emerson, Self-Reliance
+> _"The problem with the world is that the intelligent people are full of doubt, while the stupid people are full of confidence."_ — Charles Bukowski
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1037** commits &nbsp;|&nbsp; **443** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**1036** commits &nbsp;|&nbsp; **369** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (11) · Shell (2) · PowerShell (1) · HTML (1) · CSS (1)
 **Active repos (10):** `eSolia/blog.esolia.pro` `eSolia/codex` `eSolia/esolia-2025` `eSolia/courier` `eSolia/periodic` and 5 more
@@ -47,7 +47,7 @@ _Packed schedule, minimal interruptions_
 
 **Themes:** `tech`
 
-**Activity:** 2 posts this week
+**Activity:** 1 posts this week
 
 ### Currently Reading
 
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [Understanding the runas Command - Running Apps with Another Account Without Logg...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Keyboard Layout History and the Role of Function Keys Explains the different typ...](https://cogley.jp) <sub>tech</sub>
 - 💬 [If Win + V Is Not Enough: Clipboard Managers for Windows Copy, paste, and lose i...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Telework Offensive! It's not just a welfare matter; moving toward a practical te...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Are you doing Clear Desk and Clear Screen? A quick security tip about the import...](https://cogley.jp) <sub>tech</sub>
-- 💬 [This Is Your First Step to Saving Time! Essential Shortcuts You Can Use Starting...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2306 |
+| Posts | 2307 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5169 |
+| Repo Size in KB | 5170 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.7 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
