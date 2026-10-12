@@ -1,8 +1,8 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Monday, October 12, 2026
-**It's a holiday in Japan:**&nbsp; Sports Day / スポーツの日
+**Today is:**&nbsp; Tuesday, October 13, 2026
+
 ### Hi there 👋
 
 Bilingual IT consultant in Japan since 1987. Based in Yokohama, working in Tokyo.
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"How slow men are in matters when they believe they have time and how swift they are when necessity drives them to it."_ — Niccolò Machiavelli
+> _"As I grow older, I pay less attention to what people say. I just watch what they do."_ — Andrew Carnegie
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1471** commits &nbsp;|&nbsp; **1005** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**1469** commits &nbsp;|&nbsp; **905** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (14) · Shell (2) · SCSS (2) · HTML (1) · PowerShell (1)
 **Active repos (13):** `eSolia/blog.esolia.pro` `eSolia/esolia-2025` `eSolia/codex` `eSolia/periodic` `eSolia/nexus` and 8 more
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [Stay Focused While Working from Home! How to Create a Comfortable Digital Enviro...](https://cogley.jp) <sub>tech</sub>
 - 💬 [The Hidden Dangers of Email Attachments Explains the risks of ZIP bombs and macr...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Understanding the runas Command - Running Apps with Another Account Without Logg...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Keyboard Layout History and the Role of Function Keys Explains the different typ...](https://cogley.jp) <sub>tech</sub>
 - 💬 [If Win + V Is Not Enough: Clipboard Managers for Windows Copy, paste, and lose i...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Telework Offensive! It's not just a welfare matter; moving toward a practical te...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2308 |
+| Posts | 2309 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5168 |
+| Repo Size in KB | 5178 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.7 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
