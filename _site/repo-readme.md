@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Monday, October 19, 2026
+**Today is:**&nbsp; Tuesday, October 20, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"Curiosity killed the cat, but satisfaction brought it back."_ — Proverb
+> _"Great minds think alike, though fools rarely differ."_ — Proverb
 
 ### 😤 Currently: Swamped
 
@@ -39,7 +39,7 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1425** commits &nbsp;|&nbsp; **322** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**1397** commits &nbsp;|&nbsp; **373** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (15) · Shell (2) · SCSS (2) · HTML (1) · Astro (1)
 **Active repos (13):** `eSolia/blog.esolia.pro` `eSolia/codex` `eSolia/esolia-2025` `eSolia/periodic` `eSolia/nexus` and 8 more
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [Beyond File Explorer: Better File Managers for Windows File Explorer does the ba...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Stay Focused While Working from Home! How to Create a Comfortable Digital Enviro...](https://cogley.jp) <sub>tech</sub>
 - 💬 [The Hidden Dangers of Email Attachments Explains the risks of ZIP bombs and macr...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Understanding the runas Command - Running Apps with Another Account Without Logg...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Keyboard Layout History and the Role of Function Keys Explains the different typ...](https://cogley.jp) <sub>tech</sub>
-- 💬 [If Win + V Is Not Enough: Clipboard Managers for Windows Copy, paste, and lose i...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2309 |
+| Posts | 2310 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
@@ -122,7 +122,7 @@ flowchart TD
 | Item | Value |
 | --- | --- |
 | Repo Total Files | 0 |
-| Repo Size in KB | 5183 |
+| Repo Size in KB | 5184 |
 | Lume Version | v3.2.4 |
 | Deno Version | 2.9.7 (linux x86_64) |
 | V8 Version | 15.0.245.2-rusty |
