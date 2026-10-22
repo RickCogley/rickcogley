@@ -1,7 +1,7 @@
 [![日本語](https://img.shields.io/badge/日本語-README-blue?style=flat-square)](README.ja.md) [![PGP Public Key](https://img.shields.io/badge/PGP-Public_Key-orange?style=flat-square&logo=monkey%20tie)](https://cogley.jp/pgp) [![Proven.lol Lightweight Proof](https://img.shields.io/badge/Proven.lol-Lightweight_Proof-green?style=flat-square&logo=cachet)](https://proven.lol/6265e6)
 
 **Last Updated:**&nbsp; March 23rd, 2026 at 4:52:49 PM GMT+9
-**Today is:**&nbsp; Thursday, October 22, 2026
+**Today is:**&nbsp; Friday, October 23, 2026
 
 ### Hi there 👋
 
@@ -29,7 +29,7 @@ Building web applications in TypeScript with [SvelteKit](https://svelte.dev) + [
 - [periodic.esolia.co.jp](https://periodic.esolia.co.jp) — DNS & email security monitoring. Drift detection for DMARC/SPF/DKIM and domain security (SvelteKit + Cloudflare Workers)
 - [courier.esolia.co.jp](https://courier.esolia.co.jp) — Secure file sharing with PIN protection and auto-expiry for sensitive communications (SvelteKit + Cloudflare Workers)
 
-> _"I’m the governor of Minnesota, congresswoman, I’m not here to be your prop for your obsession!"_ — Tim Walz, Governor of Minnesota
+> _"I lived so carefully, thinking someone was watching. But the stage was empty, the audience never came."_ — Osamu Dazai
 
 ### 😤 Currently: Swamped
 
@@ -39,15 +39,15 @@ _Packed schedule, minimal interruptions_
 
 ### GitHub Activity (last 30 days)
 
-**1326** commits &nbsp;|&nbsp; **337** this week &nbsp;|&nbsp; 🔥 **29**-day streak
+**1294** commits &nbsp;|&nbsp; **327** this week &nbsp;|&nbsp; 🔥 **29**-day streak
 
 **Languages:** TypeScript (15) · Shell (2) · SCSS (2) · HTML (1) · Astro (1)
-**Active repos (13):** `eSolia/codex` `eSolia/blog.esolia.pro` `eSolia/esolia-2025` `eSolia/periodic` `eSolia/nexus` and 8 more
+**Active repos (13):** `eSolia/codex` `eSolia/blog.esolia.pro` `eSolia/esolia-2025` `eSolia/periodic` `eSolia/pulse` and 8 more
 ### What I'm Up To This Week
 
 **Themes:** `tech`
 
-**Activity:** 1 posts this week
+**Activity:** 2 posts this week
 
 ### Currently Reading
 
@@ -55,17 +55,17 @@ _Packed schedule, minimal interruptions_
 
 ### Latest Posts
 
+- 💬 [Critical PHP flaws: five questions to ask your web team today Two critical PHP v...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Beyond File Explorer: Better File Managers for Windows File Explorer does the ba...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Stay Focused While Working from Home! How to Create a Comfortable Digital Enviro...](https://cogley.jp) <sub>tech</sub>
 - 💬 [The Hidden Dangers of Email Attachments Explains the risks of ZIP bombs and macr...](https://cogley.jp) <sub>tech</sub>
 - 💬 [Understanding the runas Command - Running Apps with Another Account Without Logg...](https://cogley.jp) <sub>tech</sub>
-- 💬 [Keyboard Layout History and the Role of Function Keys Explains the different typ...](https://cogley.jp) <sub>tech</sub>
 
 ### Content Stats
 
 | Type | Count |
 | --- | --- |
-| Posts | 2310 |
+| Posts | 2311 |
 | Articles | 84 |
 | Podcasts | 9 |
 | Pages | 10 |
