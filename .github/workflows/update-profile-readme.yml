@@ -41,7 +41,7 @@ jobs:
       - name: Build site
         # Run the build script from deno.json
         env:
-          API_KEY_01: ${{ secrets.PRODBKEY }}
+          API_KEY_01: ${{ secrets.DBFLEX_15331_READ_TOKEN_ESOLIA }}
         run: deno task build
 
       - name: Commit changes

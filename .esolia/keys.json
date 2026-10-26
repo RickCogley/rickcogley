@@ -1,0 +1,25 @@
+{
+  "$schema": "./keys.schema.json",
+  "version": 2,
+  "entries": [
+    {
+      "name": "DBFLEX_15331_READ_TOKEN_ESOLIA",
+      "ref": "file:DBFLEX_15331_READ_TOKEN_ESOLIA",
+      "kind": "third-party-api-key",
+      "consumers": [
+        {
+          "type": "gh-secret",
+          "scope": "repo"
+        }
+      ],
+      "rotation": {
+        "method": "manual",
+        "max_age_days": 180
+      },
+      "owner": "rickcogley",
+      "bundle": "work-on:rickcogley",
+      "added": "2026-10-26",
+      "note": "PROdb role API Read Only; profile README build reads Work Holiday"
+    }
+  ]
+}
